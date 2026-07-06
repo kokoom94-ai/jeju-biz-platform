@@ -11,7 +11,7 @@
   --ink:#232a2b; --ink-soft:#5a6664; --teal:#0e6e67; --teal-deep:#0a534e;
   --tangerine:#ef7f1a; --tangerine-soft:#fdf0e2;
   --bg:#f4f6f5; --card:#ffffff; --line:#e2e7e5;
-  --g1:#0e6e67; --g2:#2563a8; --g3:#5b5ea6; --g4:#d95f43; --g5:#6e7f3e;
+  --g1:#0e6e67; --g2:#2563a8; --g3:#5b5ea6; --g4:#d95f43; --g5:#6e7f3e; --g6:#8a6d3b;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:"Pretendard Variable",Pretendard,-apple-system,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55;-webkit-font-smoothing:antialiased}
@@ -112,6 +112,7 @@ footer{border-top:1px solid var(--line);padding:20px 0 40px;font-size:.74rem;col
       <button class="chip" data-v="3">행정·교육·의회</button>
       <button class="chip" data-v="4">일자리·복지</button>
       <button class="chip" data-v="5">협회·유관</button>
+      <button class="chip" data-v="6">기업마당</button>
     </div>
     <div class="fgroup" data-cat="company">
       <span class="flabel">대상</span>
@@ -243,7 +244,7 @@ const LABEL = {
   education:"교육·컨설팅", loan_guarantee:"융자·보증", bid:"입찰·용역",
   contest:"공모전", space:"입주·공간"
 };
-const GCOLOR = {1:"var(--g1)",2:"var(--g2)",3:"var(--g3)",4:"var(--g4)",5:"var(--g5)"};
+const GCOLOR = {1:"var(--g1)",2:"var(--g2)",3:"var(--g3)",4:"var(--g4)",5:"var(--g5)",6:"var(--g6)"};
 
 const state = { q:"", group:new Set(), company:new Set(), biz:new Set(), openOnly:true };
 let items = [];

@@ -112,6 +112,13 @@ def main():
         print(f"[{inst['id']:>12}] found={r['found']:>3} new={r['new']:>3} "
               f"{'ERR ' + str(r['errors'][:1]) if r['errors'] else ''}")
 
+    # 기업마당 API (도청·시청 등 해외IP 차단 기관 우회 수집)
+    from . import bizinfo
+    br = bizinfo.collect(db)
+    report["results"].append(br)
+    print(f"[{'bizinfo':>12}] found={br['found']:>3} new={br['new']:>3} "
+          f"{'ERR ' + str(br['errors'][:1]) if br['errors'] else ''}")
+
     housekeeping(db)
     # 정렬: 마감 임박순 → 게시일 역순
     db["items"].sort(key=lambda x: (x.get("apply_end") or "9999-12-31",

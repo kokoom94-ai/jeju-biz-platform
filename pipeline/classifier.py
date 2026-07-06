@@ -33,7 +33,7 @@ BIZ_RULES: dict[str, list[str]] = {
     "hr_support":     ["인건비", "고용지원", "일자리사업", "채용지원", "인력지원", "고용창출", "일자리 창출"],
     "distribution":   ["배분", "지정기탁", "성금", "모금회", "사랑의열매", "배분사업"],
     "education":      ["교육생 모집", "아카데미", "컨설팅", "역량강화", "양성과정", "교육 지원", "직업훈련"],
-    "loan_guarantee": ["융자", "보증", "특례보증", "이차보전", "대출"],
+    "loan_guarantee": ["융자", "특례보증", "신용보증", "보증지원", "이차보전", "정책자금 대출"],
     "space":          ["입주기업 모집", "입주 모집", "공간 지원", "입주자 모집"],
     "contest":        ["공모전", "경진대회", "아이디어 공모", "콘테스트"],
 }
@@ -81,7 +81,14 @@ def _extract_age(text: str) -> tuple[int | None, int | None]:
 def classify(title: str, body: str) -> dict:
     text = f"{title}\n{body}"
     company_types = [c for c, kws in COMPANY_RULES.items() if any(k in text for k in kws)]
-    biz_types = [b for b, kws in BIZ_RULES.items() if any(k in text for k in kws)]
+    # biz_types: 본문에는 사이트 메뉴 텍스트가 섞일 수 있어 제목 매칭을 우선하고,
+    # 본문 매칭은 키워드가 2회 이상 등장할 때만 인정 (오탐 억제)
+    biz_types = []
+    for b, kws in BIZ_RULES.items():
+        if any(k in title for k in kws):
+            biz_types.append(b)
+        elif sum(body.count(k) for k in kws) >= 2:
+            biz_types.append(b)
 
     # 제목 단서 보정
     if "입찰" in title or "용역" in title:

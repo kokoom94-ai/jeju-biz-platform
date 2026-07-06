@@ -23,9 +23,12 @@ TIMEOUT = 25
 
 # 공고성 게시글만 통과시키는 제목 필터 (노이즈 제거)
 TITLE_INCLUDE = re.compile(
-    r"공고|모집|공모|지원|입찰|용역|선정|신청|배분|기탁|교육생|참가|사업|채용"
+    r"공고|모집|공모|지원|입찰|용역|선정|신청|배분|기탁|교육생|참가|사업"
 )
-TITLE_EXCLUDE = re.compile(r"결과\s*발표|당첨자|합격자|정정\s*없음|휴무|점검\s*안내$")
+TITLE_EXCLUDE = re.compile(
+    r"결과\s*발표|당첨자|합격자|서류전형|면접\s*일정|휴무|점검\s*안내$"
+    r"|직원\s*채용|채용\s*공고|채용공고|기간제\s*(직원|근로자)|공무직"
+)
 
 
 @dataclass
@@ -49,6 +52,16 @@ def _get(url: str) -> str:
     if r.encoding and r.encoding.lower() in ("iso-8859-1", "ascii"):
         r.encoding = "utf-8"
     return r.text
+
+
+def _clean_title(t: str) -> str:
+    """게시판 링크 텍스트에 섞여 들어오는 메타 노이즈 제거."""
+    t = re.sub(r"작성자\s*[:：].*$", "", t)
+    t = re.sub(r"(첨부파일|새\s*글|new)\s*.*$", "", t, flags=re.I)
+    t = re.sub(r"조회\s*[:：]?\s*\d+.*$", "", t)
+    t = re.sub(r"\s*\d{4}[-./]\d{1,2}[-./]\d{1,2}\.?\s*$", "", t)  # 제목 끝 게시일 제거
+    t = re.sub(r"^\s*(공지|필독|\d{1,4})\s+", "", t)
+    return re.sub(r"\s{2,}", " ", t).strip()
 
 
 def _norm_date(text: str | None) -> str | None:
@@ -89,7 +102,7 @@ class StaticBoardAdapter:
             a = row.select_one(self.config.get("link_selector", "a"))
             if not a or not a.get("href"):
                 continue
-            title = a.get_text(" ", strip=True)
+            title = _clean_title(a.get_text(" ", strip=True))
             if not self._title_ok(title):
                 continue
             date_el = row.select_one(self.config.get("date_selector", ""))
@@ -108,7 +121,7 @@ class StaticBoardAdapter:
             a = row.select_one("a[href]")
             if not a:
                 continue
-            title = a.get_text(" ", strip=True)
+            title = _clean_title(a.get_text(" ", strip=True))
             if len(title) < 8 or not self._title_ok(title):
                 continue
             date = _norm_date(row.get_text(" ", strip=True))
@@ -121,7 +134,7 @@ class StaticBoardAdapter:
             a = li.select_one("a[href]")
             if not a:
                 continue
-            title = a.get_text(" ", strip=True)
+            title = _clean_title(a.get_text(" ", strip=True))
             if len(title) < 10 or not self._title_ok(title):
                 continue
             candidates.append(RawPost(
