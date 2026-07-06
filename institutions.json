@@ -5,7 +5,8 @@
     "2": "출자·출연기관",
     "3": "행정·교육·의회",
     "4": "일자리·복지·배분",
-    "5": "협회·유관단체"
+    "5": "협회·유관단체",
+    "6": "중앙부처·전국기관 (기업마당 경유)"
   },
   "institutions": [
     {
@@ -314,8 +315,8 @@
       "adapter": "static",
       "config": {},
       "verified": false,
-      "active": true,
-      "_note": "해외IP 차단 추정(Actions 러너에서 timeout) — 국내 실행 필요할 수 있음"
+      "active": false,
+      "_note": "해외IP 차단 확정 — 기업마당 API로 대체 수집 중. 국내 실행환경 확보 시 재활성화"
     },
     {
       "id": "jejusi",
@@ -454,8 +455,8 @@
       "adapter": "static",
       "config": {},
       "verified": false,
-      "active": true,
-      "_note": "해외IP 차단 추정(Actions 러너에서 timeout) — 국내 실행 필요할 수 있음"
+      "active": false,
+      "_note": "해외IP 차단 확정 — 기업마당 API로 대체 수집 중. 국내 실행환경 확보 시 재활성화"
     },
     {
       "id": "nosa",
@@ -521,8 +522,8 @@
       "adapter": "static",
       "config": {},
       "verified": false,
-      "active": true,
-      "_note": "배분/지정기탁 공고 핵심 소스"
+      "active": false,
+      "_note": "해외IP 차단 확정 — 기업마당 API로 대체 수집 중. 국내 실행환경 확보 시 재활성화"
     },
     {
       "id": "jejucf",
