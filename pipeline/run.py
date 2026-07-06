@@ -48,6 +48,11 @@ def housekeeping(db: dict):
         it["title"] = _clean_title(it["title"])
         if TITLE_EXCLUDE.search(it["title"]):
             continue  # 직원채용·합격자발표 등 소급 제거
+        OTHER = ("서울","부산","대구","인천","광주광역","대전","울산","세종","경기","강원",
+                 "충청북","충청남","충북","충남","전라북","전라남","전북","전남",
+                 "경상북","경상남","경북","경남")
+        if any(o in it.get("institution", "") for o in OTHER):
+            continue  # 타 지자체 소관 공고 소급 제거
         cleaned.append(it)
     db["items"] = cleaned
 
