@@ -1,0 +1,645 @@
+{
+  "_comment": "기관 레지스트리. adapter_config의 셀렉터는 discover.py로 자동 탐지 가능. verified=false인 기관은 최초 1회 python -m pipeline.discover <id> 실행으로 셀렉터 확정 후 verified=true로 변경.",
+  "_groups": {
+    "1": "지방공기업",
+    "2": "출자·출연기관",
+    "3": "행정·교육·의회",
+    "4": "일자리·복지·배분",
+    "5": "협회·유관단체"
+  },
+  "institutions": [
+    {
+      "id": "jto",
+      "name": "제주관광공사",
+      "short": "JTO",
+      "group": 1,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "https://www.ijto.or.kr/korean/Bd/list.php?btable=notice"
+        },
+        {
+          "label": "입찰정보",
+          "url": "https://www.ijto.or.kr/korean/Bd/list.php?btable=tender_info"
+        }
+      ],
+      "adapter": "static",
+      "config": {
+        "row_selector": "table tbody tr",
+        "link_selector": "td.title a, td a",
+        "date_selector": "td.date, td:nth-last-child(2)"
+      },
+      "verified": true,
+      "active": true
+    },
+    {
+      "id": "jpdc",
+      "name": "제주특별자치도개발공사",
+      "short": "JPDC",
+      "group": 1,
+      "boards": [
+        {
+          "label": "공지·입찰",
+          "url": "https://www.jpdc.co.kr/board/list.jpdc?boardId=BBS_0000006&menuCd=DOM_000000102001000000"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    },
+    {
+      "id": "jec",
+      "name": "제주에너지공사",
+      "short": "JEC",
+      "group": 1,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "https://www.jejuenergy.or.kr/index.php/contents/board/notice"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "jejutp",
+      "name": "제주테크노파크",
+      "short": "JTP",
+      "group": 2,
+      "boards": [
+        {
+          "label": "사업공고",
+          "url": "https://www.jejutp.or.kr/board/business"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "jba",
+      "name": "제주경제통상진흥원",
+      "short": "JBA",
+      "group": 2,
+      "boards": [
+        {
+          "label": "사업공고",
+          "url": "https://www.jba.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "jcgf",
+      "name": "제주신용보증재단",
+      "short": "제주신보",
+      "group": 2,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "https://www.jejusinbo.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    },
+    {
+      "id": "jfac",
+      "name": "제주문화예술재단",
+      "short": "JFAC",
+      "group": 2,
+      "boards": [
+        {
+          "label": "지원사업공고",
+          "url": "http://www.jfac.kr/board/list.php?bdId=business"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    },
+    {
+      "id": "jejuindie",
+      "name": "제주영상·문화산업진흥원",
+      "short": "제주콘진",
+      "group": 2,
+      "boards": [
+        {
+          "label": "사업공고",
+          "url": "https://www.jejucp.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    },
+    {
+      "id": "iccjeju",
+      "name": "제주국제컨벤션센터",
+      "short": "ICC JEJU",
+      "group": 2,
+      "boards": [
+        {
+          "label": "공지·입찰",
+          "url": "https://www.iccjeju.co.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "jri",
+      "name": "제주연구원",
+      "short": "JRI",
+      "group": 2,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "https://www.jri.re.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "jwfri",
+      "name": "제주여성가족연구원",
+      "short": "여가원",
+      "group": 2,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "https://www.jewfri.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "jikom",
+      "name": "제주한의약연구원",
+      "short": "한의약연",
+      "group": 2,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "https://www.jikom.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    },
+    {
+      "id": "jejupass",
+      "name": "제주사회서비스원",
+      "short": "사서원",
+      "group": 2,
+      "boards": [
+        {
+          "label": "공지·사업",
+          "url": "https://jejupass.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    },
+    {
+      "id": "jiles",
+      "name": "제주평생교육장학진흥원",
+      "short": "JILES",
+      "group": 2,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "https://www.jiles.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "seogwipomc",
+      "name": "서귀포의료원",
+      "short": "서귀포의료원",
+      "group": 2,
+      "boards": [
+        {
+          "label": "공고",
+          "url": "https://www.seogwipomc.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "입찰 위주. 필요 시 active=true"
+    },
+    {
+      "id": "jejumc",
+      "name": "제주의료원",
+      "short": "제주의료원",
+      "group": 2,
+      "boards": [
+        {
+          "label": "공고",
+          "url": "https://www.jejumc.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false
+    },
+    {
+      "id": "jjsports",
+      "name": "제주특별자치도체육회",
+      "short": "도체육회",
+      "group": 2,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "http://sports.jeju.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    },
+    {
+      "id": "jejudo",
+      "name": "제주특별자치도청",
+      "short": "도청",
+      "group": 3,
+      "boards": [
+        {
+          "label": "고시공고",
+          "url": "https://www.jeju.go.kr/news/bodo/list.htm"
+        },
+        {
+          "label": "공지사항",
+          "url": "https://www.jeju.go.kr/news/news/notice.htm"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true,
+      "_note": "해외IP 차단 추정(Actions 러너에서 timeout) — 국내 실행 필요할 수 있음"
+    },
+    {
+      "id": "jejusi",
+      "name": "제주시청",
+      "short": "제주시",
+      "group": 3,
+      "boards": [
+        {
+          "label": "고시공고",
+          "url": "https://www.jejusi.go.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "seogwipo",
+      "name": "서귀포시청",
+      "short": "서귀포시",
+      "group": 3,
+      "boards": [
+        {
+          "label": "고시공고",
+          "url": "https://www.seogwipo.go.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "jjedu",
+      "name": "제주특별자치도교육청",
+      "short": "교육청",
+      "group": 3,
+      "boards": [
+        {
+          "label": "고시공고",
+          "url": "https://www.jje.go.kr"
+        },
+        {
+          "label": "입찰공고",
+          "url": "https://www.jje.go.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true,
+      "_note": "위탁교육·평생교육·시설 입찰 공고 중심"
+    },
+    {
+      "id": "council",
+      "name": "제주특별자치도의회",
+      "short": "도의회",
+      "group": 3,
+      "boards": [
+        {
+          "label": "공지·입찰",
+          "url": "https://www.council.jeju.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true,
+      "_note": "연구용역·행사 입찰 중심"
+    },
+    {
+      "id": "jejunu",
+      "name": "제주대학교 (LINC·창업지원단)",
+      "short": "제주대",
+      "group": 3,
+      "boards": [
+        {
+          "label": "창업지원단",
+          "url": "https://startup.jejunu.ac.kr"
+        },
+        {
+          "label": "LINC사업단",
+          "url": "https://linc.jejunu.ac.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    },
+    {
+      "id": "ccei",
+      "name": "제주창조경제혁신센터",
+      "short": "제주창경",
+      "group": 3,
+      "boards": [
+        {
+          "label": "사업공고",
+          "url": "https://ccei.creativekorea.or.kr/jeju/custom/notice_list.do"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "jsen",
+      "name": "제주사회적경제네트워크",
+      "short": "사경네트워크",
+      "group": 3,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "http://jejusen.org"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "jsecenter",
+      "name": "제주사회적경제지원센터",
+      "short": "사경센터",
+      "group": 3,
+      "boards": [
+        {
+          "label": "공지·사업",
+          "url": "https://jejuse.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true,
+      "_note": "해외IP 차단 추정(Actions 러너에서 timeout) — 국내 실행 필요할 수 있음"
+    },
+    {
+      "id": "nosa",
+      "name": "노사발전재단 제주중장년내일센터",
+      "short": "중장년센터",
+      "group": 4,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "https://www.nosa.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "jejuwoman",
+      "name": "제주여성인력개발센터",
+      "short": "여성인력",
+      "group": 4,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "http://jejuwoman.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    },
+    {
+      "id": "jejuwelfare",
+      "name": "제주특별자치도사회복지협의회",
+      "short": "사복협",
+      "group": 4,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "http://www.jejuwelfare.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    },
+    {
+      "id": "chest",
+      "name": "제주사회복지공동모금회 (사랑의열매)",
+      "short": "사랑의열매",
+      "group": 4,
+      "boards": [
+        {
+          "label": "배분공고",
+          "url": "https://jeju.chest.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true,
+      "_note": "배분/지정기탁 공고 핵심 소스"
+    },
+    {
+      "id": "jejucf",
+      "name": "제주사회복지공동모금회 외 복지재단·자활센터",
+      "short": "복지유관",
+      "group": 4,
+      "boards": [
+        {
+          "label": "통합",
+          "url": ""
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "지역자활센터·복지재단 등 추가 확장 슬롯"
+    },
+    {
+      "id": "jta",
+      "name": "제주특별자치도관광협회",
+      "short": "관광협회",
+      "group": 5,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "https://visitjeju.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true,
+      "_note": "실제 협회 도메인 확인됨 (hijeju는 쇼핑몰)"
+    },
+    {
+      "id": "jejucci",
+      "name": "제주상공회의소",
+      "short": "상의",
+      "group": 5,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "https://jejucci.korcham.net"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "kefjeju",
+      "name": "제주특별자치도경영자총협회",
+      "short": "경총",
+      "group": 5,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "http://jejuef.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    },
+    {
+      "id": "kbizjeju",
+      "name": "중소기업중앙회 제주지역본부",
+      "short": "중기중앙회",
+      "group": 5,
+      "boards": [
+        {
+          "label": "공지사항",
+          "url": "https://www.kbiz.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": true
+    },
+    {
+      "id": "semasjeju",
+      "name": "소상공인시장진흥공단 제주센터",
+      "short": "소진공",
+      "group": 5,
+      "boards": [
+        {
+          "label": "지원사업",
+          "url": "https://www.semas.or.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    },
+    {
+      "id": "agri",
+      "name": "제주농업기술원",
+      "short": "농기원",
+      "group": 5,
+      "boards": [
+        {
+          "label": "공지·시책",
+          "url": "https://agri.jeju.kr"
+        }
+      ],
+      "adapter": "static",
+      "config": {},
+      "verified": false,
+      "active": false,
+      "_note": "도메인/경로 재확인 필요 — 확정 후 active:true"
+    }
+  ]
+}
