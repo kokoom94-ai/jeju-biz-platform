@@ -1,0 +1,243 @@
+{
+ "run_at": "2026-07-06T02:18:15",
+ "results": [
+  {
+   "institution": "jto",
+   "found": 17,
+   "new": 16,
+   "errors": []
+  },
+  {
+   "institution": "jpdc",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "공지·입찰: HTTPStatusError Client error '404 Not Found' for url 'https://www.jpdc.co.kr/board/list.jpdc?boardId=BBS_0000006&menuCd=DOM_000000102001000000'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+   ]
+  },
+  {
+   "institution": "jec",
+   "found": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "institution": "jejutp",
+   "found": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "institution": "jba",
+   "found": 17,
+   "new": 7,
+   "errors": []
+  },
+  {
+   "institution": "jcgf",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "공지사항: ConnectError [Errno -2] Name or service not known"
+   ]
+  },
+  {
+   "institution": "jfac",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "지원사업공고: RemoteProtocolError Server disconnected without sending a response."
+   ]
+  },
+  {
+   "institution": "jejuindie",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "사업공고: ConnectError [Errno -2] Name or service not known"
+   ]
+  },
+  {
+   "institution": "iccjeju",
+   "found": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "institution": "jri",
+   "found": 6,
+   "new": 4,
+   "errors": []
+  },
+  {
+   "institution": "jwfri",
+   "found": 9,
+   "new": 8,
+   "errors": []
+  },
+  {
+   "institution": "jikom",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "공지사항: ConnectError [Errno -2] Name or service not known"
+   ]
+  },
+  {
+   "institution": "jejupass",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "공지·사업: ConnectError [Errno -2] Name or service not known"
+   ]
+  },
+  {
+   "institution": "jiles",
+   "found": 18,
+   "new": 16,
+   "errors": []
+  },
+  {
+   "institution": "jjsports",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "공지사항: ConnectError [Errno -2] Name or service not known"
+   ]
+  },
+  {
+   "institution": "jejudo",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "고시공고: ConnectTimeout timed out",
+    "공지사항: ConnectTimeout timed out"
+   ]
+  },
+  {
+   "institution": "jejusi",
+   "found": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "institution": "seogwipo",
+   "found": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "institution": "jjedu",
+   "found": 30,
+   "new": 15,
+   "errors": []
+  },
+  {
+   "institution": "council",
+   "found": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "institution": "jejunu",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "창업지원단: ConnectError [Errno -2] Name or service not known",
+    "LINC사업단: ConnectError [SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1010)"
+   ]
+  },
+  {
+   "institution": "ccei",
+   "found": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "institution": "jsen",
+   "found": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "institution": "jsecenter",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "공지·사업: ConnectTimeout timed out"
+   ]
+  },
+  {
+   "institution": "nosa",
+   "found": 40,
+   "new": 23,
+   "errors": []
+  },
+  {
+   "institution": "jejuwoman",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "공지사항: ConnectError [Errno -2] Name or service not known"
+   ]
+  },
+  {
+   "institution": "jejuwelfare",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "공지사항: ConnectError [Errno -2] Name or service not known"
+   ]
+  },
+  {
+   "institution": "chest",
+   "found": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "institution": "jta",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "공지사항: ConnectError [Errno -3] Temporary failure in name resolution"
+   ]
+  },
+  {
+   "institution": "jejucci",
+   "found": 8,
+   "new": 8,
+   "errors": []
+  },
+  {
+   "institution": "kefjeju",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "공지사항: ConnectError [Errno -2] Name or service not known"
+   ]
+  },
+  {
+   "institution": "kbizjeju",
+   "found": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "institution": "semasjeju",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "지원사업: ConnectError [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)"
+   ]
+  },
+  {
+   "institution": "agri",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "공지·시책: ConnectError [Errno -5] No address associated with hostname"
+   ]
+  }
+ ]
+}
