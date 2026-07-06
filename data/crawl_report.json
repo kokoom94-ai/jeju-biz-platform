@@ -1,10 +1,10 @@
 {
- "run_at": "2026-07-06T02:18:15",
+ "run_at": "2026-07-06T02:52:34",
  "results": [
   {
    "institution": "jto",
    "found": 17,
-   "new": 16,
+   "new": 0,
    "errors": []
   },
   {
@@ -29,8 +29,8 @@
   },
   {
    "institution": "jba",
-   "found": 17,
-   "new": 7,
+   "found": 16,
+   "new": 0,
    "errors": []
   },
   {
@@ -66,13 +66,13 @@
   {
    "institution": "jri",
    "found": 6,
-   "new": 4,
+   "new": 0,
    "errors": []
   },
   {
    "institution": "jwfri",
    "found": 9,
-   "new": 8,
+   "new": 0,
    "errors": []
   },
   {
@@ -94,7 +94,7 @@
   {
    "institution": "jiles",
    "found": 18,
-   "new": 16,
+   "new": 0,
    "errors": []
   },
   {
@@ -129,7 +129,7 @@
   {
    "institution": "jjedu",
    "found": 30,
-   "new": 15,
+   "new": 0,
    "errors": []
   },
   {
@@ -170,7 +170,7 @@
   {
    "institution": "nosa",
    "found": 40,
-   "new": 23,
+   "new": 0,
    "errors": []
   },
   {
@@ -206,7 +206,7 @@
   {
    "institution": "jejucci",
    "found": 8,
-   "new": 8,
+   "new": 0,
    "errors": []
   },
   {
@@ -221,7 +221,9 @@
    "institution": "kbizjeju",
    "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "공지사항: ConnectTimeout timed out"
+   ]
   },
   {
    "institution": "semasjeju",
@@ -236,7 +238,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·시책: ConnectError [Errno -5] No address associated with hostname"
+    "공지·시책: ConnectError [Errno -3] Temporary failure in name resolution"
    ]
   }
  ]
