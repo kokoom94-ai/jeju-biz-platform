@@ -1,5 +1,5 @@
 {
- "run_at": "2026-07-06T03:19:09",
+ "run_at": "2026-07-06T03:32:57",
  "results": [
   {
    "institution": "jto",
@@ -112,14 +112,12 @@
    "institution": "chest",
    "found": 0,
    "new": 0,
-   "errors": [
-    "배분공고: ConnectTimeout timed out"
-   ]
+   "errors": []
   },
   {
    "institution": "jta",
    "found": 16,
-   "new": 16,
+   "new": 4,
    "errors": []
   },
   {
@@ -136,9 +134,11 @@
   },
   {
    "institution": "bizinfo",
-   "found": 96,
-   "new": 96,
-   "errors": []
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "ConnectTimeout: timed out"
+   ]
   }
  ]
 }
