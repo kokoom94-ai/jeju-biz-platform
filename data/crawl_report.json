@@ -1,5 +1,5 @@
 {
- "run_at": "2026-07-06T03:32:57",
+ "run_at": "2026-07-06T03:43:42",
  "results": [
   {
    "institution": "jto",
@@ -50,15 +50,6 @@
    "errors": []
   },
   {
-   "institution": "jejudo",
-   "found": 0,
-   "new": 0,
-   "errors": [
-    "고시공고: ConnectTimeout timed out",
-    "공지사항: ConnectTimeout timed out"
-   ]
-  },
-  {
    "institution": "jejusi",
    "found": 0,
    "new": 0,
@@ -95,22 +86,8 @@
    "errors": []
   },
   {
-   "institution": "jsecenter",
-   "found": 0,
-   "new": 0,
-   "errors": [
-    "공지·사업: ConnectTimeout timed out"
-   ]
-  },
-  {
    "institution": "nosa",
    "found": 40,
-   "new": 0,
-   "errors": []
-  },
-  {
-   "institution": "chest",
-   "found": 0,
    "new": 0,
    "errors": []
   },
@@ -137,7 +114,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "ConnectTimeout: timed out"
+    "3회 재시도 실패 — ConnectTimeout: timed out"
    ]
   }
  ]
