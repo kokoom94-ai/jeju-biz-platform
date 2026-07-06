@@ -39,6 +39,18 @@ def save_db(db: dict):
 
 
 def housekeeping(db: dict):
+    """마감 처리 + 기존 항목을 최신 정제 규칙으로 재정화 (규칙 개선분 소급 적용)."""
+    from .adapters import _clean_title, TITLE_EXCLUDE
+    cleaned = []
+    for it in db["items"]:
+        if it.get("sample"):
+            continue  # 시드 데이터 제거 (실데이터 확보 완료)
+        it["title"] = _clean_title(it["title"])
+        if TITLE_EXCLUDE.search(it["title"]):
+            continue  # 직원채용·합격자발표 등 소급 제거
+        cleaned.append(it)
+    db["items"] = cleaned
+
     today = date.today().isoformat()
     cutoff = (date.today() - timedelta(days=90)).isoformat()
     kept = []

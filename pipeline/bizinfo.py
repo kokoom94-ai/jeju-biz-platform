@@ -50,17 +50,25 @@ def collect(db: dict) -> dict:
     found = new = 0
     errors: list[str] = []
 
-    try:
-        r = httpx.get(API_URL, params={
-            "crtfcKey": key,
-            "dataType": "json",
-            "searchCnt": "300",
-        }, timeout=30)
-        r.raise_for_status()
-        payload = r.json()
-    except Exception as e:
+    import time
+    payload = None
+    last_err = None
+    for attempt in range(3):  # 일시 장애 대비 3회 재시도 (지수 백오프)
+        try:
+            r = httpx.get(API_URL, params={
+                "crtfcKey": key,
+                "dataType": "json",
+                "searchCnt": "300",
+            }, timeout=60)
+            r.raise_for_status()
+            payload = r.json()
+            break
+        except Exception as e:
+            last_err = f"{type(e).__name__}: {e}"
+            time.sleep(10 * (attempt + 1))
+    if payload is None:
         return {"institution": "bizinfo", "found": 0, "new": 0,
-                "errors": [f"{type(e).__name__}: {e}"]}
+                "errors": [f"3회 재시도 실패 — {last_err}"]}
 
     # 응답 구조: {"jsonArray": [...]} 형태 (필드명은 기업마당 표준)
     rows = payload.get("jsonArray") or payload.get("items") or []
@@ -77,8 +85,16 @@ def collect(db: dict) -> dict:
         if not title or not url:
             continue
 
-        # 제주 관련 공고만 채택 (도청·시청·도내기관 공고가 여기로 들어옴)
-        if not any("제주" in s for s in (org, exc, tags, title)):
+        # 타 지자체 소관 공고는 제외 (제주 기업 신청 불가)
+        OTHER_REGIONS = ("서울","부산","대구","인천","광주광역","대전","울산","세종",
+                         "경기","강원","충청북","충청남","충북","충남","전라북","전라남",
+                         "전북","전남","경상북","경상남","경북","경남")
+        if any(r in org for r in OTHER_REGIONS):
+            continue
+        # 채택 기준: 소관/수행/제목에 '제주' → 도내 공고,
+        # 그 외 중앙부처 전국공고는 해시태그에 '제주' 포함 시에만 (group 6으로 분리됨)
+        is_jeju = any("제주" in s for s in (org, exc, title))
+        if not is_jeju and "제주" not in tags:
             continue
 
         found += 1
