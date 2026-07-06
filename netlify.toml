@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+# data/announcements.json이 커밋되면 Netlify가 자동 재배포
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=600"

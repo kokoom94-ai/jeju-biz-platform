@@ -1,0 +1,476 @@
+{
+ "updated_at": "2026-07-06T01:51:05",
+ "items": [
+  {
+   "id": "bdcf69e6663e",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "제주 웰니스 관광 홍보영상 제작 용역 입찰 공고",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-07-01",
+   "summary": "협상에 의한 계약. 나라장터 공고 참조. 2026년 7월 15일까지",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": "2026-07-15",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.75,
+   "needs_review": false
+  },
+  {
+   "id": "bd28fd10577e",
+   "institution": "제주테크노파크",
+   "institution_short": "JTP",
+   "group": 2,
+   "board": "사업공고",
+   "title": "2026년 제주 스타트업 스케일업 지원사업 공고",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-06-28",
+   "summary": "도내 창업 7년 이내 기업 대상, 사업화 자금 및 컨설팅 지원. 2026년 7월 18일까지 접수",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "startup"
+   ],
+   "biz_types": [
+    "grant",
+    "education"
+   ],
+   "apply_end": "2026-07-18",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
+   "id": "07977acda42b",
+   "institution": "제주특별자치도의회",
+   "institution_short": "도의회",
+   "group": 3,
+   "board": "공지·입찰",
+   "title": "의정정책 연구용역 수행기관 입찰 공고",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-07-02",
+   "summary": "협상에 의한 계약, 제안서 제출: 2026년 7월 22일까지",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": "2026-07-22",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.75,
+   "needs_review": false
+  },
+  {
+   "id": "3b2a47b1e3fe",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "2026년 하반기 관광벤처기업 육성 지원사업 참여기업 모집 공고",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-06-30",
+   "summary": "도내 관광사업체 및 예비창업자 대상 사업화 자금 최대 3천만원 지원. 접수기간: 2026. 7. 1. ~ 2026. 7. 24.까지",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "startup",
+    "tourism"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-24",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
+   "id": "60bacd2cfd7d",
+   "institution": "제주사회적경제지원센터",
+   "institution_short": "사경센터",
+   "group": 3,
+   "board": "공지·사업",
+   "title": "사회적경제기업 판로지원 컨설팅 참여기업 모집",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-06-30",
+   "summary": "사회적기업·협동조합·마을기업·자활기업 대상. 2026년 7월 25일까지",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "social_ent",
+    "self_support",
+    "coop"
+   ],
+   "biz_types": [
+    "education"
+   ],
+   "apply_end": "2026-07-25",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
+   "id": "bf8b59b539b3",
+   "institution": "제주상공회의소",
+   "institution_short": "상의",
+   "group": 5,
+   "board": "공지사항",
+   "title": "2026 제주기업 ESG 경영 컨설팅 지원사업 모집",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-07-02",
+   "summary": "도내 중소기업 대상 ESG 진단·컨설팅 비용 지원. 2026년 7월 29일까지",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "grant",
+    "education"
+   ],
+   "apply_end": "2026-07-29",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
+   "id": "735c61540382",
+   "institution": "제주특별자치도청",
+   "institution_short": "도청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026년 제주형 청년보장제 청년 취업지원 사업 공고",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-07-01",
+   "summary": "만 19세~39세 미취업 청년 채용 기업에 인건비 지원. 2026년 7월 31일까지",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "youth"
+   ],
+   "biz_types": [
+    "hr_support"
+   ],
+   "apply_end": "2026-07-31",
+   "always_open": false,
+   "age_min": 19,
+   "age_max": 39,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
+   "id": "a6e404b5323f",
+   "institution": "제주사회복지공동모금회 (사랑의열매)",
+   "institution_short": "사랑의열매",
+   "group": 4,
+   "board": "배분공고",
+   "title": "2026년 하반기 지정기탁사업 배분 신청 공고",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-07-01",
+   "summary": "도내 사회복지법인·복지시설 대상 배분사업. 2026년 8월 14일까지 신청",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "welfare_org"
+   ],
+   "biz_types": [
+    "distribution"
+   ],
+   "apply_end": "2026-08-14",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
+   "id": "96bf9cee6632",
+   "institution": "제주경제통상진흥원",
+   "institution_short": "JBA",
+   "group": 2,
+   "board": "사업공고",
+   "title": "소상공인 온라인 판로개척 지원사업 참여기업 모집",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-06-25",
+   "summary": "도내 소상공인 대상 온라인 입점·마케팅 비용 지원. 예산 소진 시까지 상시 모집",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "small_biz"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": true,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
+   "id": "894f6f5ab431",
+   "institution": "제주신용보증재단",
+   "institution_short": "제주신보",
+   "group": 2,
+   "board": "공지사항",
+   "title": "2026 청년 소상공인 특례보증 시행 안내",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-06-20",
+   "summary": "만 19세~39세 청년 소상공인 대상 특례보증 및 이차보전. 상시 접수",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "small_biz",
+    "youth"
+   ],
+   "biz_types": [
+    "loan_guarantee"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": 19,
+   "age_max": 39,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false
+  },
+  {
+   "id": "8ad6d8258f7d",
+   "institution": "제주문화예술재단",
+   "institution_short": "JFAC",
+   "group": 2,
+   "board": "지원사업공고",
+   "title": "2026년 하반기 문화예술 지원사업 2차 공모",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-06-22",
+   "summary": "도내 예술인 및 비영리 문화단체 대상. 2026. 7. 10.까지 접수",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "nonprofit"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false
+  },
+  {
+   "id": "b3d460adeb96",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026 학교밖청소년 직업역량강화 프로그램 운영기관 공모",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-06-29",
+   "summary": "도내 비영리 법인·단체 대상 위탁 운영기관 선정. 2026. 7. 14.까지",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "nonprofit"
+   ],
+   "biz_types": [
+    "education"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false
+  },
+  {
+   "id": "b564e6a54851",
+   "institution": "제주창조경제혁신센터",
+   "institution_short": "제주창경",
+   "group": 3,
+   "board": "사업공고",
+   "title": "2026 로컬크리에이터 발굴·육성 지원사업 모집 공고",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-06-24",
+   "summary": "도내 창업기업·예비창업자 대상 사업화 자금 지원. 2026. 7. 8. 마감",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "startup"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false
+  },
+  {
+   "id": "57e05df1eea9",
+   "institution": "노사발전재단 제주중장년내일센터",
+   "institution_short": "중장년센터",
+   "group": 4,
+   "board": "공지사항",
+   "title": "중장년 재취업 지원 프로그램 참여자 모집",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-06-18",
+   "summary": "만 40세 이상 중장년 대상 전직·재취업 교육. 상시 모집",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "midlife"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": true,
+   "age_min": 40,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false
+  },
+  {
+   "id": "c20094effdea",
+   "institution": "제주여성인력개발센터",
+   "institution_short": "여성인력",
+   "group": 4,
+   "board": "공지사항",
+   "title": "여성 경력단절 예방 직업훈련 교육생 모집",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-06-26",
+   "summary": "여성 대상 직업훈련 과정. 2026. 7. 12.까지 접수",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "women"
+   ],
+   "biz_types": [
+    "education"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "여성",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false
+  },
+  {
+   "id": "1d276d7728b3",
+   "institution": "제주특별자치도관광협회",
+   "institution_short": "관광협회",
+   "group": 5,
+   "board": "공지사항",
+   "title": "회원사 대상 관광종사자 서비스 역량강화 교육 안내",
+   "url": "https://example.org/sample",
+   "posted_at": "2026-06-27",
+   "summary": "도내 관광사업체 임직원 대상 무료 교육. 2026. 7. 17.까지 신청",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "sample": true,
+   "company_types": [
+    "tourism"
+   ],
+   "biz_types": [
+    "education"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false
+  }
+ ]
+}

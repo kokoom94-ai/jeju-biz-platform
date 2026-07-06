@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>제주 지원사업 통합공고</title>
+<meta name="description" content="제주 도내 공공기관·출자출연기관·행정·복지·협회의 지원사업, 공모, 입찰, 배분 공고를 한눈에.">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+:root{
+  --ink:#232a2b; --ink-soft:#5a6664; --teal:#0e6e67; --teal-deep:#0a534e;
+  --tangerine:#ef7f1a; --tangerine-soft:#fdf0e2;
+  --bg:#f4f6f5; --card:#ffffff; --line:#e2e7e5;
+  --g1:#0e6e67; --g2:#2563a8; --g3:#5b5ea6; --g4:#d95f43; --g5:#6e7f3e;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Pretendard Variable",Pretendard,-apple-system,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:880px;margin:0 auto;padding:0 16px}
+
+/* 헤더 */
+header{background:var(--teal-deep);color:#fff;padding:26px 0 20px}
+header .wrap{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px}
+h1{font-size:1.45rem;font-weight:800;letter-spacing:-.02em}
+h1 em{font-style:normal;color:#ffce9e}
+.updated{font-size:.78rem;opacity:.75;font-variant-numeric:tabular-nums}
+
+/* 필터바 */
+.filterbar{position:sticky;top:0;z-index:10;background:rgba(244,246,245,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);padding:12px 0}
+.search{width:100%;padding:10px 14px;border:1.5px solid var(--line);border-radius:10px;font:inherit;font-size:.92rem;background:var(--card);margin-bottom:10px}
+.search:focus{outline:2px solid var(--teal);outline-offset:-1px;border-color:var(--teal)}
+.fgroup{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:7px}
+.fgroup:last-child{margin-bottom:0}
+.flabel{font-size:.72rem;font-weight:700;color:var(--ink-soft);width:52px;flex-shrink:0;letter-spacing:.02em}
+.chip{padding:5px 11px;border-radius:999px;border:1.5px solid var(--line);background:var(--card);font:inherit;font-size:.8rem;color:var(--ink-soft);cursor:pointer;transition:all .12s}
+.chip:hover{border-color:var(--teal)}
+.chip[aria-pressed="true"]{background:var(--teal);border-color:var(--teal);color:#fff;font-weight:600}
+.chip:focus-visible{outline:2px solid var(--tangerine);outline-offset:1px}
+.toggle{margin-left:auto;display:flex;align-items:center;gap:6px;font-size:.8rem;color:var(--ink-soft);cursor:pointer;user-select:none}
+.toggle input{accent-color:var(--teal);width:15px;height:15px}
+
+/* 결과 */
+.meta{padding:14px 0 4px;font-size:.82rem;color:var(--ink-soft)}
+.meta b{color:var(--teal);font-variant-numeric:tabular-nums}
+.list{display:flex;flex-direction:column;gap:10px;padding:8px 0 60px}
+.card{position:relative;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:15px 16px 13px 20px;display:block;transition:box-shadow .15s,transform .15s}
+.card::before{content:"";position:absolute;left:0;top:10px;bottom:10px;width:4px;border-radius:0 4px 4px 0;background:var(--gc,var(--teal))}
+.card:hover{box-shadow:0 3px 14px rgba(14,110,103,.13);transform:translateY(-1px)}
+.card.urgent{background:linear-gradient(0deg,var(--tangerine-soft),var(--tangerine-soft)),var(--card);border-color:#f4cfa8}
+.card-top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:5px;font-size:.74rem}
+.inst{font-weight:700;color:var(--gc,var(--teal))}
+.board{color:var(--ink-soft)}
+.dday{margin-left:auto;font-weight:800;font-variant-numeric:tabular-nums;padding:2px 9px;border-radius:999px;background:var(--bg);color:var(--ink-soft)}
+.dday.hot{background:var(--tangerine);color:#fff}
+.dday.always{background:#e4efe9;color:var(--teal)}
+.title{font-size:.98rem;font-weight:600;letter-spacing:-.01em;margin-bottom:7px}
+.tags{display:flex;flex-wrap:wrap;gap:4px}
+.tag{font-size:.68rem;padding:2px 8px;border-radius:5px;background:var(--bg);color:var(--ink-soft);border:1px solid var(--line)}
+.tag.biz{background:#eaf3f2;color:var(--teal-deep);border-color:#cfe3e1}
+.empty{text-align:center;padding:70px 0;color:var(--ink-soft)}
+.empty strong{display:block;font-size:1.05rem;color:var(--ink);margin-bottom:6px}
+
+/* 최상위 탭: 제주 / 국가 */
+.tabs{background:var(--teal-deep);padding-bottom:0}
+.tabs .wrap{display:flex;gap:4px}
+.tab{padding:9px 18px 10px;border:none;border-radius:10px 10px 0 0;background:rgba(255,255,255,.13);color:#d8e6e4;font:inherit;font-size:.88rem;font-weight:600;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--bg);color:var(--teal-deep);font-weight:800}
+.tab:focus-visible{outline:2px solid var(--tangerine);outline-offset:-2px}
+
+/* 국가 지원사업 디렉토리 */
+.natl{padding:18px 0 60px}
+.natl h2{font-size:.82rem;font-weight:800;color:var(--ink-soft);letter-spacing:.04em;margin:22px 0 10px}
+.natl h2:first-child{margin-top:6px}
+.natl-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
+.natl-card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;display:block;transition:box-shadow .15s,transform .15s}
+.natl-card:hover{box-shadow:0 3px 14px rgba(14,110,103,.13);transform:translateY(-1px);border-color:var(--teal)}
+.natl-card .nname{font-weight:700;font-size:.95rem;margin-bottom:3px}
+.natl-card .ndesc{font-size:.78rem;color:var(--ink-soft);margin-bottom:6px;line-height:1.45}
+.natl-card .nurl{font-size:.72rem;color:var(--teal);font-weight:600}
+.natl-note{font-size:.76rem;color:var(--ink-soft);background:var(--card);border:1px dashed var(--line);border-radius:10px;padding:10px 14px;margin-top:20px}
+footer{border-top:1px solid var(--line);padding:20px 0 40px;font-size:.74rem;color:var(--ink-soft)}
+@media(max-width:560px){
+  .flabel{width:100%;margin-bottom:2px}
+  h1{font-size:1.2rem}
+}
+@media(prefers-reduced-motion:reduce){.card{transition:none}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <h1>제주 지원사업 <em>통합공고</em></h1>
+    <span class="updated" id="updated"></span>
+  </div>
+</header>
+
+<nav class="tabs" role="tablist">
+  <div class="wrap">
+    <button class="tab" role="tab" id="tab-jeju" aria-selected="true">제주 지원사업</button>
+    <button class="tab" role="tab" id="tab-natl" aria-selected="false">국가 지원사업</button>
+  </div>
+</nav>
+
+<div class="filterbar" id="panel-jeju-filter">
+  <div class="wrap">
+    <input type="search" class="search" id="q" placeholder="공고 제목·기관명 검색 (예: 청년, 인건비, 관광)">
+    <div class="fgroup" data-cat="group">
+      <span class="flabel">기관</span>
+      <button class="chip" data-v="1">지방공기업</button>
+      <button class="chip" data-v="2">출자·출연</button>
+      <button class="chip" data-v="3">행정·교육·의회</button>
+      <button class="chip" data-v="4">일자리·복지</button>
+      <button class="chip" data-v="5">협회·유관</button>
+    </div>
+    <div class="fgroup" data-cat="company">
+      <span class="flabel">대상</span>
+      <button class="chip" data-v="small_biz">소상공인</button>
+      <button class="chip" data-v="youth">청년</button>
+      <button class="chip" data-v="startup">창업</button>
+      <button class="chip" data-v="tourism">관광기업</button>
+      <button class="chip" data-v="social_ent">사회적기업</button>
+      <button class="chip" data-v="coop">협동조합</button>
+      <button class="chip" data-v="self_support">자활기업</button>
+      <button class="chip" data-v="women">여성</button>
+      <button class="chip" data-v="midlife">중장년</button>
+      <button class="chip" data-v="welfare_org">복지시설·법인</button>
+      <button class="chip" data-v="nonprofit">비영리</button>
+      <button class="chip" data-v="farmer_fisher">농어업</button>
+    </div>
+    <div class="fgroup" data-cat="biz">
+      <span class="flabel">형태</span>
+      <button class="chip" data-v="grant">지원금</button>
+      <button class="chip" data-v="hr_support">인력·고용</button>
+      <button class="chip" data-v="distribution">배분·기탁</button>
+      <button class="chip" data-v="education">교육·컨설팅</button>
+      <button class="chip" data-v="loan_guarantee">융자·보증</button>
+      <button class="chip" data-v="bid">입찰·용역</button>
+      <button class="chip" data-v="contest">공모전</button>
+      <button class="chip" data-v="space">입주·공간</button>
+      <label class="toggle"><input type="checkbox" id="openOnly" checked>접수중만</label>
+    </div>
+  </div>
+</div>
+
+<main class="wrap" id="panel-jeju" role="tabpanel">
+  <p class="meta"><b id="count">0</b>건의 공고</p>
+  <div class="list" id="list"></div>
+</main>
+
+<main class="wrap natl" id="panel-natl" role="tabpanel" hidden>
+  <h2>기본정보 조회 — 내가 받을 수 있는 혜택 확인</h2>
+  <div class="natl-grid">
+    <a class="natl-card" href="https://www.gov.kr/portal/rcvfvrSvc/main" target="_blank" rel="noopener">
+      <div class="nname">보조금24</div>
+      <div class="ndesc">정부·지자체의 모든 보조금·수당·바우처를 개인 맞춤으로 한번에 조회 (정부24 내 서비스)</div>
+      <div class="nurl">gov.kr</div>
+    </a>
+    <a class="natl-card" href="https://www.bokjiro.go.kr" target="_blank" rel="noopener">
+      <div class="nname">복지로</div>
+      <div class="ndesc">복지서비스 통합 포털 — 복지시설·법인 관련 사업과 개인 복지급여 조회·신청</div>
+      <div class="nurl">bokjiro.go.kr</div>
+    </a>
+    <a class="natl-card" href="https://www.gosims.go.kr" target="_blank" rel="noopener">
+      <div class="nname">e나라도움</div>
+      <div class="ndesc">국고보조금 통합관리시스템 — 보조사업 공모 조회와 선정 후 집행·정산까지 수행</div>
+      <div class="nurl">gosims.go.kr</div>
+    </a>
+  </div>
+
+  <h2>사업운영자·창업기업 대상</h2>
+  <div class="natl-grid">
+    <a class="natl-card" href="https://www.bizinfo.go.kr" target="_blank" rel="noopener">
+      <div class="nname">기업마당</div>
+      <div class="ndesc">중소기업 지원사업 통합 공고 포털 — 부처·지자체·유관기관 사업을 매일 게시</div>
+      <div class="nurl">bizinfo.go.kr</div>
+    </a>
+    <a class="natl-card" href="https://www.k-startup.go.kr" target="_blank" rel="noopener">
+      <div class="nname">K-Startup</div>
+      <div class="ndesc">창업지원 통합 포털 — 예비창업패키지·초기창업패키지 등 창업사업 공고·신청</div>
+      <div class="nurl">k-startup.go.kr</div>
+    </a>
+    <a class="natl-card" href="https://www.kosmes.or.kr" target="_blank" rel="noopener">
+      <div class="nname">중소벤처기업진흥공단</div>
+      <div class="ndesc">정책자금 융자, 수출마케팅, 인력양성 등 중진공 직접 수행 사업</div>
+      <div class="nurl">kosmes.or.kr</div>
+    </a>
+    <a class="natl-card" href="https://www.smtech.go.kr" target="_blank" rel="noopener">
+      <div class="nname">SMTECH</div>
+      <div class="ndesc">중소기업 기술개발(R&amp;D)사업 종합관리시스템 — R&amp;D 과제 공고·신청·관리</div>
+      <div class="nurl">smtech.go.kr</div>
+    </a>
+  </div>
+
+  <h2>자금·금융·고용 지원</h2>
+  <div class="natl-grid">
+    <a class="natl-card" href="https://www.work24.go.kr" target="_blank" rel="noopener">
+      <div class="nname">고용24</div>
+      <div class="ndesc">고용장려금·직업훈련·채용지원 통합 — 사업주 인건비 지원사업 신청 창구</div>
+      <div class="nurl">work24.go.kr</div>
+    </a>
+    <a class="natl-card" href="https://www.sbiz24.kr" target="_blank" rel="noopener">
+      <div class="nname">소상공인24</div>
+      <div class="ndesc">소상공인 정책자금·지원사업 통합 신청 — 소진공 사업의 온라인 창구</div>
+      <div class="nurl">sbiz24.kr</div>
+    </a>
+    <a class="natl-card" href="https://www.kinfa.or.kr" target="_blank" rel="noopener">
+      <div class="nname">서민금융진흥원</div>
+      <div class="ndesc">미소금융 창업·운영자금 등 서민·영세 자영업자 금융지원</div>
+      <div class="nurl">kinfa.or.kr</div>
+    </a>
+    <a class="natl-card" href="https://www.kodit.co.kr" target="_blank" rel="noopener">
+      <div class="nname">신용보증기금</div>
+      <div class="ndesc">일반 중소기업 신용보증 — 담보 부족 기업의 대출 보증</div>
+      <div class="nurl">kodit.co.kr</div>
+    </a>
+    <a class="natl-card" href="https://www.kibo.or.kr" target="_blank" rel="noopener">
+      <div class="nname">기술보증기금</div>
+      <div class="ndesc">기술력 기반 보증 — 기술평가로 벤처·이노비즈 기업 자금조달 지원</div>
+      <div class="nurl">kibo.or.kr</div>
+    </a>
+  </div>
+
+  <p class="natl-note">
+    국가 사업은 위 포털들이 이미 통합 창구 역할을 하므로 크롤링 대신 바로가기로 연결합니다.
+    도내 기관이 수행하는 국가사업(예: 소진공 제주센터, 중장년내일센터)은 제주 탭에서 함께 수집됩니다.
+  </p>
+</main>
+
+<footer>
+  <div class="wrap">
+    각 기관 홈페이지 공개 공고를 매일 새벽 자동 수집·분류합니다. 신청 조건과 마감일은 반드시 원문 공고에서 확인하세요.
+  </div>
+</footer>
+
+<script>
+const LABEL = {
+  small_biz:"소상공인", youth:"청년", startup:"창업", tourism:"관광기업",
+  social_ent:"사회적기업", coop:"협동조합", self_support:"자활기업",
+  women:"여성", midlife:"중장년", welfare_org:"복지시설·법인",
+  nonprofit:"비영리", farmer_fisher:"농어업", general:"일반",
+  grant:"지원금", hr_support:"인력·고용", distribution:"배분·기탁",
+  education:"교육·컨설팅", loan_guarantee:"융자·보증", bid:"입찰·용역",
+  contest:"공모전", space:"입주·공간"
+};
+const GCOLOR = {1:"var(--g1)",2:"var(--g2)",3:"var(--g3)",4:"var(--g4)",5:"var(--g5)"};
+
+const state = { q:"", group:new Set(), company:new Set(), biz:new Set(), openOnly:true };
+let items = [];
+
+const esc = s => (s||"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function dday(it){
+  if (it.always_open) return {txt:"상시", cls:"always", sort:9998};
+  if (!it.apply_end) return {txt:"기한 확인", cls:"", sort:9999};
+  const d = Math.ceil((new Date(it.apply_end) - new Date().setHours(0,0,0,0)) / 864e5);
+  if (d < 0) return {txt:"마감", cls:"", sort:10000};
+  if (d === 0) return {txt:"오늘 마감", cls:"hot", sort:0};
+  return {txt:`D-${d}`, cls: d<=7 ? "hot" : "", sort:d};
+}
+
+function matches(it){
+  if (state.openOnly && it.status !== "open") return false;
+  if (state.openOnly && it.apply_end && new Date(it.apply_end) < new Date().setHours(0,0,0,0)) return false;
+  if (state.group.size && !state.group.has(String(it.group))) return false;
+  if (state.company.size && !it.company_types.some(t => state.company.has(t))) return false;
+  if (state.biz.size && !it.biz_types.some(t => state.biz.has(t))) return false;
+  if (state.q){
+    // 제목·기관·게시판·본문요약·태그 한글라벨·지역·성별·마감일까지 전부 검색 대상
+    const tagWords = [...it.company_types, ...it.biz_types].map(t => LABEL[t]||t).join(" ");
+    const hay = [it.title, it.institution, it.institution_short, it.board,
+                 it.summary, tagWords, it.region, it.gender, it.apply_end,
+                 it.always_open ? "상시 상시모집" : ""].join(" ").toLowerCase();
+    if (!state.q.toLowerCase().split(/\s+/).every(w => hay.includes(w))) return false;
+  }
+  return true;
+}
+
+function render(){
+  const list = document.getElementById("list");
+  const filtered = items.filter(matches)
+    .map(it => ({...it, _d: dday(it)}))
+    .sort((a,b) => a._d.sort - b._d.sort);
+  document.getElementById("count").textContent = filtered.length;
+  if (!filtered.length){
+    list.innerHTML = `<div class="empty"><strong>조건에 맞는 공고가 없습니다</strong>필터를 줄이거나 '접수중만'을 해제해 보세요.</div>`;
+    return;
+  }
+  list.innerHTML = filtered.map(it => `
+    <a class="card ${it._d.cls==='hot'?'urgent':''}" href="${esc(it.url)}" target="_blank" rel="noopener"
+       style="--gc:${GCOLOR[it.group]||'var(--teal)'}">
+      <div class="card-top">
+        <span class="inst">${esc(it.institution_short||it.institution)}</span>
+        <span class="board">${esc(it.board||"")}</span>
+        <span class="dday ${it._d.cls}">${it._d.txt}</span>
+      </div>
+      <div class="title">${esc(it.title)}</div>
+      <div class="tags">
+        ${it.biz_types.map(t=>`<span class="tag biz">${LABEL[t]||t}</span>`).join("")}
+        ${it.company_types.filter(t=>t!=="general").map(t=>`<span class="tag">${LABEL[t]||t}</span>`).join("")}
+        ${it.apply_end?`<span class="tag">~${it.apply_end.slice(5).replace("-",".")}</span>`:""}
+      </div>
+    </a>`).join("");
+}
+
+document.querySelectorAll(".fgroup").forEach(g => {
+  const cat = g.dataset.cat;
+  g.addEventListener("click", e => {
+    const chip = e.target.closest(".chip");
+    if (!chip) return;
+    const v = chip.dataset.v;
+    const set = state[cat];
+    set.has(v) ? set.delete(v) : set.add(v);
+    chip.setAttribute("aria-pressed", set.has(v));
+    render();
+  });
+});
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value.trim(); render(); });
+document.getElementById("openOnly").addEventListener("change", e => { state.openOnly = e.target.checked; render(); });
+
+// 최상위 탭 전환: 제주 ↔ 국가
+const tabJeju = document.getElementById("tab-jeju"), tabNatl = document.getElementById("tab-natl");
+function switchTab(natl){
+  tabJeju.setAttribute("aria-selected", !natl);
+  tabNatl.setAttribute("aria-selected", natl);
+  document.getElementById("panel-jeju").hidden = natl;
+  document.getElementById("panel-jeju-filter").style.display = natl ? "none" : "";
+  document.getElementById("panel-natl").hidden = !natl;
+}
+tabJeju.addEventListener("click", () => switchTab(false));
+tabNatl.addEventListener("click", () => switchTab(true));
+
+fetch("data/announcements.json?t=" + Date.now())
+  .then(r => r.json())
+  .then(db => {
+    items = db.items || [];
+    const u = db.updated_at ? new Date(db.updated_at) : null;
+    document.getElementById("updated").textContent = u
+      ? `${u.getMonth()+1}/${u.getDate()} ${String(u.getHours()).padStart(2,"0")}:${String(u.getMinutes()).padStart(2,"0")} 갱신`
+      : "";
+    render();
+  })
+  .catch(() => {
+    document.getElementById("list").innerHTML =
+      `<div class="empty"><strong>데이터를 불러오지 못했습니다</strong>data/announcements.json 경로를 확인하세요.</div>`;
+  });
+</script>
+</body>
+</html>
