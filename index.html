@@ -104,41 +104,32 @@ footer{border-top:1px solid var(--line);padding:20px 0 40px;font-size:.74rem;col
 
 <div class="filterbar" id="panel-jeju-filter">
   <div class="wrap">
-    <input type="search" class="search" id="q" placeholder="공고 제목·기관명 검색 (예: 청년, 인건비, 관광)">
+    <input type="search" class="search" id="q" placeholder="공고 제목·기관·내용 검색 (예: 청년, 인건비, 관광)">
     <div class="fgroup" data-cat="group">
       <span class="flabel">기관</span>
+      <button class="chip all" data-v="__all__" aria-pressed="true">전체</button>
+      <button class="chip" data-v="6">전국공모</button>
       <button class="chip" data-v="1">지방공기업</button>
       <button class="chip" data-v="2">출자·출연</button>
       <button class="chip" data-v="3">행정·교육·의회</button>
       <button class="chip" data-v="4">일자리·복지</button>
       <button class="chip" data-v="5">협회·유관</button>
-      <button class="chip" data-v="6">기업마당</button>
     </div>
-    <div class="fgroup" data-cat="company">
-      <span class="flabel">대상</span>
-      <button class="chip" data-v="small_biz">소상공인</button>
-      <button class="chip" data-v="youth">청년</button>
+    <div class="fgroup" data-cat="sector">
+      <span class="flabel">분야</span>
+      <button class="chip all" data-v="__all__" aria-pressed="true">전체</button>
+      <button class="chip" data-v="fund">자금지원</button>
+      <button class="chip" data-v="loan">융자·보증</button>
+      <button class="chip" data-v="tech">기술·R&amp;D</button>
+      <button class="chip" data-v="employ">인력·고용</button>
+      <button class="chip" data-v="market">수출·판로</button>
       <button class="chip" data-v="startup">창업</button>
-      <button class="chip" data-v="tourism">관광기업</button>
-      <button class="chip" data-v="social_ent">사회적기업</button>
-      <button class="chip" data-v="coop">협동조합</button>
-      <button class="chip" data-v="self_support">자활기업</button>
-      <button class="chip" data-v="women">여성</button>
-      <button class="chip" data-v="midlife">중장년</button>
-      <button class="chip" data-v="welfare_org">복지시설·법인</button>
-      <button class="chip" data-v="nonprofit">비영리</button>
-      <button class="chip" data-v="farmer_fisher">농어업</button>
-    </div>
-    <div class="fgroup" data-cat="biz">
-      <span class="flabel">형태</span>
-      <button class="chip" data-v="grant">지원금</button>
-      <button class="chip" data-v="hr_support">인력·고용</button>
-      <button class="chip" data-v="distribution">배분·기탁</button>
-      <button class="chip" data-v="education">교육·컨설팅</button>
-      <button class="chip" data-v="loan_guarantee">융자·보증</button>
-      <button class="chip" data-v="bid">입찰·용역</button>
+      <button class="chip" data-v="edu">교육·컨설팅</button>
       <button class="chip" data-v="contest">공모전</button>
+      <button class="chip" data-v="bid">입찰·용역</button>
       <button class="chip" data-v="space">입주·공간</button>
+      <button class="chip" data-v="dist">배분·기탁</button>
+      <button class="chip" data-v="etc">기타</button>
       <label class="toggle"><input type="checkbox" id="openOnly" checked>접수중만</label>
     </div>
   </div>
@@ -235,6 +226,17 @@ footer{border-top:1px solid var(--line);padding:20px 0 40px;font-size:.74rem;col
 </footer>
 
 <script>
+const SECTOR_LABEL = {
+  fund:"자금지원", loan:"융자·보증", tech:"기술·R&D", employ:"인력·고용",
+  market:"수출·판로", startup:"창업", edu:"교육·컨설팅", contest:"공모전",
+  bid:"입찰·용역", space:"입주·공간", dist:"배분·기탁", etc:"기타"
+};
+// 구버전 데이터(sectors 미부여) 폴백: biz_types → sector 매핑
+const BIZ2SECTOR = { grant:"fund", hr_support:"employ", distribution:"dist",
+  education:"edu", loan_guarantee:"loan", bid:"bid", contest:"contest", space:"space" };
+// 타 지자체 소관 공고 화면 차단 (서버 정리와 이중 방어)
+const OTHER_REGIONS = ["서울","부산","대구","인천","광주광역","대전","울산","세종","경기",
+  "강원","충청","충북","충남","전라","전북","전남","경상","경북","경남"];
 const LABEL = {
   small_biz:"소상공인", youth:"청년", startup:"창업", tourism:"관광기업",
   social_ent:"사회적기업", coop:"협동조합", self_support:"자활기업",
@@ -246,7 +248,7 @@ const LABEL = {
 };
 const GCOLOR = {1:"var(--g1)",2:"var(--g2)",3:"var(--g3)",4:"var(--g4)",5:"var(--g5)",6:"var(--g6)"};
 
-const state = { q:"", group:new Set(), company:new Set(), biz:new Set(), openOnly:true };
+const state = { q:"", group:new Set(), sector:new Set(), openOnly:true };
 let items = [];
 
 const esc = s => (s||"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -260,17 +262,22 @@ function dday(it){
   return {txt:`D-${d}`, cls: d<=7 ? "hot" : "", sort:d};
 }
 
+function sectorsOf(it){
+  if (it.sectors && it.sectors.length) return it.sectors;
+  const s = (it.biz_types||[]).map(b => BIZ2SECTOR[b]).filter(Boolean);
+  return s.length ? [...new Set(s)] : ["etc"];
+}
+
 function matches(it){
+  if (OTHER_REGIONS.some(r => (it.institution||"").includes(r))) return false;
   if (state.openOnly && it.status !== "open") return false;
   if (state.openOnly && it.apply_end && new Date(it.apply_end) < new Date().setHours(0,0,0,0)) return false;
   if (state.group.size && !state.group.has(String(it.group))) return false;
-  if (state.company.size && !it.company_types.some(t => state.company.has(t))) return false;
-  if (state.biz.size && !it.biz_types.some(t => state.biz.has(t))) return false;
+  if (state.sector.size && !sectorsOf(it).some(s => state.sector.has(s))) return false;
   if (state.q){
-    // 제목·기관·게시판·본문요약·태그 한글라벨·지역·성별·마감일까지 전부 검색 대상
-    const tagWords = [...it.company_types, ...it.biz_types].map(t => LABEL[t]||t).join(" ");
+    const tagWords = sectorsOf(it).map(s => SECTOR_LABEL[s]).join(" ");
     const hay = [it.title, it.institution, it.institution_short, it.board,
-                 it.summary, tagWords, it.region, it.gender, it.apply_end,
+                 it.summary, tagWords, it.region, it.apply_end,
                  it.always_open ? "상시 상시모집" : ""].join(" ").toLowerCase();
     if (!state.q.toLowerCase().split(/\s+/).every(w => hay.includes(w))) return false;
   }
@@ -297,9 +304,8 @@ function render(){
       </div>
       <div class="title">${esc(it.title)}</div>
       <div class="tags">
-        ${it.biz_types.map(t=>`<span class="tag biz">${LABEL[t]||t}</span>`).join("")}
-        ${it.company_types.filter(t=>t!=="general").map(t=>`<span class="tag">${LABEL[t]||t}</span>`).join("")}
-        ${it.apply_end?`<span class="tag">~${it.apply_end.slice(5).replace("-",".")}</span>`:""}
+        ${sectorsOf(it).map(s=>`<span class="tag biz">${SECTOR_LABEL[s]||s}</span>`).join("")}
+        ${it.apply_end?`<span class="tag">접수마감 ~${it.apply_end.slice(5).replace("-",".")}</span>`:""}
       </div>
     </a>`).join("");
 }
@@ -311,8 +317,16 @@ document.querySelectorAll(".fgroup").forEach(g => {
     if (!chip) return;
     const v = chip.dataset.v;
     const set = state[cat];
-    set.has(v) ? set.delete(v) : set.add(v);
-    chip.setAttribute("aria-pressed", set.has(v));
+    const allChip = g.querySelector('.chip.all');
+    if (v === "__all__") {
+      set.clear();  // 전체 = 필터 해제
+    } else {
+      set.has(v) ? set.delete(v) : set.add(v);
+    }
+    g.querySelectorAll(".chip").forEach(c => {
+      const cv = c.dataset.v;
+      c.setAttribute("aria-pressed", cv === "__all__" ? set.size === 0 : set.has(cv));
+    });
     render();
   });
 });

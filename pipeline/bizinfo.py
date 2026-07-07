@@ -99,6 +99,14 @@ def collect(db: dict) -> dict:
 
         found += 1
         if url in known_urls:
+            # 기존 수집 건도 공식 분야로 sectors 갱신 (구버전 데이터 보정)
+            from .classifier import classify_sectors as _cs
+            field = row.get("pldirSportRealmLclasCodeNm", "")
+            if field:
+                for it in db["items"]:
+                    if it["url"] == url:
+                        it["sectors"] = _cs(title, it.get("summary",""), bizinfo_field=field)
+                        break
             continue
 
         start, end, always = _parse_period(row.get("reqstBeginEndDe"))
@@ -108,6 +116,9 @@ def collect(db: dict) -> dict:
             f"분야: {row.get('pldirSportRealmLclasCodeNm', '')}",
         ]))
         cls = classify(title, body)
+        from .classifier import classify_sectors
+        cls["sectors"] = classify_sectors(title, body,
+                                          bizinfo_field=row.get("pldirSportRealmLclasCodeNm", ""))
         if end:
             cls["apply_end"] = end
         cls["always_open"] = cls.get("always_open") or always

@@ -38,6 +38,46 @@ BIZ_RULES: dict[str, list[str]] = {
     "contest":        ["공모전", "경진대회", "아이디어 공모", "콘테스트"],
 }
 
+
+# ===== 분야(sector) 체계 — UI 필터의 단일 축 =====
+SECTORS = ["fund","loan","tech","employ","market","startup","edu",
+           "contest","bid","space","dist","etc"]
+
+SECTOR_RULES: dict[str, list[str]] = {
+    "fund":    ["지원금", "보조금", "사업비 지원", "지원사업", "육성사업", "바우처", "쿠폰"],
+    "loan":    ["융자", "특례보증", "신용보증", "보증지원", "이차보전", "정책자금", "대출"],
+    "tech":    ["R&D", "기술개발", "기술지원", "특허", "지식재산", "시제품", "스마트공장", "디지털 전환"],
+    "employ":  ["인건비", "고용지원", "일자리", "채용지원", "인력지원", "고용창출", "직업훈련", "재취업"],
+    "market":  ["수출", "판로", "해외진출", "마케팅 지원", "전시회", "박람회", "입점", "온라인 판로", "내수"],
+    "startup": ["창업", "예비창업", "스타트업", "초기기업", "액셀러레이팅", "보육"],
+    "edu":     ["교육생 모집", "아카데미", "컨설팅", "역량강화", "양성과정", "교육 지원", "세미나", "설명회"],
+    "contest": ["공모전", "경진대회", "아이디어 공모", "콘테스트", "챌린지"],
+    "bid":     ["입찰", "용역", "제안서", "나라장터", "협상에 의한 계약", "구매"],
+    "space":   ["입주기업 모집", "입주 모집", "공간 지원", "입주자 모집", "사무공간"],
+    "dist":    ["배분", "지정기탁", "성금", "모금회", "사랑의열매"],
+}
+
+# 기업마당 공식 분야명 → sector 매핑
+BIZINFO_SECTOR = {"금융": "loan", "기술": "tech", "인력": "employ", "수출": "market",
+                  "내수": "market", "창업": "startup", "경영": "edu", "기타": "etc"}
+
+
+def classify_sectors(title: str, body: str, bizinfo_field: str | None = None) -> list[str]:
+    """공고의 분야 태그(다중). 기업마당 공식 분야가 있으면 최우선 반영."""
+    found: list[str] = []
+    if bizinfo_field:
+        for k, v in BIZINFO_SECTOR.items():
+            if k in bizinfo_field and v not in found:
+                found.append(v)
+    text = f"{title}\n{body}"
+    # 제목 매칭 우선, 본문은 2회 이상 등장 시 인정 (메뉴 텍스트 오탐 억제)
+    for sec, kws in SECTOR_RULES.items():
+        if sec in found:
+            continue
+        if any(k in title for k in kws) or sum(body.count(k) for k in kws) >= 2:
+            found.append(sec)
+    return found or ["etc"]
+
 DEADLINE_PATTERNS = [
     re.compile(r"(\d{4})[.\-/년]\s*(\d{1,2})[.\-/월]\s*(\d{1,2})일?\s*[(（]?[가-힣]?[)）]?\s*(?:까지|마감|限)"),
     re.compile(r"접수\s*기간[^\d]{0,20}~\s*(\d{4})[.\-/년]\s*(\d{1,2})[.\-/월]\s*(\d{1,2})"),
@@ -49,19 +89,34 @@ ALWAYS_OPEN = re.compile(r"상시\s*모집|예산\s*소진\s*시|소진시까지
 
 
 def _extract_deadline(text: str) -> tuple[str | None, bool]:
-    """(apply_end, is_always_open)"""
+    """접수 마감일 추출. 접수/신청 문맥 우선, 용역·과업기간 날짜는 배제."""
     if ALWAYS_OPEN.search(text):
         return None, True
-    for i, pat in enumerate(DEADLINE_PATTERNS):
-        m = pat.search(text)
-        if not m:
+    DATE = r"(\d{4})[.\-/년]\s*(\d{1,2})[.\-/월]\s*(\d{1,2})"
+    EXCLUDE_CTX = re.compile(r"용역\s*기간|과업|계약\s*기간|사업\s*기간|협약|수행\s*기간|납품")
+    APPLY_CTX = re.compile(r"접수|신청|제출|응모|모집\s*기간|공고\s*기간")
+
+    apply_dates, other_dates = [], []
+    for line in text.split("\n"):
+        dates = re.findall(DATE, line)
+        if not dates:
             continue
-        g = m.groups()
-        if len(g) == 3:
-            return f"{g[0]}-{int(g[1]):02d}-{int(g[2]):02d}", False
-        if len(g) == 2:  # 연도 생략 → 올해로 추정
-            y = date.today().year
-            return f"{y}-{int(g[0]):02d}-{int(g[1]):02d}", False
+        if EXCLUDE_CTX.search(line):
+            continue  # 과업·용역기간 줄의 날짜는 마감일이 아님
+        last = dates[-1]  # 기간 표기 시 마지막 날짜가 종료일
+        iso = f"{last[0]}-{int(last[1]):02d}-{int(last[2]):02d}"
+        if APPLY_CTX.search(line):
+            apply_dates.append(iso)
+        elif re.search(r"까지|마감", line):
+            other_dates.append(iso)
+    if apply_dates:
+        return apply_dates[0], False
+    if other_dates:
+        return other_dates[0], False
+    # 연도 생략형 ("~7/20 마감")
+    m = re.search(r"~\s*(\d{1,2})[./월]\s*(\d{1,2})일?\s*(?:까지|마감)", text)
+    if m:
+        return f"{date.today().year}-{int(m.group(1)):02d}-{int(m.group(2)):02d}", False
     return None, False
 
 
@@ -124,6 +179,7 @@ def classify(title: str, body: str) -> dict:
         conf -= 0.15
 
     return {
+        "sectors": classify_sectors(title, body),
         "company_types": company_types or ["general"],
         "biz_types": biz_types or ["grant"],
         "apply_end": apply_end,

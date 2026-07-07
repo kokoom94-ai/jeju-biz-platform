@@ -41,6 +41,7 @@ def save_db(db: dict):
 def housekeeping(db: dict):
     """마감 처리 + 기존 항목을 최신 정제 규칙으로 재정화 (규칙 개선분 소급 적용)."""
     from .adapters import _clean_title, TITLE_EXCLUDE
+    from .classifier import classify_sectors, _extract_deadline
     cleaned = []
     for it in db["items"]:
         if it.get("sample"):
@@ -53,6 +54,16 @@ def housekeeping(db: dict):
                  "경상북","경상남","경북","경남")
         if any(o in it.get("institution", "") for o in OTHER):
             continue  # 타 지자체 소관 공고 소급 제거
+        # 분야 소급 부여 (기업마당 건은 board로 식별해도 공식분야 미보존이므로 규칙 분류)
+        if not it.get("sectors"):
+            it["sectors"] = classify_sectors(it["title"], it.get("summary", ""))
+        # 접수마감 재추출 (기업마당 건은 API 접수기간이 정확하므로 유지)
+        if it.get("board") != "기업마당":
+            end, always = _extract_deadline(it["title"] + "\n" + it.get("summary", ""))
+            if end or always:
+                it["apply_end"], it["always_open"] = end, always
+            elif it.get("apply_end") and it["apply_end"] > "2027-06-30":
+                it["apply_end"] = None  # 1년 초과 마감 = 과업기간 오인 가능성 → 기한확인으로
         cleaned.append(it)
     db["items"] = cleaned
 
