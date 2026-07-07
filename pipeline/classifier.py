@@ -94,7 +94,7 @@ def _extract_deadline(text: str) -> tuple[str | None, bool]:
         return None, True
     DATE = r"(\d{4})[.\-/년]\s*(\d{1,2})[.\-/월]\s*(\d{1,2})"
     EXCLUDE_CTX = re.compile(r"용역\s*기간|과업|계약\s*기간|사업\s*기간|협약|수행\s*기간|납품")
-    APPLY_CTX = re.compile(r"접수|신청|제출|응모|모집\s*기간|공고\s*기간")
+    APPLY_CTX = re.compile(r"접수|신청|제출|응모|입찰\s*(?:서|참가|마감)|마감\s*일시|모집\s*기간|공고\s*기간")
 
     apply_dates, other_dates = [], []
     for line in text.split("\n"):

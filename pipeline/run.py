@@ -46,6 +46,8 @@ def housekeeping(db: dict):
     for it in db["items"]:
         if it.get("sample"):
             continue  # 시드 데이터 제거 (실데이터 확보 완료)
+        if it.get("board") != "기업마당" and it.get("ev") != 2:
+            continue  # 구버전 본문추출(네비 오염) 건 폐기 → 다음 크롤링에서 정본 재수집
         it["title"] = _clean_title(it["title"])
         if TITLE_EXCLUDE.search(it["title"]):
             continue  # 직원채용·합격자발표 등 소급 제거
@@ -113,6 +115,7 @@ def process_institution(inst: dict, db: dict) -> dict:
                 "attachments": post.attachments,
                 "status": "open",
                 "crawled_at": date.today().isoformat(),
+                "ev": 2,  # 본문추출 v2 (링크밀도 스코어링) 마커
                 **cls,
             })
             known_urls.add(post.url)

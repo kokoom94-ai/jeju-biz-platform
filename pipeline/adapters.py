@@ -159,9 +159,18 @@ class StaticBoardAdapter:
         body_sel = self.config.get("body_selector")
         body = soup.select_one(body_sel) if body_sel else None
         if body is None:
-            # 본문 추정: 텍스트가 가장 긴 div/td
-            blocks = soup.select("div, td, article, section")
-            body = max(blocks, key=lambda b: len(b.get_text(strip=True)), default=None) if blocks else None
+            # 본문 추정: 링크 밀도가 낮으면서 텍스트가 긴 블록 (네비게이션·메뉴 배제)
+            best, best_score = None, 0.0
+            for b in soup.select("div, td, article, section"):
+                text = b.get_text(" ", strip=True)
+                if len(text) < 80:
+                    continue
+                link_len = sum(len(x.get_text(strip=True)) for x in b.find_all("a"))
+                ratio = min(link_len / max(len(text), 1), 1.0)
+                score = len(text) * (1 - ratio) ** 2   # 링크 비중 높을수록 강한 감점
+                if score > best_score:
+                    best, best_score = b, score
+            body = best
         post.body_text = (body.get_text("\n", strip=True) if body else "")[:20000]
         # 첨부파일 링크 (다운로드는 하지 않고 링크만 보존 — 무예산 원칙)
         for a in soup.select("a[href*='download'], a[href*='file'], a[href$='.hwp'], a[href$='.pdf'], a[href$='.hwpx']"):
