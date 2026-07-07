@@ -1,113 +1,131 @@
 {
- "run_at": "2026-07-07T01:52:36",
+ "run_at": "2026-07-07T08:53:55",
  "results": [
   {
    "institution": "jto",
-   "found": 0,
-   "new": 0,
+   "found": 25,
+   "new": 25,
    "errors": []
   },
   {
    "institution": "jec",
    "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "공지사항: 0건 진단: 응답 149자, title='no-title', 링크 0개"
+   ]
   },
   {
    "institution": "jejutp",
    "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "사업공고: 0건 진단: 응답 66840자, title='JTP 제주테크노파크', 링크 32개"
+   ]
   },
   {
    "institution": "jba",
-   "found": 0,
-   "new": 0,
+   "found": 24,
+   "new": 4,
    "errors": []
   },
   {
    "institution": "iccjeju",
    "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "공지·입찰: 0건 진단: 응답 59자, title='no-title', 링크 0개"
+   ]
   },
   {
    "institution": "jri",
    "found": 6,
-   "new": 4,
+   "new": 0,
    "errors": []
   },
   {
    "institution": "jwfri",
    "found": 9,
-   "new": 8,
+   "new": 0,
    "errors": []
   },
   {
    "institution": "jiles",
    "found": 18,
-   "new": 16,
+   "new": 2,
    "errors": []
   },
   {
    "institution": "jejusi",
    "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "고시공고: 0건 진단: 응답 369자, title='no-title', 링크 0개"
+   ]
   },
   {
    "institution": "seogwipo",
    "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "고시공고: 0건 진단: 응답 404자, title='no-title', 링크 0개"
+   ]
   },
   {
    "institution": "jjedu",
-   "found": 30,
-   "new": 14,
+   "found": 34,
+   "new": 4,
    "errors": []
   },
   {
    "institution": "council",
    "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "공지·입찰: 0건 진단: 응답 404자, title='no-title', 링크 0개"
+   ]
   },
   {
    "institution": "ccei",
    "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "사업공고: 0건 진단: 응답 132743자, title='제주창조경제혁신센터', 링크 47개"
+   ]
   },
   {
    "institution": "jsen",
    "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "공지사항: 0건 진단: 응답 882자, title='제주사회적경제네트워크', 링크 0개"
+   ]
   },
   {
    "institution": "nosa",
    "found": 41,
-   "new": 23,
+   "new": 0,
    "errors": []
   },
   {
    "institution": "jta",
-   "found": 16,
-   "new": 16,
+   "found": 17,
+   "new": 5,
    "errors": []
   },
   {
    "institution": "jejucci",
    "found": 7,
-   "new": 7,
+   "new": 0,
    "errors": []
   },
   {
    "institution": "kbizjeju",
    "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "공지사항: 0건 진단: 응답 71자, title='no-title', 링크 0개"
+   ]
   },
   {
    "institution": "bizinfo",

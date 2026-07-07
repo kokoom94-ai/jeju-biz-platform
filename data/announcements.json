@@ -1,6 +1,150 @@
 {
- "updated_at": "2026-07-07T02:07:48",
+ "updated_at": "2026-07-07T09:05:52",
  "items": [
+  {
+   "id": "97b0ee2b7fbf",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "2026년 다국어 비짓제주 플랫폼 운영(긴급공고) <협상에 의한 계약>",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=967&p=2&lcate=",
+   "posted_at": "2026-03-30",
+   "summary": "미세먼지\n좋음\n20㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "1_285.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=967&fidx=1"
+    },
+    {
+     "name": "2_268.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=967&fidx=2"
+    },
+    {
+     "name": "3_180.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=967&fidx=3"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": "2026-04-13",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
+   "id": "2017f909f199",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "J-스타트업 육성 프로그램 운영(긴급입찰) <협상에 의한 계약>",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=972&p=1&lcate=",
+   "posted_at": "2026-05-06",
+   "summary": "미세먼지\n좋음\n20㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "1_289.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=972&fidx=1"
+    },
+    {
+     "name": "2_272.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=972&fidx=2"
+    },
+    {
+     "name": "3_184.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=972&fidx=3"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "startup",
+    "bid"
+   ],
+   "company_types": [
+    "startup",
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": "2026-05-18",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
+   "id": "07ae2f476dda",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "디지털관광증[나우다]브랜드 확산 용역 (긴급입찰) <협상에 의한 계약>",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=973&p=1&lcate=",
+   "posted_at": "2026-05-28",
+   "summary": "미세먼지\n좋음\n20㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "1_290.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=973&fidx=1"
+    },
+    {
+     "name": "2.hwpx",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=973&fidx=2"
+    },
+    {
+     "name": "3_185.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=973&fidx=3"
+    },
+    {
+     "name": "나우다 BI 가이드라인_공지용.pdf",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=973&fidx=4"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": "2026-06-08",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false
+  },
   {
    "id": "20d1348bbeb0",
    "institution": "제주여성가족연구원",
@@ -31,6 +175,52 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
+   "needs_review": false
+  },
+  {
+   "id": "3e3cf1d60ad0",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "제주관광정보센터 운영 관리 및 시스템 ASP 용역 <협상에 의한 계약>",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=975&p=1&lcate=",
+   "posted_at": "2026-06-08",
+   "summary": "미세먼지\n좋음\n20㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "1_292.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=975&fidx=1"
+    },
+    {
+     "name": "2_274.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=975&fidx=2"
+    },
+    {
+     "name": "3_187.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=975&fidx=3"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": "2026-06-29",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
    "needs_review": false
   },
   {
@@ -386,6 +576,82 @@
    ]
   },
   {
+   "id": "c4b177df1186",
+   "institution": "제주경제통상진흥원",
+   "institution_short": "JBA",
+   "group": 2,
+   "board": "사업공고",
+   "title": "기업별 수출 역량 맞춤형 마케팅 지원업",
+   "url": "https://www.jba.or.kr#menulink",
+   "posted_at": null,
+   "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "fund",
+    "employ",
+    "market",
+    "startup"
+   ],
+   "company_types": [
+    "small_biz",
+    "youth",
+    "startup",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-07",
+   "always_open": false,
+   "age_min": 19,
+   "age_max": 39,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
+   "id": "c4b177df1186",
+   "institution": "제주경제통상진흥원",
+   "institution_short": "JBA",
+   "group": 2,
+   "board": "사업공고",
+   "title": "기업별 수출 역량 맞춤형 마케팅 지원업",
+   "url": "https://www.jba.or.kr?p=2#menulink",
+   "posted_at": null,
+   "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "fund",
+    "employ",
+    "market",
+    "startup"
+   ],
+   "company_types": [
+    "small_biz",
+    "youth",
+    "startup",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-07",
+   "always_open": false,
+   "age_min": 19,
+   "age_max": 39,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
    "id": "c12660d07a00",
    "institution": "산업통상부",
    "institution_short": "산업통상부",
@@ -482,6 +748,80 @@
     "edu",
     "fund"
    ]
+  },
+  {
+   "id": "2d0bc3706555",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "(긴급)2026학년도 표선초등학교병설유치원 여름방학 중 한시적 특수교육자원봉사자 모집 재공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1474702",
+   "posted_at": "2026-07-07",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n(긴급)2026학년도 표선초등학교병설유치원 여름방학 중 한시적 특수교육자원봉사자 모집 재공고\n표선초등학교병설유치원\n31회\n2026-07-07\n마감일\n2026-07-09\n064-786-4884\n2026학년도 유치원 여름방학중 한시적 특수교육자원봉사자 모집 재공고.hwp (65 kb)\n1. 모집분야 및 인원: 특수교육자원봉사자 4명\n2. 활동기간: 2026. 7. 29. ~ 2026. 8. 18.\n",
+   "attachments": [
+    {
+     "name": "2026학년도 유치원 여름방학중 한시적 특수교육자원봉사자 모집 재공고.hwp (65 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1474702&command=update&fileSid=1403100"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-07",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true
+  },
+  {
+   "id": "5742b1150e61",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 한라초등학교 특수교육자원봉사자 추가 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1474699",
+   "posted_at": "2026-07-07",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 한라초등학교 특수교육자원봉사자 추가 모집 공고\n한라초등학교\n24회\n2026-07-07\n마감일\n2026-07-13\n064-740-9587\n2026학년도 한라초 특수교육자원봉사자 추가 모집 공고.hwp (68 kb)\n2026학년도 한라초등학교 특수학급 특수교육자원봉사자를 모집합니다.\n1. 모집인원 : 1명\n2. 봉사기간: 2026. 7. 20.~ 2027. 2. 28.(방학기간 제외)",
+   "attachments": [
+    {
+     "name": "2026학년도 한라초 특수교육자원봉사자 추가 모집 공고.hwp (68 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1474699&command=update&fileSid=1403094"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-07",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true
   },
   {
    "id": "cded57fd8c6d",
@@ -1157,6 +1497,52 @@
     "tech",
     "market"
    ]
+  },
+  {
+   "id": "95ed11c4c725",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "[재공고]제주관광정보센터 운영 관리 및 시스템 ASP 용역 <협상에 의한 계약>",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=978&p=1&lcate=",
+   "posted_at": "2026-07-02",
+   "summary": "미세먼지\n좋음\n20㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "1_295.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=978&fidx=1"
+    },
+    {
+     "name": "2_277.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=978&fidx=2"
+    },
+    {
+     "name": "3_189.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=978&fidx=3"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": "2026-07-13",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false
   },
   {
    "id": "79fa8581e83b",
@@ -4540,6 +4926,73 @@
    "needs_review": true
   },
   {
+   "id": "c1d9298d97cf",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "공공데이터 신청·활용제안",
+   "url": "https://www.ijto.or.kr/korean/index.php?cid=246",
+   "posted_at": null,
+   "summary": "미세먼지\n좋음\n20㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
+   "needs_review": true
+  },
+  {
+   "id": "3dffff6f4387",
+   "institution": "제주경제통상진흥원",
+   "institution_short": "JBA",
+   "group": 2,
+   "board": "사업공고",
+   "title": "251113제주소상공인경영지원센터, 울주군청과 공공배달앱 운영 우수사례 공유 간담회 개최",
+   "url": "https://www.jba.or.kr/bbs/board.php?bo_table=2_3_1_1&wr_id=612",
+   "posted_at": "2025-11-17",
+   "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "market"
+   ],
+   "company_types": [
+    "small_biz",
+    "startup",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.5,
+   "needs_review": true
+  },
+  {
    "id": "0efc9efdb50e",
    "institution": "제주연구원",
    "institution_short": "JRI",
@@ -4605,6 +5058,46 @@
    "age_max": 39,
    "gender": "무관",
    "region": "제주시",
+   "confidence": 0.85,
+   "needs_review": false
+  },
+  {
+   "id": "7186e7ce92cc",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "(취소공고) 2026 도전! J-스타트업 육성 및 예비트랙 운영 <협상에 의한 계약>",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=970&p=1&lcate=",
+   "posted_at": "2026-04-07",
+   "summary": "미세먼지\n좋음\n20㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "취소공고문_9.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=970&fidx=1"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "startup",
+    "bid"
+   ],
+   "company_types": [
+    "startup",
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
    "confidence": 0.85,
    "needs_review": false
   },
@@ -5692,6 +6185,42 @@
    "needs_review": true
   },
   {
+   "id": "49fe931488d7",
+   "institution": "제주경제통상진흥원",
+   "institution_short": "JBA",
+   "group": 2,
+   "board": "사업공고",
+   "title": "2026년「폐업위기 소상공인 회복지원사업」신청업체 모집 공고",
+   "url": "https://www.jba.or.kr/bbs/board.php?bo_table=2_1_1_1&wr_id=787",
+   "posted_at": "2026-07-03",
+   "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "fund",
+    "market",
+    "startup"
+   ],
+   "company_types": [
+    "small_biz",
+    "startup",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.85,
+   "needs_review": false
+  },
+  {
    "id": "8e66725ef99b",
    "institution": "산업통상부",
    "institution_short": "산업통상부",
@@ -5911,6 +6440,227 @@
    "region": "제주시",
    "confidence": 0.5,
    "needs_review": true
+  },
+  {
+   "id": "aa5665b2c73a",
+   "institution": "제주평생교육장학진흥원",
+   "institution_short": "JILES",
+   "group": 2,
+   "board": "공지사항",
+   "title": "[모집공고] 2026년 제주도민 외국어 학습비 지원 - 외국어 학원 회화과정 학습비 지원 제6기(8월) 학습자 모집 -",
+   "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=view&seq=12883",
+   "posted_at": "2026-07-07",
+   "summary": "공지사항\n제주평생교육장학진흥원을 소개합니다.\n공지사항\n유관기관 소식\n공지사항\n제  목\n2026년 제주도민 외국어 학습비 지원 - 외국어 학원 회화과정 학습비 지원 제6기(8월) 학습자 모집 -\n작성자\n관리자\n작성일\n2026-07-07\n조회수\n221 회\n분  류\n모집공고\n담당자\n관리자\n담당부서\n인재육성부\n첨  부\n공고문.pdf (257 KBytes)\n제출 서류 서식.hwp (121 KBytes)\n* 전화 외국어 학습비 지원은\n제주평생교육장학흥원에서 지정한 교육기관\n에서 진행됩니다.\n*\n선착순 모집\n",
+   "attachments": [
+    {
+     "name": "공고문.pdf (257 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12883&no=1"
+    },
+    {
+     "name": "제출 서류 서식.hwp (121 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12883&no=2"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "0ce2cbac22d6",
+   "institution": "제주평생교육장학진흥원",
+   "institution_short": "JILES",
+   "group": 2,
+   "board": "공지사항",
+   "title": "[모집공고] 2026년 제주도민 외국어 학습비 지원 - 전화 화상 외국어교육 학습비 지원 제6기(8~9월) 학습자 모집 -",
+   "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=view&seq=12882",
+   "posted_at": "2026-07-07",
+   "summary": "공지사항\n제주평생교육장학진흥원을 소개합니다.\n공지사항\n유관기관 소식\n공지사항\n제  목\n2026년 제주도민 외국어 학습비 지원 - 전화 화상 외국어교육 학습비 지원 제6기(8~9월) 학습자 모집 -\n작성자\n관리자\n작성일\n2026-07-07\n조회수\n128 회\n분  류\n모집공고\n담당자\n관리자\n담당부서\n인재육성부\n첨  부\n공고문.pdf (243 KBytes)\n제출 서류 서식.hwp (49 KBytes)\n* 전화 외국어 학습비 지원은\n제주평생교육장학흥원에서 지정한 교육기관\n에서 진행됩니다.\n*\n선착순 모집",
+   "attachments": [
+    {
+     "name": "공고문.pdf (243 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12882&no=1"
+    },
+    {
+     "name": "제출 서류 서식.hwp (49 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12882&no=2"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "e86fdab92c1c",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 광령초등학교병설유치원 방학중 방과후과정 아침돌봄 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1474705",
+   "posted_at": "2026-07-07",
+   "summary": "(63119) 제주특별자치도 제주시 문연로 5\nTel. (064) 710-0114 (09:00~18:00 / 야간·공휴일: 당직실 064-710-0600, 연중무휴)\nFax : (064) 710-0709\nCopyright(c) 2024 Jeju Special Self-Governing Provincial Office of Education. All rights reserved.",
+   "attachments": [
+    {
+     "name": "2026학년도 유치원 방학 중 아침 돌봄 인력 채용 공고.hwpx (99 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1474705&command=update&fileSid=1403109"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "2be1e95ca9cd",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "(서귀포시교육지원청 학교지원센터) 2026학년도 7월 서귀포시교육지원청 관내 초등학교 및 중학교 기간제교원 채용 지원서 접수 현황",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1474701",
+   "posted_at": "2026-07-07",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n(서귀포시교육지원청 학교지원센터) 2026학년도 7월 서귀포시교육지원청 관내 초등학교 및 중학교 기간제교원 채용 지원서 접수 현황\n서귀포시교육지원청 학교지원센터\n74회\n2026-07-07\n마감일\n2026-07-07\n064-730-8311\n2026학년도 7월 초등학교 및 중헉교 기간제교원 채용 지원서 접수현황 공고(누리집 게시).hwpx (41 kb)\n2026\n학년도\n7\n월 서귀포시교육지원청 관내",
+   "attachments": [
+    {
+     "name": "2026학년도 7월 초등학교 및 중헉교 기간제교원 채용 지원서 접수현황 공고(누리집 게시).hwpx (41 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1474701&command=update&fileSid=1403099"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "서귀포시",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "80c7d1a2e272",
+   "institution": "제주특별자치도관광협회",
+   "institution_short": "관광협회",
+   "group": 5,
+   "board": "공지사항",
+   "title": "N (사)한국관광통역안내사협회제주지부 해외연수 업체 입찰 공고 안내",
+   "url": "https://visitjeju.or.kr/comm/notice.htm?act=view&seq=59128",
+   "posted_at": "2026-07-07",
+   "summary": "서브컨텐츠\n관광이 상생으로 이어지는 모두가 행복한 제주\n커뮤니티\n공지사항\n알림마당\n타시도 인센티브지원안내\n보도자료\n동호회 활동\n관광관련문의\n홍보물신청\n채용공고\n협회동정\n홈\n커뮤니티\n공지사항\n공지사항\n주소복사\n프린트\n(사)한국관광통역안내사협회제주지부 해외연수 업체 입찰 공고 안내\n작성자: 제주관광협회\n작성일: 2026-07-07 14:24\n조회: 37\n(사)한국관광통역안내사협회제주지부에서는 관광통역안내사의 직무능력 향상 및 글로벌 견문 확대를 위한 <2026년도 관광통역안내사 해외연수>를 전단하여 ",
+   "attachments": [
+    {
+     "name": "해외연수 공고문.hwpx",
+     "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59128&no=1"
+    },
+    {
+     "name": "다운로드",
+     "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59128&no=1"
+    },
+    {
+     "name": "일정표 견본.hwpx",
+     "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59128&no=2"
+    },
+    {
+     "name": "다운로드",
+     "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59128&no=2"
+    },
+    {
+     "name": "견적서견본.xls",
+     "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59128&no=3"
+    },
+    {
+     "name": "다운로드",
+     "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59128&no=3"
+    },
+    {
+     "name": "서  약   서.hwpx",
+     "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59128&no=4"
+    },
+    {
+     "name": "다운로드",
+     "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59128&no=4"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.6,
+   "needs_review": false
   },
   {
    "id": "3309d0d0fcef",
