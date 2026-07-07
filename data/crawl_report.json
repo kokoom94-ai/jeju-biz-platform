@@ -1,9 +1,9 @@
 {
- "run_at": "2026-07-06T03:43:42",
+ "run_at": "2026-07-07T00:18:44",
  "results": [
   {
    "institution": "jto",
-   "found": 17,
+   "found": 15,
    "new": 0,
    "errors": []
   },
@@ -46,7 +46,7 @@
   {
    "institution": "jiles",
    "found": 18,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -63,8 +63,8 @@
   },
   {
    "institution": "jjedu",
-   "found": 24,
-   "new": 0,
+   "found": 30,
+   "new": 7,
    "errors": []
   },
   {
@@ -94,7 +94,7 @@
   {
    "institution": "jta",
    "found": 16,
-   "new": 4,
+   "new": 6,
    "errors": []
   },
   {
