@@ -1,9 +1,9 @@
 {
- "run_at": "2026-07-07T01:10:14",
+ "run_at": "2026-07-07T01:52:36",
  "results": [
   {
    "institution": "jto",
-   "found": 15,
+   "found": 0,
    "new": 0,
    "errors": []
   },
@@ -21,7 +21,7 @@
   },
   {
    "institution": "jba",
-   "found": 13,
+   "found": 0,
    "new": 0,
    "errors": []
   },
@@ -34,19 +34,19 @@
   {
    "institution": "jri",
    "found": 6,
-   "new": 0,
+   "new": 4,
    "errors": []
   },
   {
    "institution": "jwfri",
    "found": 9,
-   "new": 0,
+   "new": 8,
    "errors": []
   },
   {
    "institution": "jiles",
    "found": 18,
-   "new": 0,
+   "new": 16,
    "errors": []
   },
   {
@@ -63,8 +63,8 @@
   },
   {
    "institution": "jjedu",
-   "found": 32,
-   "new": 1,
+   "found": 30,
+   "new": 14,
    "errors": []
   },
   {
@@ -87,20 +87,20 @@
   },
   {
    "institution": "nosa",
-   "found": 40,
-   "new": 0,
+   "found": 41,
+   "new": 23,
    "errors": []
   },
   {
    "institution": "jta",
    "found": 16,
-   "new": 4,
+   "new": 16,
    "errors": []
   },
   {
    "institution": "jejucci",
    "found": 7,
-   "new": 0,
+   "new": 7,
    "errors": []
   },
   {
@@ -111,9 +111,11 @@
   },
   {
    "institution": "bizinfo",
-   "found": 74,
+   "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "3회 재시도 실패 — ConnectTimeout: timed out"
+   ]
   }
  ]
 }
