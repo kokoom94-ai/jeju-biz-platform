@@ -16,7 +16,9 @@ import httpx
 from bs4 import BeautifulSoup
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; JejuBizBoard/1.0; +https://github.com/OWNER/jeju-biz-platform)"
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"),
+    "Accept-Language": "ko-KR,ko;q=0.9",
 }
 REQUEST_DELAY_SEC = 3  # 기관 서버 부하 방지 (필수 유지)
 TIMEOUT = 25
@@ -82,6 +84,7 @@ class StaticBoardAdapter:
     def __init__(self, inst: dict):
         self.inst = inst
         self.config = inst.get("config") or {}
+        self.diag: str | None = None  # 0건 수집 시 원인 진단용
 
     # ---------- 목록 ----------
     def fetch_list(self, board_url: str) -> list[RawPost]:
@@ -103,6 +106,9 @@ class StaticBoardAdapter:
                 posts = self._parse_heuristic(soup, url)
             fresh = [p for p in posts if p.url not in seen]
             if not fresh:
+                if n == 1:  # 첫 페이지부터 0건 → 차단/개편 의심, 응답 특성 기록
+                    t = soup.title.get_text(strip=True) if soup.title else "no-title"
+                    self.diag = f"0건 진단: 응답 {len(html)}자, title='{t[:60]}', 링크 {len(soup.find_all('a'))}개"
                 break  # 다음 페이지가 없거나 동일 내용 반복 → 중단
             for p in fresh:
                 seen.add(p.url)

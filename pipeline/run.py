@@ -46,8 +46,6 @@ def housekeeping(db: dict):
     for it in db["items"]:
         if it.get("sample"):
             continue  # 시드 데이터 제거 (실데이터 확보 완료)
-        if it.get("board") != "기업마당" and it.get("ev") != 2:
-            continue  # 구버전 본문추출(네비 오염) 건 폐기 → 다음 크롤링에서 정본 재수집
         it["title"] = _clean_title(it["title"])
         if TITLE_EXCLUDE.search(it["title"]):
             continue  # 직원채용·합격자발표 등 소급 제거
@@ -97,6 +95,9 @@ def process_institution(inst: dict, db: dict) -> dict:
             errors.append(f"{board['label']}: {type(e).__name__} {e}")
             continue
         found += len(posts)
+        if not posts and getattr(adapter, "diag", None):
+            errors.append(f"{board['label']}: {adapter.diag}")
+            adapter.diag = None
         for post in posts:
             if post.url in known_urls:
                 continue  # ★ 증분 처리: 이미 수집된 공고는 상세 요청도 생략
