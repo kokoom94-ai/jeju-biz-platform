@@ -1,5 +1,5 @@
 {
- "run_at": "2026-07-07T00:57:04",
+ "run_at": "2026-07-07T01:10:14",
  "results": [
   {
    "institution": "jto",
@@ -21,11 +21,9 @@
   },
   {
    "institution": "jba",
-   "found": 0,
+   "found": 13,
    "new": 0,
-   "errors": [
-    "사업공고: ConnectError [Errno -3] Temporary failure in name resolution"
-   ]
+   "errors": []
   },
   {
    "institution": "iccjeju",
@@ -65,8 +63,8 @@
   },
   {
    "institution": "jjedu",
-   "found": 30,
-   "new": 0,
+   "found": 32,
+   "new": 1,
    "errors": []
   },
   {
@@ -114,7 +112,7 @@
   {
    "institution": "bizinfo",
    "found": 74,
-   "new": 14,
+   "new": 0,
    "errors": []
   }
  ]
