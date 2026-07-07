@@ -89,9 +89,18 @@ ALWAYS_OPEN = re.compile(r"상시\s*모집|예산\s*소진\s*시|소진시까지
 
 
 def _extract_deadline(text: str) -> tuple[str | None, bool]:
-    """접수 마감일 추출. 접수/신청 문맥 우선, 용역·과업기간 날짜는 배제."""
+    """접수 마감일 추출. 제목 괄호기간 > 접수/신청 문맥 > 까지/마감 순.
+    용역·과업기간 날짜는 배제."""
     if ALWAYS_OPEN.search(text):
         return None, True
+    # 최우선: 제목의 괄호 기간 표기 "(6/22~7/21)" — 공고 관행상 접수기간
+    first_line = text.split("\n", 1)[0]
+    m = re.search(r"[(（]\s*\d{1,2}\s*[./]\s*\d{1,2}\s*[~∼\-]\s*(\d{1,2})\s*[./]\s*(\d{1,2})\s*\.?\s*[)）]", first_line)
+    if m:
+        return f"{date.today().year}-{int(m.group(1)):02d}-{int(m.group(2)):02d}", False
+    m = re.search(r"[(（]\s*[~∼\-]\s*(\d{1,2})\s*[./]\s*(\d{1,2})\s*\.?\s*[)）]", first_line)  # "(~7/21)" 형태
+    if m:
+        return f"{date.today().year}-{int(m.group(1)):02d}-{int(m.group(2)):02d}", False
     DATE = r"(\d{4})[.\-/년]\s*(\d{1,2})[.\-/월]\s*(\d{1,2})"
     EXCLUDE_CTX = re.compile(r"용역\s*기간|과업|계약\s*기간|사업\s*기간|협약|수행\s*기간|납품")
     APPLY_CTX = re.compile(r"접수|신청|제출|응모|입찰\s*(?:서|참가|마감)|마감\s*일시|모집\s*기간|공고\s*기간")

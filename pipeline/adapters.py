@@ -85,16 +85,29 @@ class StaticBoardAdapter:
 
     # ---------- 목록 ----------
     def fetch_list(self, board_url: str) -> list[RawPost]:
-        html = _get(board_url)
-        soup = BeautifulSoup(html, "lxml")
-
-        row_sel = self.config.get("row_selector")
-        if row_sel:
-            posts = self._parse_with_config(soup, board_url)
-            if posts:
-                return posts
-        # config 미지정 또는 파싱 실패 → 휴리스틱 폴백
-        return self._parse_heuristic(soup, board_url)
+        pages = int(self.config.get("pages", 1))
+        param = self.config.get("page_param", "p")
+        all_posts: list[RawPost] = []
+        seen: set[str] = set()
+        for n in range(1, pages + 1):
+            url = board_url if n == 1 else (
+                f"{board_url}{'&' if '?' in board_url else '?'}{param}={n}")
+            try:
+                html = _get(url)
+            except Exception:
+                break
+            soup = BeautifulSoup(html, "lxml")
+            row_sel = self.config.get("row_selector")
+            posts = self._parse_with_config(soup, url) if row_sel else []
+            if not posts:
+                posts = self._parse_heuristic(soup, url)
+            fresh = [p for p in posts if p.url not in seen]
+            if not fresh:
+                break  # 다음 페이지가 없거나 동일 내용 반복 → 중단
+            for p in fresh:
+                seen.add(p.url)
+            all_posts.extend(fresh)
+        return all_posts
 
     def _parse_with_config(self, soup, base_url) -> list[RawPost]:
         posts = []
@@ -105,7 +118,8 @@ class StaticBoardAdapter:
             title = _clean_title(a.get_text(" ", strip=True))
             if not self._title_ok(title):
                 continue
-            date_el = row.select_one(self.config.get("date_selector", ""))
+            date_sel = self.config.get("date_selector")
+            date_el = row.select_one(date_sel) if date_sel else None
             posts.append(RawPost(
                 title=title,
                 url=urljoin(base_url, a["href"]),
