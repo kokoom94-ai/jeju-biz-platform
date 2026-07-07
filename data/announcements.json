@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-07T00:25:32",
+ "updated_at": "2026-07-07T00:59:26",
  "items": [
   {
    "id": "f224c1e4cea9",
@@ -30,7 +30,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "6121ebb9908d",
@@ -77,7 +80,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "cd939d594249",
@@ -126,7 +132,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "44cfd59ff80e",
@@ -154,7 +163,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "3b224d3ecdd8",
@@ -183,7 +195,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "b1e575349f02",
@@ -213,7 +228,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "tech"
+   ]
   },
   {
    "id": "5d552e38d0ba",
@@ -241,7 +259,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "startup"
+   ]
   },
   {
    "id": "0c24e6a381af",
@@ -274,7 +295,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "c12660d07a00",
@@ -303,7 +327,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund",
+    "tech"
+   ]
   },
   {
    "id": "6d4d812717de",
@@ -331,7 +359,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "1b2a20089726",
@@ -361,7 +392,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu",
+    "fund"
+   ]
   },
   {
    "id": "cded57fd8c6d",
@@ -389,7 +424,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund"
+   ]
   },
   {
    "id": "cb7f7889ceed",
@@ -418,7 +456,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "22bae0f30c92",
@@ -446,7 +487,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "d227d0585403",
@@ -474,7 +518,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "7b083841919f",
@@ -502,7 +549,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "tech"
+   ]
   },
   {
    "id": "ea6c9bb937a9",
@@ -532,7 +582,12 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "market",
+    "fund",
+    "edu"
+   ]
   },
   {
    "id": "52f1bbe29b2c",
@@ -560,7 +615,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "d9711f029bc0",
@@ -589,7 +647,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "tech"
+   ]
   },
   {
    "id": "6820afa4cc9a",
@@ -617,7 +678,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "tech"
+   ]
   },
   {
    "id": "8b2adebdd92b",
@@ -645,7 +709,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "tech",
+    "fund"
+   ]
   },
   {
    "id": "ebc2d62ade03",
@@ -674,7 +742,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu",
+    "tech"
+   ]
   },
   {
    "id": "bf7361c594d7",
@@ -702,7 +774,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "loan"
+   ]
   },
   {
    "id": "0a5b604dce1f",
@@ -730,7 +805,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market",
+    "fund"
+   ]
   },
   {
    "id": "be9f5af6c124",
@@ -758,7 +837,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu",
+    "startup"
+   ]
   },
   {
    "id": "92bf1cd9fb2b",
@@ -788,7 +871,138 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
+  },
+  {
+   "id": "fcde0073a094",
+   "institution": "농림축산식품부",
+   "institution_short": "농림축산식품부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 온라인 인력지원(코디네이터) 참가기업 모집 추가 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124016",
+   "posted_at": "2026-07-06",
+   "summary": "<p>한국농수산식품유통공사(aT)는 국내 유망 농식품기업의 해외 온라인시장 진출 활성화를 위해 글로벌 온라인 마케팅 전담인력 지원사업을 추진하고자 하오니 참가를 희망하는 기업의 많은 신청 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 해외 온라인몰 점포(계정) 운영(예정) 중견ㆍ중소 농식품기업<br></p><p style=\"line-height: 1.8;\">-&nbsp;점포(계정) : 신청기업의 국내법인(또는 위탁운영업체) 명의로 온라인B2B․B2C 플",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "market",
+    "employ"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "hr_support"
+   ],
+   "apply_end": "2026-07-10",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
    "needs_review": false
+  },
+  {
+   "id": "6c2a36a42a2e",
+   "institution": "지식재산처",
+   "institution_short": "지식재산처",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 2차 수출 도전기업 IP위험 대응역량 강화사업 위험대응 유형 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124012",
+   "posted_at": "2026-07-06",
+   "summary": "<p>수출 도전기업의 안정적인 해외진출과 수출활성화 도모를 위한 「수출 도전기업 IP위험 대응역량 강화사업」위험대응 유형 2차 모집을 다음과 같이 공고합니다.</p><p><br></p><p>☞&nbsp;위험진단 유형 지원기업</p><p><br></p><p style=\"line-height: 1.8;\">☞ 위험진단에서 확인된 IP위험을 해소하는 대응전략 지원</p>",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "market",
+    "tech"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-10",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "8b03fcf0beca",
+   "institution": "과학기술정보통신부",
+   "institution_short": "과학기술정보통신부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 하반기 원자력정책연구사업 재공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123979",
+   "posted_at": "2026-07-06",
+   "summary": "<p>과학기술정보통신부는 국가원자력정책 개발과 제도개선 등에 활용하고자 원자력 정책연구사업을 추진하고 있습니다. 이와 관련하여 2026년도 하반기 원자력정책연구사업으로 다음 과제를 재공모하오니 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8; margin-left: 0px;\">☞「원자력진흥법」제12조제1항,「국가연구개발혁신법」제2조제3항에 의거한 기관 및 단체</p><p style=\"line-height: 1.8; margin-left: 0px;",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "tech"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-10",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "a791eb136983",
+   "institution": "산림청",
+   "institution_short": "산림청",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 1차 민간 산림복지 창업ㆍ성장 패키지 FOR SEED(예비창업 패키지) 참여기업 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123969",
+   "posted_at": "2026-07-06",
+   "summary": "<p>한국산림복지진흥원(이하 ‘진흥원’)에서는 민간 산림복지 분야 아이디어 사업화 지원을 통해 다양한 산림복지서비스 유형을 발굴하고 관련 기업의 시장 경쟁력을 확보하고자 다음과 같이 공고합니다.</p><p><br></p><p>☞&nbsp;산림복지전문업 창업에 관심이 있는 예비창업자 또는 사업자 등록 5년 미만 기업 중 산림복지전문업 미등록 기업</p><p><br></p><p style=\"line-height: 1.8;\">☞ 역량진단, 창업교육, 멘토링, IR 피드백, IR 피칭덱 디자인, 포상 지",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "startup"
+   ],
+   "company_types": [
+    "startup",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-11",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
+   "needs_review": true
   },
   {
    "id": "4704590ef69a",
@@ -817,7 +1031,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "tech",
+    "market"
+   ]
   },
   {
    "id": "79fa8581e83b",
@@ -835,6 +1053,40 @@
    "company_types": [
     "small_biz",
     "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-13",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
+  },
+  {
+   "id": "8dd8a65ebda6",
+   "institution": "산림청",
+   "institution_short": "산림청",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 1차 민간 산림복지 창업ㆍ성장 패키지 FOR RESTART(재기지원 패키지) 참여기업 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123971",
+   "posted_at": "2026-07-06",
+   "summary": "<p>한국산림복지진흥원(이하 ‘진흥원’)에서는 민간 산림복지 분야 아이디어 사업화 지원을 통해 다양한 산림복지서비스 유형을 발굴하고 관련 기업의 시장 경쟁력을 확보하고자 다음과 같이 공고합니다.</p><p><br></p><p>☞&nbsp;산림복지 분야 실패 경험을 보유한 예비ㆍ초기 재창업자</p><p><br></p><p style=\"line-height: 1.8;\">☞ 사전진단, 기본교육, 사업비 지원, 심화교육, 사업화관리 지원</p><p style=\"line-height: 1.8;\">- 실패 ",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "startup"
+   ],
+   "company_types": [
+    "startup"
    ],
    "biz_types": [
     "grant"
@@ -874,7 +1126,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "contest"
+   ]
   },
   {
    "id": "46e1b90cdb60",
@@ -902,7 +1157,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "b47041d96903",
@@ -931,7 +1189,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund",
+    "market"
+   ]
   },
   {
    "id": "5b923ed88022",
@@ -959,7 +1221,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "tech"
+   ]
   },
   {
    "id": "80cf4e19681b",
@@ -988,7 +1253,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "tech"
+   ]
   },
   {
    "id": "07d1be7f1449",
@@ -1017,7 +1285,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "tech"
+   ]
   },
   {
    "id": "6f8b6a699126",
@@ -1045,7 +1316,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "8800516df5d8",
@@ -1074,7 +1348,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "tech",
+    "fund"
+   ]
   },
   {
    "id": "084ded0448f3",
@@ -1102,7 +1380,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "bb1311f304b5",
@@ -1131,7 +1412,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "startup",
+    "contest"
+   ]
   },
   {
    "id": "31c276cfdbde",
@@ -1159,6 +1444,75 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
+   "needs_review": true,
+   "sectors": [
+    "edu"
+   ]
+  },
+  {
+   "id": "2077d076fa01",
+   "institution": "산업통상부",
+   "institution_short": "산업통상부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 3분기(54차) 사업재편지원사업 참여기업 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124011",
+   "posted_at": "2026-07-06",
+   "summary": "<p>산업통상부와 (사)한국경영혁신중소기업협회는「기업활력제고를 위한 특별법」에 의거하여, 급변하는 산업화경 속에서 기업의 자발적인 구조개선과 혁신활동을 적극 지원하고자 다음과 같이 사업재편 참여기업을 모집합니다.</p><p><br></p><p>☞ 업력 4년 이상의 법인 중소ㆍ중견ㆍ대기업(신용등급 B-이상 정상기업)</p><p><br></p><p>☞ 규제완화, 세제혜택, 금융지원, R&amp;D 및 고용, 컨설팅 증 지원</p>",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "edu",
+    "fund"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "grant",
+    "education"
+   ],
+   "apply_end": "2026-07-16",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false
+  },
+  {
+   "id": "cf47b26d1ed6",
+   "institution": "중소벤처기업부",
+   "institution_short": "중소벤처기업부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 지역 수출컨소시엄 수출전문기관 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123994",
+   "posted_at": "2026-07-06",
+   "summary": "<p>지역별 특성을 반영하여 수출전문기관과 수출초보기업 간 지역 수출컨소시엄을 구성하여 해외시장 공동 개척 및 수출 촉진을 뒷받침하는 「2026년도 지역 수출컨소시엄」 수출전문기관을 다음과 같이 모집 공고합니다.</p><p><br></p><p>☞ 해외시장 공동진출 지원역량을 보유한 민간기업(전문무역상사, 전시전문기업, 유통ㆍ마케팅 기업 등), 업종별 중소기업 단체, 수출유관기관 등(소재지 무관)</p><p><br></p><p style=\"line-height: 1.8;\">☞ 업종별 수출컨소시엄을 ",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "market"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-16",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
    "needs_review": true
   },
   {
@@ -1187,7 +1541,44 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market",
+    "startup"
+   ]
+  },
+  {
+   "id": "484adcb53938",
+   "institution": "산업통상부",
+   "institution_short": "산업통상부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 3차 미래차 애프터마켓부품 산업 활성화 기반구축 기업지원 수혜기업 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123986",
+   "posted_at": "2026-07-06",
+   "summary": "<p>우리 기관은 산업통상자원부가 시행하는 「미래차 애프터마켓부품 산업 활성화 기반구축(2차년도)」과제의 주관기관으로서, 미래차 애프터마켓부품 분야 중소ㆍ중견 기업의 기술 고도화 및 글로벌 경쟁력 강화를 위해 다음과 같이 기업지원 수혜기업 모집을 공고하오니, 관심 있으신 기업의 많은 참여 바랍니다.</p><p><br></p><p>☞ 중소ㆍ중견 미래차 애프터마켓부품 관련 기업</p><p><br></p><p style=\"line-height: 1.8;\">☞ 애로기술 컨설팅, 벤치마킹 지원, 국내외 인",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "tech",
+    "edu"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "education"
+   ],
+   "apply_end": "2026-07-17",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false
   },
   {
    "id": "5fe46a1e80cc",
@@ -1216,7 +1607,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "f4adccb5e8a4",
@@ -1244,7 +1638,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "loan"
+   ]
   },
   {
    "id": "e686ec553fe1",
@@ -1272,7 +1669,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "4fb0f91e9f58",
@@ -1301,7 +1701,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "market",
+    "bid"
+   ]
   },
   {
    "id": "978c4e6699a8",
@@ -1341,6 +1745,43 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
+   "needs_review": false,
+   "sectors": [
+    "contest"
+   ]
+  },
+  {
+   "id": "398cc365615b",
+   "institution": "지식재산처",
+   "institution_short": "지식재산처",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 5차 K-브랜드분쟁 대응전략 지원사업 정기 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124010",
+   "posted_at": "2026-07-06",
+   "summary": "<p>우리 기업ㆍ기관 등의 상표ㆍ디자인권을 보호하고 수출 경쟁력을 강화하기 위한 「K-브랜드분쟁 대응전략 지원사업」을 아래와 같이 5차 공고합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ (개별대응) 수출 중이거나 수출예정인 국내 중소ㆍ중견기업 또는 협ㆍ단체, 대학ㆍ공공연, 지자체, 기관 등 / (공공대응) 공통된 분쟁 이슈를 갖는 국내기업 3개사 이상으로 구성된 기업 협의체</p><p style=\"line-height: 1.8;\">※&nbsp;단, ‘IP",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "market",
+    "fund",
+    "tech"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-21",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
    "needs_review": false
   },
   {
@@ -1370,7 +1811,11 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "startup",
+    "fund"
+   ]
   },
   {
    "id": "4ecfbc98548c",
@@ -1392,6 +1837,43 @@
    ],
    "biz_types": [
     "bid"
+   ],
+   "apply_end": "2026-07-22",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false,
+   "sectors": [
+    "startup",
+    "bid"
+   ]
+  },
+  {
+   "id": "5e9314c2a701",
+   "institution": "중소벤처기업부",
+   "institution_short": "중소벤처기업부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "민관협력 오픈이노베이션 지원 성과기업 후속 지원 주관기관 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123997",
+   "posted_at": "2026-07-06",
+   "summary": "<p>중소벤처기업부 오픈이노베이션 지원사업에 참여한 우수 창업기업의 지속 성장을 위해 후속 협업을 지원할 주관기관을 다음과 같이 모집 공고합니다.</p><p><br></p><p>☞ 수요기업(대ㆍ중견기업ㆍ공공기관등)과 창업기업 간 협력 프로그램 개발ㆍ운영 및 상생 협력을 촉진할 수 있는 공공 또는 민간기관</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;오픈이노베이션 지원사업에 참여한 우수 창업기업과 수요기업 간 시장검증(PoV) 등 후속 협업을(총 8억원 ",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "edu",
+    "fund",
+    "startup"
+   ],
+   "company_types": [
+    "startup"
+   ],
+   "biz_types": [
+    "grant"
    ],
    "apply_end": "2026-07-22",
    "always_open": false,
@@ -1428,7 +1910,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "f433dcbc87e3",
@@ -1458,7 +1943,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "market",
+    "fund"
+   ]
   },
   {
    "id": "4f41f40d597e",
@@ -1487,7 +1976,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "4f02eaa8f5e6",
@@ -1515,7 +2007,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "dec1569a3b76",
@@ -1544,7 +2039,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market",
+    "tech"
+   ]
   },
   {
    "id": "30b00075a14c",
@@ -1572,7 +2071,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "41948008fd51",
@@ -1600,7 +2102,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu",
+    "employ"
+   ]
   },
   {
    "id": "1def370a94d1",
@@ -1628,6 +2134,41 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
+   "needs_review": true,
+   "sectors": [
+    "edu"
+   ]
+  },
+  {
+   "id": "e2e3666279a1",
+   "institution": "지식재산처",
+   "institution_short": "지식재산처",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 2차 디자인 침해 모니터링 참여 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124014",
+   "posted_at": "2026-07-06",
+   "summary": "<p>디자인 권리 보호와 건전한 온라인 상거래 질서 유지를 목적으로 추진하는 「2026년 디자인 침해 모니터링」 사업에 참여를 희망하는 기업 또는 디자이너를 모집합니다.</p><p><br></p><p>☞&nbsp;국내 디자인권(전용실시권)을 보유한 기업 또는 개인,「부정경쟁방지 및 영업비밀보호에 관한 법률」 제2조제1호‘자’목에 규정된 ‘상품형태모방행위’의 보호 주체가 되는 기업 또는 개인</p><p>- 기업당 최대 5개</p><p><br></p><p style=\"line-height: 1.8;\"",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "edu",
+    "tech"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-24",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
    "needs_review": true
   },
   {
@@ -1659,7 +2200,12 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu",
+    "fund",
+    "bid"
+   ]
   },
   {
    "id": "111938d363c3",
@@ -1687,7 +2233,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "f4ee413d85d6",
@@ -1715,7 +2264,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "tech"
+   ]
   },
   {
    "id": "211498334031",
@@ -1743,7 +2295,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "9caec5bff604",
@@ -1771,7 +2326,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "b8b18e05ae03",
@@ -1800,7 +2358,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "tech",
+    "edu"
+   ]
   },
   {
    "id": "312a68625e51",
@@ -1828,7 +2390,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "tech",
+    "fund"
+   ]
   },
   {
    "id": "c50ded06b2d2",
@@ -1856,6 +2422,42 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
+   "needs_review": false,
+   "sectors": [
+    "edu",
+    "employ"
+   ]
+  },
+  {
+   "id": "ccfef52e2862",
+   "institution": "국토교통부",
+   "institution_short": "국토교통부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 스마트도시 특화단지 조성사업 스타트업 투자유치 및 컨설팅 지원 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123958",
+   "posted_at": "2026-07-06",
+   "summary": "<p>AI+α 기술로 도시를 혁신하고 어반테크기업 성장을 지원하는 미래형 실증도시 모델 구축을 위하여 국토교통부와 대구광역시에서 추진하는「스마트도시 특화단지 조성사업」의 스타트업 투자유치 및 컨설팅 지원사업을 다음과 같이 공고합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;스마트도시 서비스 및 개발 역량을 보유한 스타트업</p><p style=\"line-height: 1.8;\">-&nbsp;지원분야 : 스마트도시와 관련된 서비스 및 솔루션(로봇ㆍ모",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "edu",
+    "startup"
+   ],
+   "company_types": [
+    "startup"
+   ],
+   "biz_types": [
+    "education"
+   ],
+   "apply_end": "2026-07-31",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
    "needs_review": false
   },
   {
@@ -1885,7 +2487,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "8d16593f48bf",
@@ -1913,7 +2518,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "bec9c32a0d5e",
@@ -1942,7 +2550,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "tech",
+    "fund"
+   ]
   },
   {
    "id": "26d2f6f627da",
@@ -1970,7 +2582,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "market",
+    "startup"
+   ]
   },
   {
    "id": "641fb967fba2",
@@ -1998,7 +2614,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "f40680a59a69",
@@ -2026,7 +2645,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "tech"
+   ]
   },
   {
    "id": "94dd077bdb24",
@@ -2054,7 +2676,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu",
+    "fund"
+   ]
   },
   {
    "id": "0469830a043f",
@@ -2087,7 +2713,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "contest"
+   ]
   },
   {
    "id": "2e1fc9322736",
@@ -2116,7 +2745,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "tech"
+   ]
   },
   {
    "id": "10b4ddc93b6f",
@@ -2145,7 +2777,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "0fc9830c0474",
@@ -2173,7 +2808,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "cf369a8636db",
@@ -2218,7 +2856,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "bid"
+   ]
   },
   {
    "id": "2d1357ae81d2",
@@ -2262,7 +2903,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "startup",
+    "bid"
+   ]
   },
   {
    "id": "ba66e81307df",
@@ -2292,7 +2937,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu",
+    "fund"
+   ]
   },
   {
    "id": "fb8a67705087",
@@ -2339,7 +2988,42 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "bid"
+   ]
+  },
+  {
+   "id": "cf05a972a6a7",
+   "institution": "과학기술정보통신부",
+   "institution_short": "과학기술정보통신부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 마이데이터 전문가 상시자문 지원 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123973",
+   "posted_at": "2026-07-06",
+   "summary": "<p>마이데이터 산업생태계 지원을 위해, 과학기술정보통신부 주관 한국데이터산업진흥원이 추진하는「2026년 마이데이터 전문가 상시자문」을 아래와 같이 실시합니다.</p><p><br></p><p>☞&nbsp;마이데이터 사업화 추진 기업 및 개인(예비 창업자)</p><p><br></p><p>☞ 법ㆍ제도, 사업화, 기술 등 분야별 전문가가 개인ㆍ기업의 마이데이터 관련 문의사항에 맞춰 상황별 원포인트 솔루션 지원</p>",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "edu",
+    "startup"
+   ],
+   "company_types": [
+    "startup"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-12-18",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
+   "needs_review": true
   },
   {
    "id": "793f052af731",
@@ -2388,7 +3072,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund"
+   ]
   },
   {
    "id": "62a906438282",
@@ -2416,7 +3103,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "f985092e2e64",
@@ -2446,93 +3136,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
-  },
-  {
-   "id": "3cd2e061dd8f",
-   "institution": "제주관광공사",
-   "institution_short": "JTO",
-   "group": 1,
-   "board": "입찰정보",
-   "title": "제주관광정보센터 운영 관리 및 시스템 ASP 용역 <협상에 의한 계약>",
-   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=975&p=1&lcate=",
-   "posted_at": "2026-06-08",
-   "summary": "미세먼지\n좋음\n13㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
-   "attachments": [
-    {
-     "name": "1_292.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=975&fidx=1"
-    },
-    {
-     "name": "2_274.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=975&fidx=2"
-    },
-    {
-     "name": "3_187.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=975&fidx=3"
-    }
-   ],
-   "status": "open",
-   "crawled_at": "2026-07-06",
-   "company_types": [
-    "tourism",
-    "general"
-   ],
-   "biz_types": [
-    "bid",
-    "loan_guarantee"
-   ],
-   "apply_end": "2028-07-10",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 1.0,
-   "needs_review": false
-  },
-  {
-   "id": "04a0ca2e0c49",
-   "institution": "제주관광공사",
-   "institution_short": "JTO",
-   "group": 1,
-   "board": "입찰정보",
-   "title": "[재공고]제주관광정보센터 운영 관리 및 시스템 ASP 용역 <협상에 의한 계약>",
-   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=978&p=1&lcate=",
-   "posted_at": "2026-07-02",
-   "summary": "미세먼지\n좋음\n13㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
-   "attachments": [
-    {
-     "name": "1_295.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=978&fidx=1"
-    },
-    {
-     "name": "2_277.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=978&fidx=2"
-    },
-    {
-     "name": "3_189.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=978&fidx=3"
-    }
-   ],
-   "status": "open",
-   "crawled_at": "2026-07-06",
-   "company_types": [
-    "tourism",
-    "general"
-   ],
-   "biz_types": [
-    "bid",
-    "loan_guarantee"
-   ],
-   "apply_end": "2028-07-10",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "e782c3f1aeef",
@@ -2561,7 +3168,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "e72cfb37a664",
@@ -2594,7 +3204,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "6ab425797547",
@@ -2622,7 +3235,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "bid"
+   ]
   },
   {
    "id": "efb063338261",
@@ -2650,7 +3266,10 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "cc57dd5f3624",
@@ -2679,7 +3298,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "9d78a408e643",
@@ -2707,7 +3329,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "9d78a408e643",
@@ -2735,7 +3360,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "b74ccb37267f",
@@ -2763,7 +3391,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "c0f1ba4d4560",
@@ -2791,7 +3422,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "c48ca85fb8f1",
@@ -2821,7 +3455,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "2312e067d6ff",
@@ -2851,7 +3488,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "868cd68cb2af",
@@ -2881,7 +3521,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund"
+   ]
   },
   {
    "id": "af1bcf81e4a4",
@@ -2909,7 +3552,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "5c782d14cc40",
@@ -2939,7 +3585,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "2797ad6a803d",
@@ -2969,7 +3618,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund"
+   ]
   },
   {
    "id": "ac0ff89fc800",
@@ -2997,7 +3649,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "21ec487ec7b6",
@@ -3025,7 +3680,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "feb3e64b7344",
@@ -3053,7 +3711,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "ac7c82f0871a",
@@ -3088,7 +3749,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "61ef55f98978",
@@ -3119,7 +3783,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "9ddeae1c7487",
@@ -3150,7 +3817,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "9a4777f4155e",
@@ -3181,7 +3851,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "315eda7a6457",
@@ -3212,7 +3885,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "2240ce82f45b",
@@ -3243,7 +3919,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "07d3fd608d32",
@@ -3274,7 +3953,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "b5bb40ac3949",
@@ -3305,7 +3987,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "665da30a15b9",
@@ -3336,7 +4021,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "ac51213333d4",
@@ -3367,7 +4055,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "6727461c642e",
@@ -3398,7 +4089,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "c3fd3851b0a6",
@@ -3429,7 +4123,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "fafdf265d464",
@@ -3460,7 +4157,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "53b09ef0256c",
@@ -3491,7 +4191,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "355b64c89a61",
@@ -3522,7 +4225,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "3b62e905c51d",
@@ -3553,7 +4259,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "employ",
+    "edu"
+   ]
   },
   {
    "id": "3d83dbc43154",
@@ -3584,7 +4294,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "employ",
+    "edu"
+   ]
   },
   {
    "id": "67afe6a80b85",
@@ -3615,7 +4329,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "e4c50612319e",
@@ -3646,7 +4363,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "51a6aa75489e",
@@ -3677,7 +4397,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "d9397090af86",
@@ -3708,7 +4431,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "61ef55f98978",
@@ -3739,7 +4465,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "3903106ba45f",
@@ -3770,7 +4499,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "f008dd054e74",
@@ -3798,7 +4530,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "employ"
+   ]
   },
   {
    "id": "e86676a594ea",
@@ -3826,7 +4561,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "f2e51bec89ce",
@@ -3855,7 +4593,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "3e462d75e2e2",
@@ -3883,7 +4624,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "contest"
+   ]
   },
   {
    "id": "92d2b8957b8f",
@@ -3911,7 +4655,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "f41957621068",
@@ -3939,7 +4686,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "79566d1733c9",
@@ -3982,7 +4732,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "3dffff6f4387",
@@ -4012,7 +4765,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "4ca5654fa8d8",
@@ -4040,7 +4796,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "f947d31f868f",
@@ -4075,7 +4834,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "f60d5fe2a855",
@@ -4114,7 +4876,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "d0d7091b5899",
@@ -4146,7 +4911,12 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund",
+    "employ",
+    "edu"
+   ]
   },
   {
    "id": "388193c05601",
@@ -4183,7 +4953,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "startup",
+    "bid"
+   ]
   },
   {
    "id": "f0dfd48e0ea8",
@@ -4216,7 +4990,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "eb91ae19ea4b",
@@ -4259,7 +5036,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "80abdf1d4bcf",
@@ -4296,7 +5076,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "contest"
+   ]
   },
   {
    "id": "da7198dc1011",
@@ -4327,7 +5110,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "employ"
+   ]
   },
   {
    "id": "29ec663fa0c4",
@@ -4367,7 +5153,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund"
+   ]
   },
   {
    "id": "01e888abce39",
@@ -4396,7 +5185,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "46619664d25c",
@@ -4432,7 +5224,56 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
+  },
+  {
+   "id": "3cd2e061dd8f",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "제주관광정보센터 운영 관리 및 시스템 ASP 용역 <협상에 의한 계약>",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=975&p=1&lcate=",
+   "posted_at": "2026-06-08",
+   "summary": "미세먼지\n좋음\n13㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "1_292.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=975&fidx=1"
+    },
+    {
+     "name": "2_274.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=975&fidx=2"
+    },
+    {
+     "name": "3_187.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=975&fidx=3"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "bid",
+    "loan_guarantee"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false,
+   "sectors": [
+    "bid"
+   ]
   },
   {
    "id": "80cab9c928a0",
@@ -4461,7 +5302,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "contest"
+   ]
   },
   {
    "id": "12fcb7111bc8",
@@ -4489,7 +5333,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "74ee2d8da2ca",
@@ -4534,7 +5381,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "424412e2b705",
@@ -4562,7 +5412,10 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund"
+   ]
   },
   {
    "id": "941c3572477d",
@@ -4608,7 +5461,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "69ac8b6478ff",
@@ -4639,7 +5495,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "contest"
+   ]
   },
   {
    "id": "3a3b7dfa1cfa",
@@ -4667,7 +5526,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "da415309aa0d",
@@ -4700,7 +5562,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "0902f48cbcb2",
@@ -4731,7 +5596,11 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "employ",
+    "edu"
+   ]
   },
   {
    "id": "e295e208d9f8",
@@ -4760,7 +5629,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "dd24fe372744",
@@ -4788,7 +5660,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "e3b068ce7944",
@@ -4833,7 +5708,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "105ea3407452",
@@ -4861,7 +5739,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "b1119a2c9d12",
@@ -4912,7 +5793,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "99c8dd48f4d8",
@@ -4945,7 +5829,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "contest"
+   ]
   },
   {
    "id": "44a2b555237b",
@@ -4983,7 +5870,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "contest",
+    "bid"
+   ]
   },
   {
    "id": "658f8f00f2f6",
@@ -5020,7 +5911,11 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund",
+    "employ"
+   ]
   },
   {
    "id": "4893919073f4",
@@ -5049,7 +5944,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "loan",
+    "fund"
+   ]
   },
   {
    "id": "bdb617e8825a",
@@ -5078,7 +5977,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "tech"
+   ]
   },
   {
    "id": "1d46d4b73ae7",
@@ -5106,7 +6008,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "7646fe12ed8b",
@@ -5147,7 +6052,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "bid"
+   ]
   },
   {
    "id": "6c55f45fe57f",
@@ -5188,7 +6096,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "bid"
+   ]
   },
   {
    "id": "a93e1852f9bc",
@@ -5228,7 +6139,11 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund",
+    "employ"
+   ]
   },
   {
    "id": "228a6c7efd15",
@@ -5281,7 +6196,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "tech"
+   ]
   },
   {
    "id": "ff381384af96",
@@ -5309,7 +6227,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "e0ed38249a70",
@@ -5337,7 +6258,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "edu"
+   ]
   },
   {
    "id": "fe979f460e01",
@@ -5366,7 +6290,57 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "employ",
+    "fund"
+   ]
+  },
+  {
+   "id": "04a0ca2e0c49",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "[재공고]제주관광정보센터 운영 관리 및 시스템 ASP 용역 <협상에 의한 계약>",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=978&p=1&lcate=",
+   "posted_at": "2026-07-02",
+   "summary": "미세먼지\n좋음\n13㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "1_295.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=978&fidx=1"
+    },
+    {
+     "name": "2_277.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=978&fidx=2"
+    },
+    {
+     "name": "3_189.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=978&fidx=3"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-06",
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "bid",
+    "loan_guarantee"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false,
+   "sectors": [
+    "bid"
+   ]
   },
   {
    "id": "398287f0ed44",
@@ -5398,7 +6372,13 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund",
+    "market",
+    "startup",
+    "edu"
+   ]
   },
   {
    "id": "77e0f5a69a2b",
@@ -5430,7 +6410,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "market"
+   ]
   },
   {
    "id": "cf563d03a7df",
@@ -5466,7 +6449,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "startup"
+   ]
   },
   {
    "id": "5652592b1c1f",
@@ -5502,7 +6488,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "employ"
+   ]
   },
   {
    "id": "16777fbed97e",
@@ -5530,7 +6519,12 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "tech",
+    "fund",
+    "startup"
+   ]
   },
   {
    "id": "963d29b81175",
@@ -5561,7 +6555,11 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund",
+    "market"
+   ]
   },
   {
    "id": "3e2b60997e57",
@@ -5596,7 +6594,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "8a323f1229dd",
@@ -5631,7 +6632,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "b381884b0a22",
@@ -5666,7 +6670,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "6591946baad3",
@@ -5709,7 +6716,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "972006a42ecd",
@@ -5737,7 +6747,11 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "market",
+    "fund"
+   ]
   },
   {
    "id": "d74aa5a4afdf",
@@ -5770,7 +6784,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "e41a1815c788",
@@ -5803,7 +6820,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "ee97a8a38388",
@@ -5842,7 +6862,10 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "fund"
+   ]
   },
   {
    "id": "e1c4f529bd0c",
@@ -5875,7 +6898,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "1c525b9b17bb",
@@ -5903,6 +6929,42 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
+   "needs_review": false,
+   "sectors": [
+    "bid"
+   ]
+  },
+  {
+   "id": "8e66725ef99b",
+   "institution": "산업통상부",
+   "institution_short": "산업통상부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 경남 나노 소재ㆍ제품 기업지원 수혜기업 상시 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123966",
+   "posted_at": "2026-07-06",
+   "summary": "<p>산업통상부와 경상남도, 밀양시가 지원하는 「나노 소재ㆍ제품 안전성평가 지원센터 구축」 사업의 일환으로 나노 소재ㆍ제품 관련 기업의 시험평가 애로해소를 위한 물리ㆍ화학적 시험평가지원 및 분야별 맞춤 전문가 컨설팅 지원을 다음과 같이 공고하오니 많은 참여 바랍니다.</p><div><br></div><div>☞&nbsp;나노 소재ㆍ제품 관련 분야 중소ㆍ중견기업</div><div><br></div><div>☞&nbsp;물리ㆍ화학적 시험평가(지원장비를 활용한 나노 소재 분석), 나노소재 안전성 컨설팅",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-07",
+   "sectors": [
+    "tech",
+    "edu"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "education"
+   ],
+   "apply_end": null,
+   "always_open": true,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
    "needs_review": false
   },
   {
@@ -5936,7 +6998,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "sectors": [
+    "bid"
+   ]
   },
   {
    "id": "7837be9eb4bd",
@@ -5964,7 +7029,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "38f474d85c06",
@@ -5992,7 +7060,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "c2964957b761",
@@ -6029,7 +7100,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   },
   {
    "id": "dc4593c7d2a4",
@@ -6066,7 +7140,10 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "sectors": [
+    "etc"
+   ]
   }
  ]
 }

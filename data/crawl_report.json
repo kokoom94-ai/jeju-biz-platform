@@ -1,5 +1,5 @@
 {
- "run_at": "2026-07-07T00:18:44",
+ "run_at": "2026-07-07T00:57:04",
  "results": [
   {
    "institution": "jto",
@@ -21,9 +21,11 @@
   },
   {
    "institution": "jba",
-   "found": 14,
+   "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "사업공고: ConnectError [Errno -3] Temporary failure in name resolution"
+   ]
   },
   {
    "institution": "iccjeju",
@@ -46,7 +48,7 @@
   {
    "institution": "jiles",
    "found": 18,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -64,7 +66,7 @@
   {
    "institution": "jjedu",
    "found": 30,
-   "new": 7,
+   "new": 0,
    "errors": []
   },
   {
@@ -94,7 +96,7 @@
   {
    "institution": "jta",
    "found": 16,
-   "new": 6,
+   "new": 4,
    "errors": []
   },
   {
@@ -111,11 +113,9 @@
   },
   {
    "institution": "bizinfo",
-   "found": 0,
-   "new": 0,
-   "errors": [
-    "3회 재시도 실패 — ConnectTimeout: timed out"
-   ]
+   "found": 74,
+   "new": 14,
+   "errors": []
   }
  ]
 }
