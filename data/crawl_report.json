@@ -1,10 +1,10 @@
 {
- "run_at": "2026-07-07T23:37:54",
+ "run_at": "2026-07-09T08:54:46",
  "results": [
   {
    "institution": "jto",
    "found": 66,
-   "new": 58,
+   "new": 20,
    "errors": []
   },
   {
@@ -25,8 +25,8 @@
   },
   {
    "institution": "jba",
-   "found": 24,
-   "new": 0,
+   "found": 25,
+   "new": 2,
    "errors": []
   },
   {
@@ -45,14 +45,14 @@
   },
   {
    "institution": "jwfri",
-   "found": 9,
+   "found": 8,
    "new": 0,
    "errors": []
   },
   {
    "institution": "jiles",
    "found": 18,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -73,8 +73,8 @@
   },
   {
    "institution": "jjedu",
-   "found": 30,
-   "new": 1,
+   "found": 38,
+   "new": 12,
    "errors": []
   },
   {
@@ -90,7 +90,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 132745자, title='제주창조경제혁신센터', 링크 47개"
+    "사업공고: 0건 진단: 응답 132744자, title='제주창조경제혁신센터', 링크 47개"
    ]
   },
   {
@@ -110,13 +110,13 @@
   {
    "institution": "jta",
    "found": 17,
-   "new": 4,
+   "new": 8,
    "errors": []
   },
   {
    "institution": "jejucci",
-   "found": 7,
-   "new": 0,
+   "found": 8,
+   "new": 2,
    "errors": []
   },
   {
