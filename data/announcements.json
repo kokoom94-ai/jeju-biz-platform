@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-09T09:06:08",
+ "updated_at": "2026-07-10T00:29:38",
  "items": [
   {
    "id": "97b0ee2b7fbf",
@@ -1770,7 +1770,7 @@
    "posted_at": "2026-07-03",
    "summary": "<p>2026년도 범부처 첨단 의료기기 연구개발사업(의료기기 코어기술 및 제품개발)신규지원 대상과제를 다음과 같이 재공고하오니 동 사업에 참여를 희망하는 기관(기업)등은 관련 규정 및 절차에 따라 신청하여 주시기바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;주관연구개발기관 또는 공동연구개발기관으로 수행하려는 기관은 「국가연구개발혁신법」제2조제3호의 각 목 및「국가연구개발혁신법 시행령」제2조제1항에 해당하는 기관이어야 함</p><p style=\"",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-06",
    "company_types": [
     "general"
@@ -6013,6 +6013,55 @@
    "needs_review": true
   },
   {
+   "id": "858df95fd220",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "대정여고, 자공고 특색과목 제주 지리 탐구 야외조사 운영",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000217&menuCd=DOM_000000202001000000&dataSid=1474995",
+   "posted_at": null,
+   "summary": "유치원/초등학교\n첫화면으로 이동\n학교소식\n교육청소식\n학교소식\n보도자료\n설명자료\n함께하는 제주교육\n홍보자료\n신설학교 추진 현황\n유치원/초등학교\n전체\n유치원/초등학교\n중학교\n고등학교\n특수학교\n각종학교\nsns목록\n카카오스토리\n페이스북\n트위터\n블로그\n닫기\n프린트\n전체\n제주시\n서귀포시\n대정여고, 자공고 특색과목 제주 지리 탐구 야외조사 운영\n“탐구기반 현장조사로 지역 이해와 탐구 역량 강화”\n대정여자고등학교\n064-730-5373\n2회\n2026-07-10\n[보도자료] 대정여고, 자공고 특색과목 '제주 지리",
+   "attachments": [
+    {
+     "name": "[보도자료] 대정여고, 자공고 특색과목 '제주 지리 탐구' 야외조사 운영.hwp (249 kb)",
+     "url": "https://www.jje.go.kr/pro/board/download.jje?boardId=BBS_0000217&menuCd=DOM_000000202001000000&paging=ok&startPage=1&dataSid=1474995&command=update&fileSid=1403681"
+    },
+    {
+     "name": "사진1.jpg (289 kb)",
+     "url": "https://www.jje.go.kr/pro/board/download.jje?boardId=BBS_0000217&menuCd=DOM_000000202001000000&paging=ok&startPage=1&dataSid=1474995&command=update&fileSid=1403682"
+    },
+    {
+     "name": "사진2.jpg (105 kb)",
+     "url": "https://www.jje.go.kr/pro/board/download.jje?boardId=BBS_0000217&menuCd=DOM_000000202001000000&paging=ok&startPage=1&dataSid=1474995&command=update&fileSid=1403683"
+    },
+    {
+     "name": "사진3.jpg (214 kb)",
+     "url": "https://www.jje.go.kr/pro/board/download.jje?boardId=BBS_0000217&menuCd=DOM_000000202001000000&paging=ok&startPage=1&dataSid=1474995&command=update&fileSid=1403684"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-10",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
    "id": "cf7e33f48040",
    "institution": "제주관광공사",
    "institution_short": "JTO",
@@ -9112,6 +9161,125 @@
    ],
    "biz_types": [
     "education"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": 19,
+   "age_max": 39,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.85,
+   "needs_review": false
+  },
+  {
+   "id": "d7aaf5d9cfc9",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 토평초등학교 동아리 선택활동(미술) 지도 강사 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1474992",
+   "posted_at": "2026-07-10",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 토평초등학교 동아리 선택활동(미술) 지도 강사 모집 공고\n토평초등학교\n15회\n2026-07-10\n마감일\n2026-07-16\n735-4703\n2026학년도 동아리 선택활동 지도강사 모집 공고문(미술).hwp (106 kb)\n1. 모집 분야 및 인원: 미술놀이(1~2학년), 창의미술(3~4학년) 각 1명\n2. 접수 기간: 7. 10.(금) ~ 7. 16.(목) 14:00까지\n3. 접수",
+   "attachments": [
+    {
+     "name": "2026학년도 동아리 선택활동 지도강사 모집 공고문(미술).hwp (106 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1474992&command=update&fileSid=1403680"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-10",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "6f856d1c45b7",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 하원초등학교병설유치원 자원봉사자 모집 재공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1474980",
+   "posted_at": "2026-07-10",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 하원초등학교병설유치원 자원봉사자 모집 재공고\n하원초등학교병설유치원\n8회\n2026-07-10\n마감일\n2026-07-14\n735-7832\n2026학년도 유치원 자원봉사자 모집공고문 및 신청서.pdf (109 kb)\n하원초등학교병설유치원 공고 제\n2026-22\n호\n유치원 방과후과정 자원봉사자 모집 재공고\n하원\n초등\n학교병설유치원\n에서 유치원 방과후과정 자원봉사자를 모집하고자 다음과 같이",
+   "attachments": [
+    {
+     "name": "2026학년도 유치원 자원봉사자 모집공고문 및 신청서.pdf (109 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1474980&command=update&fileSid=1403665"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-10",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "2d0d2157211c",
+   "institution": "제주상공회의소",
+   "institution_short": "상의",
+   "group": 5,
+   "board": "공지사항",
+   "title": "[공고] (2차 공고) 2026년 제주 일용근로자-건설기업 고용안정 지원사업 모집공고",
+   "url": "https://jejucci.korcham.net/front/board/boardContentsView.do?boardId=10088&contId=130302&menuId=379",
+   "posted_at": "2026-07-10",
+   "summary": "패밀리사이트\n패밀리 사이트 더보기\n대한상공회의소\n자격평가\n무역인증\n싱글PPM\nPL공제\n중국한국상회\n베트남사무소\n코참차이나\n지속가능경영원\n유통물류진흥원\n코리안넷\n전국규제지도\n산업혁신운동\n농식품 상생협력 추진본부\n기업활력법 종합포털\n인력개발원 HRD포털\n중소기업 청년취업인턴제\n중장년 일자리 희망센터\n중견인력 재취업지원\n직업기초능력평가\n산업체 우수강사\n서울지역 인적자원 개발위원회\n로그인\n회원가입\n사이트맵\n모바일 메뉴 열림\n닫기\n새소식\n공지사항\n새소식\n공지사항\n공지사항 상세보기\n제목\n[공고] (2차 공고",
+   "attachments": [
+    {
+     "name": "(2차 공고) 2026년 제주 일용근로자-건설기업 고용안정 지원사업 모집공고.hwp",
+     "url": "https://jejucci.korcham.net/file/dext5uploaddata/2026/(2차 공고) 2026년 제주 일용근로자-건설기업 고용안정 지원사업 모집공고.hwp"
+    },
+    {
+     "name": "(서식) 2026년 제주 일용근로자-건설기업 고용안정 지원사업 모집.hwp",
+     "url": "https://jejucci.korcham.net/file/dext5uploaddata/2026/(서식) 2026년 제주 일용근로자-건설기업 고용안정 지원사업 모집.hwp"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-10",
+   "ev": 2,
+   "sectors": [
+    "fund",
+    "employ"
+   ],
+   "company_types": [
+    "small_biz",
+    "youth",
+    "midlife",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
    ],
    "apply_end": null,
    "always_open": false,
