@@ -1,10 +1,10 @@
 {
- "run_at": "2026-07-10T00:19:43",
+ "run_at": "2026-07-10T23:41:04",
  "results": [
   {
    "institution": "jto",
-   "found": 25,
-   "new": 18,
+   "found": 65,
+   "new": 24,
    "errors": []
   },
   {
@@ -73,8 +73,8 @@
   },
   {
    "institution": "jjedu",
-   "found": 34,
-   "new": 3,
+   "found": 30,
+   "new": 7,
    "errors": []
   },
   {
@@ -90,7 +90,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 132744자, title='제주창조경제혁신센터', 링크 47개"
+    "사업공고: 0건 진단: 응답 132745자, title='제주창조경제혁신센터', 링크 47개"
    ]
   },
   {
@@ -110,12 +110,12 @@
   {
    "institution": "jta",
    "found": 17,
-   "new": 4,
+   "new": 5,
    "errors": []
   },
   {
    "institution": "jejucci",
-   "found": 8,
+   "found": 9,
    "new": 1,
    "errors": []
   },
@@ -129,11 +129,9 @@
   },
   {
    "institution": "bizinfo",
-   "found": 0,
-   "new": 0,
-   "errors": [
-    "3회 재시도 실패 — ConnectTimeout: timed out"
-   ]
+   "found": 84,
+   "new": 69,
+   "errors": []
   }
  ]
 }
