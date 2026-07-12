@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-11T23:47:47",
+ "updated_at": "2026-07-12T23:47:59",
  "items": [
   {
    "id": "97b0ee2b7fbf",
@@ -2302,7 +2302,7 @@
    "posted_at": "2026-07-06",
    "summary": "<p>한국산림복지진흥원(이하 ‘진흥원’)에서는 민간 산림복지 분야 아이디어 사업화 지원을 통해 다양한 산림복지서비스 유형을 발굴하고 관련 기업의 시장 경쟁력을 확보하고자 다음과 같이 공고합니다.</p><p><br></p><p>☞&nbsp;산림복지전문업 창업에 관심이 있는 예비창업자 또는 사업자 등록 5년 미만 기업 중 산림복지전문업 미등록 기업</p><p><br></p><p style=\"line-height: 1.8;\">☞ 역량진단, 창업교육, 멘토링, IR 피드백, IR 피칭덱 디자인, 포상 지",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "sectors": [
     "startup"
@@ -5214,6 +5214,55 @@
    "region": "제주 전역",
    "confidence": 0.25,
    "needs_review": true
+  },
+  {
+   "id": "6393e219e6b5",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 제주제일고등학교 1학년 테마체험학습(수학여행) 위탁 용역 2단계 입찰 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1475108",
+   "posted_at": "2026-07-13",
+   "summary": "입찰공고\n홈\n정보공개\n계약정보공개\n입찰정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n입찰공고\n나라장터(G2B) 입찰공고\n공공급식플랫폼 입찰공고\n새창으로 열림\n2026학년도 제주제일고등학교 1학년 테마체험학습(수학여행) 위탁 용역 2단계 입찰 공고\n이경보\n2회\n2026-07-13\n제한경쟁\n공고문.hwp (124 kb)\n과업내용서.hwp (144 kb)\n특수조건.hwp (180 kb)\n제안요청서.hwp (164 kb)\n1. 제안서 및 가격입찰서 제출기간: 2026. 7. 24.(금) ",
+   "attachments": [
+    {
+     "name": "공고문.hwp (124 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475108&command=update&fileSid=1403945"
+    },
+    {
+     "name": "과업내용서.hwp (144 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475108&command=update&fileSid=1403946"
+    },
+    {
+     "name": "특수조건.hwp (180 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475108&command=update&fileSid=1403947"
+    },
+    {
+     "name": "제안요청서.hwp (164 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475108&command=update&fileSid=1403948"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-12",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": "2026-07-24",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.75,
+   "needs_review": false
   },
   {
    "id": "c630d392633b",
@@ -12112,6 +12161,75 @@
    "region": "제주 전역",
    "confidence": 0.25,
    "needs_review": true
+  },
+  {
+   "id": "7482f3adcc90",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 남녕고등학교 시간강사(정보)채용 계획 2차 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1475100",
+   "posted_at": "2026-07-12",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 남녕고등학교 시간강사(정보)채용 계획 2차 공고\n남녕고등학교\n85회\n2026-07-12\n마감일\n2026-07-20\n717-6353\n2026학년도 남녕고등학교 시간강사(정보) 채용 2차 공고문.hwp (65 kb)\n2026\n학년도 남녕고등학교 시간강사\n(\n정보\n)\n채용계획을 아래와 같이\n2\n차 공고 합니다\n.\n1.\n채용인원\n:\n정보\n(1\n명\n)\n2.\n채용기간\n: 2026. 8. 12",
+   "attachments": [
+    {
+     "name": "2026학년도 남녕고등학교 시간강사(정보) 채용 2차 공고문.hwp (65 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475100&command=update&fileSid=1403939"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-12",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "2f2dd58ce51d",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "[취소공고]2026학년도 제주제일고등학교 1학년 테마체험학습(수학여행) 위탁용역 입찰공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1475107",
+   "posted_at": "2026-07-13",
+   "summary": "입찰공고\n홈\n정보공개\n계약정보공개\n입찰정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n입찰공고\n나라장터(G2B) 입찰공고\n공공급식플랫폼 입찰공고\n새창으로 열림\n[취소공고]2026학년도 제주제일고등학교 1학년 테마체험학습(수학여행) 위탁용역 입찰공고\n이경보\n2회\n2026-07-13\n기타\n2026학년도 제주제일고등학교 1학년 테마체험학습(수학여행) 위탁용역 2단계(규격·가격 동시) 입찰 공고를 아래와 같은 사유로 취소합니다.\n○ 취소공고번호: 제주제일고등학교 공고 제2026-29호\n○ ",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-12",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.6,
+   "needs_review": false
   },
   {
    "id": "3309d0d0fcef",
