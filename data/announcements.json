@@ -1,52 +1,6 @@
 {
- "updated_at": "2026-07-12T23:47:59",
+ "updated_at": "2026-07-13T23:45:25",
  "items": [
-  {
-   "id": "97b0ee2b7fbf",
-   "institution": "제주관광공사",
-   "institution_short": "JTO",
-   "group": 1,
-   "board": "입찰정보",
-   "title": "2026년 다국어 비짓제주 플랫폼 운영(긴급공고) <협상에 의한 계약>",
-   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=967&p=2&lcate=",
-   "posted_at": "2026-03-30",
-   "summary": "미세먼지\n좋음\n20㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
-   "attachments": [
-    {
-     "name": "1_285.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=967&fidx=1"
-    },
-    {
-     "name": "2_268.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=967&fidx=2"
-    },
-    {
-     "name": "3_180.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=967&fidx=3"
-    }
-   ],
-   "status": "closed",
-   "crawled_at": "2026-07-07",
-   "ev": 2,
-   "sectors": [
-    "bid"
-   ],
-   "company_types": [
-    "tourism",
-    "general"
-   ],
-   "biz_types": [
-    "bid"
-   ],
-   "apply_end": "2026-04-13",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 1.0,
-   "needs_review": false
-  },
   {
    "id": "7ed0813daa2b",
    "institution": "제주관광공사",
@@ -2334,7 +2288,7 @@
    "posted_at": "2026-07-07",
    "summary": "<p>우수 창업기업 제품의 홈쇼핑 판로지원을 위해 참여기업 모집을 아래와 같이 공고하오니 많은 관심과 참여를 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 중소기업기본법 제2조의 규정에 의한 중소기업&nbsp;</p><p style=\"line-height: 1.8;\">- 중소기업 창업 및 개시한 날로부터 7년 이내 기업(창업지원법 제2조 제3호)</p><p><br></p><p style=\"line-height: 1.8;\">☞ 홈쇼핑 방송 지원</p><p",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-10",
    "sectors": [
     "market",
@@ -2369,7 +2323,7 @@
    "posted_at": "2026-07-07",
    "summary": "<p>우수 창업기업 제품의 온라인 판로지원을 위해 참여기업 모집을 아래와 같이 공고하오니 많은 관심과 참여를 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 중소기업기본법 제2조의 규정에 의한 중소기업&nbsp;</p><p style=\"line-height: 1.8;\">※ 중소기업 창업 및 개시한 날로부터 7년 이내 기업(창업지원법 제2조 제3호)</p><p><br></p><p style=\"line-height: 1.8;\">☞ e커머스 온라인 판매 지원<",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-10",
    "sectors": [
     "market",
@@ -2664,6 +2618,43 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
+   "needs_review": true
+  },
+  {
+   "id": "06bd33e1ef9e",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "제2차 2026학년도 2학기 특수교육자원봉사자 모집 공고 (한림여중)",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1475173",
+   "posted_at": "2026-07-13",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n제2차 2026학년도 2학기 특수교육자원봉사자 모집 공고 (한림여중)\n한림여자중학교\n65회\n2026-07-13\n마감일\n2026-07-20\n064-795-0280\n(공고문)제2차 2026학년도 특수교육자원봉사자 모집 공고(한림여중).hwpx (63 kb)\n2026학년도 2학기 한림여자중학교 특수교육자원봉사자를 붙임과 같이 모집합니다.\n1. 모집인원: 1명\n2. 모집기간: 2026.7.14.(화) ",
+   "attachments": [
+    {
+     "name": "(공고문)제2차 2026학년도 특수교육자원봉사자 모집 공고(한림여중).hwpx (63 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475173&command=update&fileSid=1404136"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-13",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-14",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
    "needs_review": true
   },
   {
@@ -4083,6 +4074,43 @@
    "needs_review": true
   },
   {
+   "id": "a1e3e55faf2b",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 2학기 서귀포고등학교 특수교육자원봉사자 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1475186",
+   "posted_at": "2026-07-13",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 2학기 서귀포고등학교 특수교육자원봉사자 모집 공고\n서귀포고등학교\n58회\n2026-07-13\n마감일\n2026-07-20\n064-730-6357\n2026학년도 2학기 서귀포고등학교 특수교육 자원봉사자 모집 공고(탑재용).hwp (112 kb)\n2026학년도 서귀포고등학교 특수교육자원봉사자를 아래와 같이 공개 모집합니다.\n1. 모집인원: 1명\n2. 활동 기간: 2026. 8. 12. -",
+   "attachments": [
+    {
+     "name": "2026학년도 2학기 서귀포고등학교 특수교육 자원봉사자 모집 공고(탑재용).hwp (112 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475186&command=update&fileSid=1404162"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-13",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-20",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "서귀포시",
+   "confidence": 0.4,
+   "needs_review": true
+  },
+  {
    "id": "69e01b403b1d",
    "institution": "제주관광공사",
    "institution_short": "JTO",
@@ -5258,6 +5286,79 @@
    "apply_end": "2026-07-24",
    "always_open": false,
    "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.75,
+   "needs_review": false
+  },
+  {
+   "id": "e49fefc68927",
+   "institution": "제주경제통상진흥원",
+   "institution_short": "JBA",
+   "group": 2,
+   "board": "사업공고",
+   "title": "2026년 소상공인 맞춤형 디지털 전환 패키지 지원사업 참여업체 추가 모집 공고(07.13~07.24)",
+   "url": "https://www.jba.or.kr/bbs/board.php?bo_table=2_1_1_1&wr_id=793",
+   "posted_at": "2026-07-13",
+   "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-13",
+   "ev": 2,
+   "sectors": [
+    "fund",
+    "tech",
+    "market"
+   ],
+   "company_types": [
+    "small_biz",
+    "startup",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-24",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
+   "id": "f0c0032480a3",
+   "institution": "제주평생교육장학진흥원",
+   "institution_short": "JILES",
+   "group": 2,
+   "board": "공지사항",
+   "title": "「2026년 공공갈등 주민조정가 양성 교육」 교육생 모집 안내",
+   "url": "https://www.jiles.or.kr/community/notice/othernews.htm?act=view&seq=12901",
+   "posted_at": "2026-07-13",
+   "summary": "공지사항\n제주평생교육장학진흥원을 소개합니다.\n공지사항\n유관기관 소식\n유관기관 소식\n타기관 소식2021 게시물 상세보기\n제  목\n「2026년 공공갈등 주민조정가 양성 교육」 교육생 모집 안내\n작성일\n2026-07-13\n조회수\n21 회\n담당자\n관리자\n담당부서\n첨  부\n모집 홍보물(포스터).png (1,932 KBytes)\n「2026년 공공갈등 주민조정가 양성 교육」 교육생 모집 안내\n가. 모집기간: 2026. 7. 9.~ 2026. 7. 25.\n나. 모집대상: 지역현안 및 갈등해결에 관심있는 제주도민",
+   "attachments": [
+    {
+     "name": "모집 홍보물(포스터).png (1,932 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/othernews.htm?act=download&seq=12901&no=1"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-13",
+   "ev": 2,
+   "sectors": [
+    "edu"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "education"
+   ],
+   "apply_end": "2026-07-25",
+   "always_open": false,
+   "age_min": 19,
    "age_max": null,
    "gender": "무관",
    "region": "제주 전역",
@@ -8384,6 +8485,70 @@
    ],
    "status": "open",
    "crawled_at": "2026-07-10",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "c67207303357",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "[제주진로진학지원센터] 29강. 예체능계열전형 2",
+   "url": "https://www.youtube.com/watch?v=KKlL9qirsnc",
+   "posted_at": null,
+   "summary": "",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-13",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "c43555288729",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "[제주진로진학지원센터] 30강. 무엇이든 물어보세요",
+   "url": "https://www.youtube.com/watch?v=hPDwSMKG4qE",
+   "posted_at": null,
+   "summary": "",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-13",
    "ev": 2,
    "sectors": [
     "etc"
@@ -12230,6 +12395,75 @@
    "region": "제주 전역",
    "confidence": 0.6,
    "needs_review": false
+  },
+  {
+   "id": "417fc5354326",
+   "institution": "제주여성가족연구원",
+   "institution_short": "여가원",
+   "group": 2,
+   "board": "공지사항",
+   "title": "2026년 제3기 제주 생활정치아카데미 기본과정 교육생 모집 공고",
+   "url": "https://www.jewfri.kr/index.php/contents/notice/jewnotice/notice?act=view&seq=7552&bd_bcid=notice",
+   "posted_at": "2026-07-13",
+   "summary": "연구원 공지사항\nHOME  > 열린광장 > 공지사항 >\n연구원 공지사항\n게시물 상세보기\n2026년 제3기 제주 생활정치아카데미 기본과정 교육생 모집 공고\n제주여성가족연구원\n2026-07-13\n38\n제주여성가족연구원 공고 2026 - 51호\n2026년 제3기 제주 생활정치아카데미 기본과정 교육생 모집 공고\n본 과정은 제주지역 도민의 정치·정책 참여역량과 풀뿌리 민주주의 자치역량을 높이고, 지역사회 성평등 생활정치 리더들의 사회적 지지 네트워크 구축을 목표로 합니다.\n2024년, 2025년에 이어 2",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-13",
+   "ev": 2,
+   "sectors": [
+    "edu"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "education"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.6,
+   "needs_review": false
+  },
+  {
+   "id": "97455b67003e",
+   "institution": "제주평생교육장학진흥원",
+   "institution_short": "JILES",
+   "group": 2,
+   "board": "공지사항",
+   "title": "제주4·3평화재단 제12회 제주4·3장학금 신청 안내",
+   "url": "https://www.jiles.or.kr/community/notice/othernews.htm?act=view&seq=12900",
+   "posted_at": "2026-07-13",
+   "summary": "제주특별자치도 제주시 서사로43(삼도이동) (재)제주평생교육장학진흥원\nTel_064-744-9852 ㅣ Fax_064-726-9961 ㅣ E-mail_ webmaster@jiles.or.kr\nCopyright ⓒ 재단법인 제주평생교육장학진흥원. All rights reserved.",
+   "attachments": [
+    {
+     "name": "【붙임 1】제12회 제주4·3평화재단 4·3장학생 선발 계획 공고문.hwp (60 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/othernews.htm?act=download&seq=12900&no=1"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-13",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.25,
+   "needs_review": true
   },
   {
    "id": "3309d0d0fcef",

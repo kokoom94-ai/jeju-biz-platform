@@ -1,5 +1,5 @@
 {
- "run_at": "2026-07-12T23:36:33",
+ "run_at": "2026-07-13T23:35:29",
  "results": [
   {
    "institution": "jto",
@@ -25,8 +25,8 @@
   },
   {
    "institution": "jba",
-   "found": 0,
-   "new": 0,
+   "found": 26,
+   "new": 1,
    "errors": []
   },
   {
@@ -45,14 +45,14 @@
   },
   {
    "institution": "jwfri",
-   "found": 8,
-   "new": 0,
+   "found": 9,
+   "new": 1,
    "errors": []
   },
   {
    "institution": "jiles",
-   "found": 18,
-   "new": 0,
+   "found": 19,
+   "new": 2,
    "errors": []
   },
   {
@@ -60,7 +60,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 366자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 367자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -68,13 +68,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 401자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 402자, title='no-title', 링크 0개"
    ]
   },
   {
    "institution": "jjedu",
-   "found": 34,
-   "new": 3,
+   "found": 32,
+   "new": 4,
    "errors": []
   },
   {
@@ -82,7 +82,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 401자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 402자, title='no-title', 링크 0개"
    ]
   },
   {
