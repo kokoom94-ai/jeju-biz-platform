@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-15T23:55:26",
+ "updated_at": "2026-07-16T23:51:37",
  "items": [
   {
    "id": "e4fd8141ec72",
@@ -375,6 +375,49 @@
    ],
    "status": "closed",
    "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "edu"
+   ],
+   "company_types": [
+    "youth",
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "education"
+   ],
+   "apply_end": "2026-05-20",
+   "always_open": false,
+   "age_min": 19,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false
+  },
+  {
+   "id": "207fd49a355f",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "[유관기관협조] 2026년 2030 청렴 ON 대학 캠퍼스 교육생 모집",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1479&p=4&lcate=",
+   "posted_at": "2026-05-21",
+   "summary": "미세먼지\n보통\n36㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "교육 모집 안내.hwpx",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1479&fidx=1"
+    },
+    {
+     "name": "img_1779323437.jpg",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1479&fidx=2"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-07-16",
    "ev": 2,
    "sectors": [
     "edu"
@@ -2861,7 +2904,7 @@
    "posted_at": "2026-06-26",
    "summary": "<p>교육부ㆍ한국교육학술정보원(KERIS)ㆍ한국디지털교육협회(KEFA)가 함께하는 「2026 K-에듀테크 콘테스트」 참가 기업을 모집합니다. 교육 현장의 혁신을 이끌 에듀테크 제품ㆍ서비스를 보유한 기업 관계자 분들의 많은 참여를 바랍니다.</p><p><br></p><p>☞&nbsp;국내 개발 및 제작한 에듀테크 기업</p><p><br></p><p style=\"line-height: 1.8;\">☞ 상장 및 수상패 수여,&nbsp;수상 제품 인증마크 제공 및 게시,&nbsp;‘에듀테크 코리아 페어’ ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-06",
    "company_types": [
     "general"
@@ -2892,7 +2935,7 @@
    "posted_at": "2026-06-29",
    "summary": "<p>제주콘텐츠진흥원은 제주고유의 역사ㆍ설화ㆍ유배문화 등 지역 자원을 활용한 「지역소재 기반 미드폼 영상 콘텐츠 제작 지원사업」을 시행하오니 많은 참여 바랍니다.</p><p><br></p><p>☞ 공고일 기준 주사업장이 제주특별자치도에 소재한 「문화산업 진흥 기본법」제2조에 따른 ‘문화산업’ 분야를 영위하는 사업자</p><p><br></p><p style=\"line-height: 1.8;\">☞ 제주의 역사ㆍ설화ㆍ유배ㆍ민담 등을 소재로 활용한 극영화ㆍ드라마 형식의 미드폼(10~20분 분량) 영상 콘",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-06",
    "company_types": [
     "general"
@@ -2923,7 +2966,7 @@
    "posted_at": "2026-06-29",
    "summary": "<p>중소ㆍ중견기업의 해외시장 진출에 필요한 해외인증 획득을 지원하는 해외인증 종합 멘토링 지원사업에 참여기업을 다음과 같이 모집합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ K-소비재 수출을 준비 중인 기업</p><p style=\"line-height: 1.8;\">- 「중소기업기본법」 제2조 및 시행령 제3조에 해당하는 중소기업</p><p style=\"line-height: 1.8;\">- 「중견기업 성장 촉진 및 경쟁력 강화에 관한 특별법」 제2조 및 ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-06",
    "company_types": [
     "small_biz",
@@ -2956,7 +2999,7 @@
    "posted_at": "2026-07-02",
    "summary": "<p>2026년도 산림청 혁신제품 지정기간 「1차 연장」을 위해 아래와 같이 공고하오니, 1차연장 자격요건에 해당하는 기업은 신청하여 주시기 바랍니다.&nbsp;</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;기본 지정기간(3년)의 만료가 도래되는 산림청 혁신제품을 보유한 기업</p><p style=\"line-height: 1.8;\">-&nbsp;금회 지정기간 만료일 : ~ 2026. 12. 31.</p><p style=\"line-height: 1.8;\"",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-06",
    "company_types": [
     "general"
@@ -2987,7 +3030,7 @@
    "posted_at": "2026-07-02",
    "summary": "<p>해양수산 우수 인증기술의 상용화 및 시장진출 활성화를 위해 2026년도「해양수산 기술인증기업 제품화 지원 사업」에 참여할 해양 수산 분야 우수 인증기술 보유 기업을 다음과 같이 모집합니다.</p><p><br></p><p>☞&nbsp;해양수산 신기술 인증 등을 획득하여 유효기간 내에 있는 기술을\r\n적용ㆍ이전\r\n받아 시장진출이 가능한 중소기업</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;기업당 최대 2,000만원 지원</p><p style=\"line-",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-06",
    "company_types": [
     "small_biz",
@@ -3019,7 +3062,7 @@
    "posted_at": "2026-07-07",
    "summary": "<p>한국콘텐츠진흥원은 국내 콘텐츠기업의 대만시장 진출 지원을 위해 다음과 같이 “2026 대만크리에이티브콘텐츠페스티벌(TCCF) 공동관”에 참가할 국내 기업을 모집합니다. 많은 관심과 참여 부탁드립니다.</p><p><br></p><p>☞&nbsp;국산 방송영상 콘텐츠 관련 라이선싱, 기획, 제작, 유통 및 배급 등 해외 비즈니스를 원하는 국내기업</p><p><br></p><p style=\"line-height: 1.8;\">☞ 부스 제공(TCCF 출입 배지 포함) 1개사 당 기본형 부스(9sqm)",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-10",
    "sectors": [
     "market"
@@ -3051,7 +3094,7 @@
    "posted_at": "2026-07-09",
    "summary": "<p>다수의 노인을 고용하여 양질의 노인일자리를 지속적으로 창출하는 우수 고령자친화기업 재지정 희망 기업을 다음과 같이 공모합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 최근 3년(2023~2025년) 이내 지정기간이 종료된 기업 중 요건을 충족한 기업으로 공모참여 제한에 해당하지 않는 기업</p><p style=\"line-height: 1.8;\">※&nbsp;2018~2020년 지정기업 중 지정기간이 정상 종료된 기업</p><p style=\"line-h",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-10",
    "sectors": [
     "etc",
@@ -3084,7 +3127,7 @@
    "posted_at": "2026-07-09",
    "summary": "<p>중소벤처기업진흥공단에서는 ㈜포스코인터내셔널과 공동으로 자원순환 분야 수출바우처 참여기업의 말레이시아 시장 진출을 지원하기 위한 수출상담회를 개최하오니 관심 있는 기업의 많은 신청을 바랍니다.&nbsp;</p><p><br></p><p style=\"line-height: 1.8;\">☞ ’25년, ’26년 중기부 수출바우처 참여기업</p><p style=\"line-height: 1.8;\">- 자원순환 분야 : 폐기물 관리, 폐자원 에너지화, 재활용ㆍ재자원화, 재제조, 친환경 소재 및 순환경제 관련",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-10",
    "sectors": [
     "market",
@@ -3116,7 +3159,7 @@
    "posted_at": "2026-07-10",
    "summary": "<p>2026년도 「글로벌 진출기업 역량강화 지원사업」 시행계획을 다음과 같이 공고하오니, 동 사업에 참여를 희망하는 기업은 사업 안내에 따라 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;글로벌 기술이전ㆍ사업화 관련 분야의 전문지식 및 역량을 보유한 전문기관의 맞춤형 컨설팅 및 전문가 세미나를 통해 글로벌 진출 역량을 제고하고자 하는 중소기업</p><p style=\"line-height: 1.8;\">- 「중소기업기본법」제2조에",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-10",
    "sectors": [
     "market",
@@ -3160,7 +3203,7 @@
      "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1517&fidx=2"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-15",
    "ev": 2,
    "sectors": [
@@ -13622,6 +13665,253 @@
    "region": "제주 전역",
    "confidence": 0.25,
    "needs_review": true
+  },
+  {
+   "id": "0f2f321ac02b",
+   "institution": "제주경제통상진흥원",
+   "institution_short": "JBA",
+   "group": 2,
+   "board": "사업공고",
+   "title": "2026년 제주우수제품품질인증(JQ) 인증기업 시험성적서 비용 지원 참여기업 모집공고",
+   "url": "https://www.jba.or.kr/bbs/board.php?bo_table=2_1_1_1&wr_id=794",
+   "posted_at": "2026-07-16",
+   "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-16",
+   "ev": 2,
+   "sectors": [
+    "market"
+   ],
+   "company_types": [
+    "small_biz",
+    "startup",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.5,
+   "needs_review": true
+  },
+  {
+   "id": "88bb3b43f018",
+   "institution": "제주평생교육장학진흥원",
+   "institution_short": "JILES",
+   "group": 2,
+   "board": "공지사항",
+   "title": "[기타] 2026년 제주도민 외국어 학습비 지원 외국어 학원 회화 과정 학습비 지원 제6기(8월) 학습자 선정 결과 안내",
+   "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=view&seq=12910",
+   "posted_at": "2026-07-16",
+   "summary": "제주특별자치도 제주시 서사로43(삼도이동) (재)제주평생교육장학진흥원\nTel_064-744-9852 ㅣ Fax_064-726-9961 ㅣ E-mail_ webmaster@jiles.or.kr\nCopyright ⓒ 재단법인 제주평생교육장학진흥원. All rights reserved.",
+   "attachments": [
+    {
+     "name": "학습자 선정 결과 안내 공고문.pdf (331 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12910&no=1"
+    },
+    {
+     "name": "제출 서류 서식.hwp (121 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12910&no=2"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-16",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "76bf12a53742",
+   "institution": "제주평생교육장학진흥원",
+   "institution_short": "JILES",
+   "group": 2,
+   "board": "공지사항",
+   "title": "[기타] 2026년 제주도민 외국어 학습비 지원 전화 화상 외국어교육 학습비 지원 제6기(8~9월) 학습자 선정 결과 안내",
+   "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=view&seq=12909",
+   "posted_at": "2026-07-16",
+   "summary": "제주특별자치도 제주시 서사로43(삼도이동) (재)제주평생교육장학진흥원\nTel_064-744-9852 ㅣ Fax_064-726-9961 ㅣ E-mail_ webmaster@jiles.or.kr\nCopyright ⓒ 재단법인 제주평생교육장학진흥원. All rights reserved.",
+   "attachments": [
+    {
+     "name": "학습자 선정 결과 안내 공고문.pdf (305 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12909&no=1"
+    },
+    {
+     "name": "제출 서류 서식.hwp (95 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12909&no=2"
+    },
+    {
+     "name": "(이플랜)수강안내문.pdf (2,307 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12909&no=3"
+    },
+    {
+     "name": "(미래교육)수강안내문.PNG (581 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12909&no=4"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-16",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "e42ff9ddfa0a",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 중문초등학교 특수교육 자원봉사자 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1475604",
+   "posted_at": "2026-07-16",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 중문초등학교 특수교육 자원봉사자 모집 공고\n중문초등학교\n58회\n2026-07-16\n마감일\n2026-07-22\n064-730-5626\n2026학년도 특수교육자원봉사자 모집 공고.hwp (27 kb)\n2026학년도 특수교육 자원봉사자 모집 공고\n- 모집인원 : 2명\n- 봉사기간 : 채용일 ~ 2027. 1. 7.(방학기간 제외)\n- 접수장소 : 중문초등학교 통합교육 1반(1층 방송실 ",
+   "attachments": [
+    {
+     "name": "2026학년도 특수교육자원봉사자 모집 공고.hwp (27 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475604&command=update&fileSid=1405075"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-16",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "a9294409a246",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "해성유치원 특수자원봉사자 추가 모집",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1475596",
+   "posted_at": "2026-07-16",
+   "summary": "(63119) 제주특별자치도 제주시 문연로 5\nTel. (064) 710-0114 (09:00~18:00 / 야간·공휴일: 당직실 064-710-0600, 연중무휴)\nFax : (064) 710-0709\nCopyright(c) 2024 Jeju Special Self-Governing Provincial Office of Education. All rights reserved.",
+   "attachments": [
+    {
+     "name": "2026학년도 특수교육자원봉사자 추가모집공고.hwp (140 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475596&command=update&fileSid=1405062"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-16",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "818b21982b09",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 서귀포고등학교 1학년 도외진로문화체험 위탁 용역 2단계 입찰 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1475567",
+   "posted_at": "2026-07-16",
+   "summary": "(63119) 제주특별자치도 제주시 문연로 5\nTel. (064) 710-0114 (09:00~18:00 / 야간·공휴일: 당직실 064-710-0600, 연중무휴)\nFax : (064) 710-0709\nCopyright(c) 2024 Jeju Special Self-Governing Provincial Office of Education. All rights reserved.",
+   "attachments": [
+    {
+     "name": "공고문(2026학년도 서귀포고등학교 1학년 도외진로문화체험 위탁 용역).pdf (244 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475567&command=update&fileSid=1404968"
+    },
+    {
+     "name": "과업내용서(2026학년도 서귀포고등학교 1학년 도외진로문화체험 위탁 용역).hwpx (71 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475567&command=update&fileSid=1404969"
+    },
+    {
+     "name": "제안요청서(2026학년도 서귀포고등학교 1학년 도외진로문화체험 위탁 용역).hwpx (145 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475567&command=update&fileSid=1404970"
+    },
+    {
+     "name": "특수조건(2026학년도 서귀포고등학교 1학년 도외진로문화체험 위탁 용역).hwpx (107 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475567&command=update&fileSid=1404971"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-16",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.6,
+   "needs_review": false
   },
   {
    "id": "3309d0d0fcef",
