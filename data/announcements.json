@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-18T23:45:37",
+ "updated_at": "2026-07-19T23:50:21",
  "items": [
   {
    "id": "e4fd8141ec72",
@@ -13965,6 +13965,43 @@
    "region": "제주 전역",
    "confidence": 0.6,
    "needs_review": false
+  },
+  {
+   "id": "e52674307a20",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 성산초등학교병설유치원 특수교육자원봉사자 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1475628",
+   "posted_at": "2026-07-20",
+   "summary": "(63119) 제주특별자치도 제주시 문연로 5\nTel. (064) 710-0114 (09:00~18:00 / 야간·공휴일: 당직실 064-710-0600, 연중무휴)\nFax : (064) 710-0709\nCopyright(c) 2024 Jeju Special Self-Governing Provincial Office of Education. All rights reserved.",
+   "attachments": [
+    {
+     "name": "성산초등학교병설유치원 특수교육자원봉사자 모집 공고(최종).pdf (149 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475628&command=update&fileSid=1405136"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-19",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.25,
+   "needs_review": true
   },
   {
    "id": "3309d0d0fcef",
