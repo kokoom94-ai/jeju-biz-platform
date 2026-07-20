@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-19T23:50:21",
+ "updated_at": "2026-07-20T23:52:26",
  "items": [
   {
    "id": "e4fd8141ec72",
@@ -3977,7 +3977,7 @@
    "posted_at": "2026-06-30",
    "summary": "<p>KOTRA는 온라인 수출 지원 수요 증가에 대응하여 유망 소비재 기업의 글로벌 온라인 유통망 입점부터 생존, 파워셀러로 성장하는 전 과정을 지원하는 「2026 KOTRA-이베이 파워셀러 육성사업 1단계 입점교육 3기」를 모집합니다. 아래와 같이 참가기업을 모집하오니 관심 기업의 많은 신청 부탁드립니다.</p><p><br></p><p>☞ 이베이 유통망에 미입점 상태로 기초 입점교육을 필요로 하는 국내 중소중견기업</p><p><br></p><p style=\"line-height: 1.8;\">☞ ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-06",
    "company_types": [
     "small_biz",
@@ -5122,6 +5122,43 @@
    ]
   },
   {
+   "id": "56bb83f5999b",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 제주서초등학교 특수교육 자원봉사자 모집 공고(수정-모집인원)",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1475710",
+   "posted_at": "2026-07-20",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 제주서초등학교 특수교육 자원봉사자 모집 공고(수정-모집인원)\n제주서초등학교\n133회\n2026-07-20\n마감일\n2026-07-23\n720-7385\n2026학년도 특수교육 자원봉사자 모집 계획 및 공고(수정).hwp (143 kb)\n2026학년도 제주서초등학교 특수교육 자원봉사자를 아래와 같이 모집합니다.\n1. 모집인원: 3명(2명->3명으로 수정)\n2. 위촉기간: 2026. 8. ",
+   "attachments": [
+    {
+     "name": "2026학년도 특수교육 자원봉사자 모집 계획 및 공고(수정).hwp (143 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475710&command=update&fileSid=1405302"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-20",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-23",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true
+  },
+  {
    "id": "4f41f40d597e",
    "institution": "산업통상부",
    "institution_short": "산업통상부",
@@ -5902,6 +5939,43 @@
    "region": "제주 전역",
    "confidence": 0.6,
    "needs_review": false
+  },
+  {
+   "id": "9a48ae2370f3",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 2학기 문화예술프로그램(취타대) 강사 모집 공고(풍천초)",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1475726",
+   "posted_at": "2026-07-20",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 2학기 문화예술프로그램(취타대) 강사 모집 공고(풍천초)\n풍천초등학교\n36회\n2026-07-20\n마감일\n2026-07-27\n7865603\n2026학년도 문화예술프로그램(취타대)강사모집공고(풍천초).hwp (85 kb)\n2026학년도 2학기 풍천초등학교 문화예술프로그램(취타대) 강사를 아래와 같이 모집 합니다.\n1. 근무기간: 2026. 8. 25. ~ 2027. 1. 6. (공휴일",
+   "attachments": [
+    {
+     "name": "2026학년도 문화예술프로그램(취타대)강사모집공고(풍천초).hwp (85 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475726&command=update&fileSid=1405329"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-20",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-28",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true
   },
   {
    "id": "4b46979b6786",
@@ -9144,6 +9218,70 @@
    "region": "제주 전역",
    "confidence": 0.6,
    "needs_review": false
+  },
+  {
+   "id": "af0155f17144",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "[제주진로진학지원센터] 40강. 2028 대입준비 2",
+   "url": "https://www.youtube.com/watch?v=yOAOfkJWmgk",
+   "posted_at": null,
+   "summary": "",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-20",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "43054b0739b0",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "[제주진로진학지원센터] 39강. 2028 대입준비 1",
+   "url": "https://www.youtube.com/watch?v=fVhozzYGoQA",
+   "posted_at": null,
+   "summary": "",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-07-20",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true
   },
   {
    "id": "cf7e33f48040",
@@ -14001,6 +14139,104 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
+   "needs_review": true
+  },
+  {
+   "id": "607a0bb05668",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "고시공고",
+   "title": "2026학년도 한림중학교 2학년 수학여행 위탁용역 입찰공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1475660",
+   "posted_at": "2026-07-20",
+   "summary": "입찰공고\n홈\n정보공개\n계약정보공개\n입찰정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n입찰공고\n나라장터(G2B) 입찰공고\n공공급식플랫폼 입찰공고\n새창으로 열림\n2026학년도 한림중학교 2학년 수학여행 위탁용역 입찰공고\n장신영\n17회\n2026-07-20\n기타\n[탑재]입찰공고문_한림중학교.pdf (225 kb)\n[붙임1]과업내용서_한림중학교.pdf (64 kb)\n[붙임2]특수조건_한림중학교.pdf (216 kb)\n[붙임3]물량내역서_한림중학교.pdf (51 kb)\n2026\n학년도 한림중",
+   "attachments": [
+    {
+     "name": "[탑재]입찰공고문_한림중학교.pdf (225 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475660&command=update&fileSid=1405204"
+    },
+    {
+     "name": "[붙임1]과업내용서_한림중학교.pdf (64 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475660&command=update&fileSid=1405205"
+    },
+    {
+     "name": "[붙임2]특수조건_한림중학교.pdf (216 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475660&command=update&fileSid=1405206"
+    },
+    {
+     "name": "[붙임3]물량내역서_한림중학교.pdf (51 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475660&command=update&fileSid=1405207"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-20",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.6,
+   "needs_review": false
+  },
+  {
+   "id": "a6956241d3e2",
+   "institution": "제주특별자치도관광협회",
+   "institution_short": "관광협회",
+   "group": 5,
+   "board": "공지사항",
+   "title": "N 2026 도외 유튜버 대상 제주 장기체류 콘텐츠 제작 지원 공고",
+   "url": "https://visitjeju.or.kr/comm/notice.htm?act=view&seq=59173",
+   "posted_at": "2026-07-20",
+   "summary": "(63309) 제주특별자치도 제주시 첨단로 213-65 제주종합비즈니스센터 3층\nㆍ대표: 강동훈   ㆍ사업자등록번호: 616-82-04092\nㆍ법인등록번호: 22021-0000107\nㆍ대표전화: 064-742-8861     ㆍ팩스: 064-742-8865\n자매협회사이트\nちとせの観光情報満載｜千歳観光連盟\n有田市観光協会\n一般社団法人 下関観光コンベンション協会\n부산관광협회\n사천성한국인(상)회\n四川旅游政务网\n長崎市公式観光サイト「 あっ！とながさき」\n개인정보처리방침\n이용약관\n오시는길\n©제주특별자치도관광협회. ",
+   "attachments": [
+    {
+     "name": "[공고문] 2026 도외 유튜버 대상 제주 장기체류 콘텐츠 제작 지원.hwp",
+     "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59173&no=1"
+    },
+    {
+     "name": "다운로드",
+     "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59173&no=1"
+    },
+    {
+     "name": "[제출서식] 2026 도외 유튜버 대상 제주 장기체류 콘텐츠 제작 지원서.hwp",
+     "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59173&no=2"
+    },
+    {
+     "name": "다운로드",
+     "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59173&no=2"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-07-20",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.5,
    "needs_review": true
   },
   {
