@@ -1,10 +1,10 @@
 {
- "run_at": "2026-07-21T23:43:28",
+ "run_at": "2026-07-22T23:47:14",
  "results": [
   {
    "institution": "jto",
    "found": 61,
-   "new": 26,
+   "new": 23,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
   {
    "institution": "jba",
    "found": 25,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -45,13 +45,13 @@
   },
   {
    "institution": "jwfri",
-   "found": 9,
-   "new": 1,
+   "found": 10,
+   "new": 2,
    "errors": []
   },
   {
    "institution": "jiles",
-   "found": 16,
+   "found": 17,
    "new": 1,
    "errors": []
   },
@@ -73,8 +73,8 @@
   },
   {
    "institution": "jjedu",
-   "found": 28,
-   "new": 5,
+   "found": 32,
+   "new": 7,
    "errors": []
   },
   {
@@ -109,14 +109,14 @@
   },
   {
    "institution": "jta",
-   "found": 0,
-   "new": 0,
+   "found": 15,
+   "new": 9,
    "errors": []
   },
   {
    "institution": "jejucci",
-   "found": 7,
-   "new": 1,
+   "found": 6,
+   "new": 0,
    "errors": []
   },
   {
@@ -129,8 +129,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 88,
-   "new": 77,
+   "found": 89,
+   "new": 19,
    "errors": []
   }
  ]
