@@ -1,10 +1,10 @@
 {
- "run_at": "2026-07-25T00:13:53",
+ "run_at": "2026-07-25T23:46:44",
  "results": [
   {
    "institution": "jto",
    "found": 61,
-   "new": 25,
+   "new": 20,
    "errors": []
   },
   {
@@ -52,7 +52,7 @@
   {
    "institution": "jiles",
    "found": 16,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -60,7 +60,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 367자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 365자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -68,13 +68,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 402자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 400자, title='no-title', 링크 0개"
    ]
   },
   {
    "institution": "jjedu",
    "found": 30,
-   "new": 3,
+   "new": 0,
    "errors": []
   },
   {
@@ -82,7 +82,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 402자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 400자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -129,9 +129,11 @@
   },
   {
    "institution": "bizinfo",
-   "found": 88,
-   "new": 16,
-   "errors": []
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "3회 재시도 실패 — ConnectTimeout: timed out"
+   ]
   }
  ]
 }
