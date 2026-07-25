@@ -1,10 +1,10 @@
 {
- "run_at": "2026-07-23T23:43:43",
+ "run_at": "2026-07-25T00:13:53",
  "results": [
   {
    "institution": "jto",
    "found": 61,
-   "new": 30,
+   "new": 25,
    "errors": []
   },
   {
@@ -52,7 +52,7 @@
   {
    "institution": "jiles",
    "found": 16,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -74,7 +74,7 @@
   {
    "institution": "jjedu",
    "found": 30,
-   "new": 4,
+   "new": 3,
    "errors": []
   },
   {
@@ -90,7 +90,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 152699자, title='제주창조경제혁신센터', 링크 47개"
+    "사업공고: 0건 진단: 응답 152697자, title='제주창조경제혁신센터', 링크 47개"
    ]
   },
   {
@@ -110,7 +110,7 @@
   {
    "institution": "jta",
    "found": 15,
-   "new": 5,
+   "new": 4,
    "errors": []
   },
   {
@@ -129,8 +129,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 84,
-   "new": 11,
+   "found": 88,
+   "new": 16,
    "errors": []
   }
  ]
