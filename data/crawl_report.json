@@ -1,10 +1,10 @@
 {
- "run_at": "2026-08-04T23:49:42",
+ "run_at": "2026-08-05T23:40:50",
  "results": [
   {
    "institution": "jto",
    "found": 60,
-   "new": 19,
+   "new": 26,
    "errors": []
   },
   {
@@ -39,14 +39,14 @@
   },
   {
    "institution": "jri",
-   "found": 6,
+   "found": 5,
    "new": 0,
    "errors": []
   },
   {
    "institution": "jwfri",
    "found": 12,
-   "new": 3,
+   "new": 1,
    "errors": []
   },
   {
@@ -73,8 +73,8 @@
   },
   {
    "institution": "jjedu",
-   "found": 25,
-   "new": 1,
+   "found": 28,
+   "new": 6,
    "errors": []
   },
   {
@@ -110,7 +110,7 @@
   {
    "institution": "jta",
    "found": 16,
-   "new": 7,
+   "new": 8,
    "errors": []
   },
   {
@@ -129,11 +129,9 @@
   },
   {
    "institution": "bizinfo",
-   "found": 0,
-   "new": 0,
-   "errors": [
-    "3회 재시도 실패 — ConnectTimeout: timed out"
-   ]
+   "found": 75,
+   "new": 24,
+   "errors": []
   }
  ]
 }
