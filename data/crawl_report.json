@@ -1,9 +1,9 @@
 {
- "run_at": "2026-08-07T21:09:02",
+ "run_at": "2026-08-08T09:44:38",
  "results": [
   {
    "institution": "jto",
-   "found": 60,
+   "found": 58,
    "new": 18,
    "errors": []
   },
@@ -25,7 +25,7 @@
   },
   {
    "institution": "jba",
-   "found": 26,
+   "found": 25,
    "new": 0,
    "errors": []
   },
@@ -39,20 +39,22 @@
   },
   {
    "institution": "jri",
-   "found": 5,
+   "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "공지사항: 0건 진단: 응답 154405자, title='제주연구원', 링크 391개"
+   ]
   },
   {
    "institution": "jwfri",
-   "found": 12,
+   "found": 8,
    "new": 1,
    "errors": []
   },
   {
    "institution": "jiles",
-   "found": 18,
-   "new": 1,
+   "found": 16,
+   "new": 0,
    "errors": []
   },
   {
@@ -60,7 +62,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 366자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 369자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -68,12 +70,12 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 401자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 404자, title='no-title', 링크 0개"
    ]
   },
   {
    "institution": "jjedu",
-   "found": 28,
+   "found": 26,
    "new": 3,
    "errors": []
   },
@@ -82,8 +84,14 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 401자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 404자, title='no-title', 링크 0개"
    ]
+  },
+  {
+   "institution": "jejunu",
+   "found": 0,
+   "new": 0,
+   "errors": []
   },
   {
    "institution": "ccei",
@@ -102,15 +110,23 @@
    ]
   },
   {
-   "institution": "nosa",
-   "found": 41,
+   "institution": "jsecenter",
+   "found": 0,
    "new": 0,
    "errors": []
   },
   {
+   "institution": "nosa",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "공지사항: 0건 진단: 응답 353749자, title='노사발전재단', 링크 814개"
+   ]
+  },
+  {
    "institution": "jta",
-   "found": 16,
-   "new": 4,
+   "found": 14,
+   "new": 5,
    "errors": []
   },
   {
@@ -123,15 +139,37 @@
    "institution": "kbizjeju",
    "found": 0,
    "new": 0,
-   "errors": [
-    "공지사항: 0건 진단: 응답 71자, title='no-title', 링크 0개"
-   ]
+   "errors": []
+  },
+  {
+   "institution": "jejurise",
+   "found": 0,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "institution": "jejuiucc",
+   "found": 0,
+   "new": 0,
+   "errors": []
   },
   {
    "institution": "bizinfo",
-   "found": 87,
-   "new": 26,
-   "errors": []
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "3회 재시도 실패 — ConnectTimeout: timed out"
+   ]
+  },
+  {
+   "institution": "g2b",
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "용역: ConnectTimeout timed out",
+    "물품: ConnectTimeout timed out",
+    "공사: ConnectTimeout timed out"
+   ]
   }
  ]
 }
