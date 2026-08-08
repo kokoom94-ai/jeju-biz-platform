@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08T09:58:02",
+ "updated_at": "2026-08-08T12:08:57",
  "items": [
   {
    "id": "def890d752ab",
@@ -12700,8 +12700,7 @@
    "status": "open",
    "crawled_at": "2026-08-07",
    "sectors": [
-    "tech",
-    "startup"
+    "tech"
    ],
    "company_types": [
     "small_biz",
@@ -13675,8 +13674,7 @@
    "status": "open",
    "crawled_at": "2026-08-07",
    "sectors": [
-    "market",
-    "edu"
+    "market"
    ],
    "company_types": [
     "small_biz",
@@ -13872,9 +13870,7 @@
    "status": "open",
    "crawled_at": "2026-08-07",
    "sectors": [
-    "etc",
-    "market",
-    "startup"
+    "etc"
    ],
    "company_types": [
     "small_biz",
@@ -15017,8 +15013,7 @@
    "status": "open",
    "crawled_at": "2026-08-07",
    "sectors": [
-    "market",
-    "tech"
+    "market"
    ],
    "company_types": [
     "small_biz",
@@ -15149,9 +15144,7 @@
    "crawled_at": "2026-08-07",
    "sectors": [
     "tech",
-    "fund",
-    "market",
-    "edu"
+    "fund"
    ],
    "company_types": [
     "social_ent"
@@ -15185,8 +15178,7 @@
    "crawled_at": "2026-08-07",
    "sectors": [
     "tech",
-    "fund",
-    "edu"
+    "fund"
    ],
    "company_types": [
     "social_ent",
@@ -16575,8 +16567,7 @@
    "status": "open",
    "crawled_at": "2026-08-07",
    "sectors": [
-    "edu",
-    "market"
+    "edu"
    ],
    "company_types": [
     "small_biz",
