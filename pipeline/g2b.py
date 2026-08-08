@@ -20,18 +20,24 @@ from __future__ import annotations
 import os
 import hashlib
 from datetime import date, datetime, timedelta
+from urllib.parse import unquote
 
 import httpx
 
-# 2024년 개편 이후 경로. 실패 시 구경로로 1회 폴백.
-API_BASE = "https://apis.data.go.kr/1230000/ad/BidPublicInfoService"
-API_BASE_LEGACY = "https://apis.data.go.kr/1230000/BidPublicInfoService04"
+# 조달청 API는 경로·오퍼레이션 개편 이력이 있어 아래 조합을 순차 시도한다.
+# 첫 페이지가 성공한 조합을 이후 호출에 고정 사용.
+API_COMBOS = [
+    # (base, 오퍼레이션 접미) — PPSSrch=검색조건형, 무접미=기본형
+    ("https://apis.data.go.kr/1230000/ad/BidPublicInfoService", "PPSSrch"),
+    ("https://apis.data.go.kr/1230000/ad/BidPublicInfoService", ""),
+    ("https://apis.data.go.kr/1230000/BidPublicInfoService04", "PPSSrch"),
+]
 
-# (오퍼레이션, 라벨) — 용역이 소상공인·기관 실무에 가장 유효, 물품·공사 순
+# (오퍼레이션 어간, 라벨) — 용역이 소상공인·기관 실무에 가장 유효, 물품·공사 순
 OPERATIONS = [
-    ("getBidPblancListInfoServcPPSSrch", "용역"),
-    ("getBidPblancListInfoThngPPSSrch", "물품"),
-    ("getBidPblancListInfoCnstwkPPSSrch", "공사"),
+    ("getBidPblancListInfoServc", "용역"),
+    ("getBidPblancListInfoThng", "물품"),
+    ("getBidPblancListInfoCnstwk", "공사"),
 ]
 
 LOOKBACK_DAYS = 3   # 최근 N일 공고 (일일 실행이므로 여유분 포함)
@@ -79,12 +85,36 @@ def _fetch(base: str, op: str, key: str, page: int, bgn: str, end: str) -> dict:
         "inqryEndDt": end,
         "type": "json",
     }, timeout=30, follow_redirects=True)
-    r.raise_for_status()
-    return r.json()
+    if r.status_code != 200:
+        # 서버가 알려주는 거부 사유를 진단에 포함 (400의 원인 파악용)
+        raise RuntimeError(f"HTTP {r.status_code} :: {r.text[:160]}")
+    try:
+        return r.json()
+    except Exception:
+        raise RuntimeError(f"비JSON 응답 :: {r.text[:160]}")
+
+
+def _pick_combo(key: str, bgn: str, end: str, errors: list[str]):
+    """작동하는 (base, 접미) 조합을 탐색. 용역 1페이지로 검증."""
+    stem = OPERATIONS[0][0]
+    for base, suffix in API_COMBOS:
+        try:
+            data = _fetch(base, stem + suffix, key, 1, bgn, end)
+            hdr = (data.get("response") or {}).get("header") or {}
+            if hdr.get("resultCode") in (None, "00"):
+                return base, suffix, data
+            errors.append(f"{base.rsplit('/',1)[-1]}{'/'+suffix if suffix else ''}: "
+                          f"[{hdr.get('resultCode')}] {hdr.get('resultMsg')}")
+        except Exception as e:
+            errors.append(f"{base.rsplit('/',1)[-1]}{'/'+suffix if suffix else ''}: "
+                          f"{type(e).__name__} {str(e)[:120]}")
+    return None, None, None
 
 
 def collect(db: dict) -> dict:
     key = (os.environ.get("G2B_KEY") or os.environ.get("BIZINFO_KEY") or "").strip()
+    if "%" in key:
+        key = unquote(key)  # 인코딩 버전 키 입력 시 이중 인코딩 방지
     if not key:
         return {"institution": "g2b", "found": 0, "new": 0,
                 "errors": ["G2B_KEY/BIZINFO_KEY 미설정 — 스킵"]}
@@ -97,23 +127,24 @@ def collect(db: dict) -> dict:
     bgn = (now - timedelta(days=LOOKBACK_DAYS)).strftime("%Y%m%d") + "0000"
     end = now.strftime("%Y%m%d") + "2359"
 
-    base = API_BASE
-    for op, label in OPERATIONS:
+    base, suffix, first = _pick_combo(key, bgn, end, errors)
+    if base is None:
+        errors.insert(0, "작동하는 API 경로 조합 없음 — 아래 조합별 응답 참조")
+        return {"institution": "g2b", "found": 0, "new": 0, "errors": errors}
+    errors.clear()  # 탐색 과정 오류는 성공 시 불필요
+
+    for stem, label in OPERATIONS:
+        op = stem + suffix
         for page in range(1, MAX_PAGES + 1):
             try:
-                data = _fetch(base, op, key, page, bgn, end)
-            except Exception as e:
-                # 신경로 첫 실패 시 구경로 폴백 1회
-                if base == API_BASE:
-                    try:
-                        base = API_BASE_LEGACY
-                        data = _fetch(base, op, key, page, bgn, end)
-                    except Exception as e2:
-                        errors.append(f"{label}: {type(e2).__name__} {str(e2)[:80]}")
-                        break
+                # 탐색 때 받은 첫 응답 재사용 (용역 1페이지 중복 호출 방지)
+                if stem == OPERATIONS[0][0] and page == 1 and first is not None:
+                    data, first = first, None
                 else:
-                    errors.append(f"{label}: {type(e).__name__} {str(e)[:80]}")
-                    break
+                    data = _fetch(base, op, key, page, bgn, end)
+            except Exception as e:
+                errors.append(f"{label}: {type(e).__name__} {str(e)[:120]}")
+                break
 
             body = (data.get("response") or {}).get("body") or {}
             rows = body.get("items") or []
