@@ -1,0 +1,28 @@
+name: discover-boards
+
+on:
+  workflow_dispatch:
+    inputs:
+      targets:
+        description: "기관 id (공백 구분, 비우면 --all-unverified)"
+        required: false
+        default: ""
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Probe boards
+        run: |
+          if [ -z "${{ github.event.inputs.targets }}" ]; then
+            python -m pipeline.discover --all-unverified
+          else
+            python -m pipeline.discover ${{ github.event.inputs.targets }}
+          fi
