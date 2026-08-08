@@ -377,11 +377,11 @@
    "group": 3,
    "boards": [
     {
-     "label": "고시공고",
+     "label": "교육청공고",
      "url": "https://www.jje.go.kr"
     },
     {
-     "label": "입찰공고",
+     "label": "교육청공고",
      "url": "https://www.jje.go.kr"
     }
    ],
@@ -391,7 +391,7 @@
    },
    "verified": false,
    "active": true,
-   "_note": "위탁교육·평생교육·시설 입찰 공고 중심"
+   "_note": "루트 크롤 중 — 게시판 라벨은 유형 확정에 쓰지 않도록 중립화. discover로 고시공고/입찰 개별 URL 확정 필요"
   },
   {
    "id": "council",

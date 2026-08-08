@@ -73,10 +73,15 @@ def housekeeping(db: dict):
 
     today = date.today().isoformat()
     cutoff = (date.today() - timedelta(days=90)).isoformat()
+    stale = (date.today() - timedelta(days=60)).isoformat()
     kept = []
     for it in db["items"]:
         end = it.get("apply_end")
         if end and end < today:
+            it["status"] = "closed"
+        # 마감일 미상 공고도 게시 60일 경과 시 종료 간주 ('기한 확인' 무한 잔존 방지)
+        if (not end and not it.get("always_open")
+                and (it.get("posted_at") or it.get("crawled_at") or today) < stale):
             it["status"] = "closed"
         if it["status"] == "closed" and (it.get("apply_end") or today) < cutoff:
             continue  # 90일 지난 마감 건은 목록에서 제거 (JSON 비대화 방지)

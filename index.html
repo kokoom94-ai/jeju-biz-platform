@@ -250,10 +250,11 @@ let items = [];
 
 // ===== 공고유형 판정 (서버 type 필드 우선, 미부여 구데이터는 제목 규칙 폴백) =====
 // pipeline/classifier.py의 classify_type과 동일한 우선순위를 유지할 것.
-const T_HIRING  = /직원\s*채용|채용\s*공고|채용공고|채용\s*계획|채용\s*재공고|기간제\s*(?:직원|근로자)|공무직|인턴\s*(?:채용|모집)|경력직|신입\s*채용|직원\s*(?:공개)?\s*모집/;
-const T_BID     = /입찰|용역|협상에\s*의한\s*계약|수의계약|제안서\s*(?:평가|제출|접수)|나라장터|구매\s*(?:공고|입찰|사전규격)|사전\s*규격|낙찰|개찰/;
+const T_HIRING  = /직원\s*채용|채용\s*공고|채용공고|채용\s*계획|채용\s*재공고|기간제\s*(?:직원|근로자)|공무직|인턴\s*(?:채용|모집)|경력직|신입\s*채용|직원\s*(?:공개)?\s*모집|임기제공무원|대체인력/;
+const T_BID     = /입찰|위탁\s*용역|협상에\s*의한\s*계약|수의계약|낙찰|개찰|사전\s*규격|공급업체\s*선정|대행\s*용역/;
+const T_BID_WEAK = /용역/;
 const T_CONTEST = /공모전|경진\s*대회|콘테스트|챌린지|아이디어\s*공모|디자인\s*공모|영상\s*공모|사진\s*공모|어워드|시상/;
-const T_SUPPORT = /지원\s*사업|지원사업|지원\s*계획|보조금|지원금|융자|특례보증|보증지원|바우처|육성\s*사업|육성사업|이차보전|사업비\s*지원|R&D|기술개발|사업화\s*지원|수출\s*지원|판로\s*지원|시행\s*공고/;
+const T_SUPPORT = /지원\s*사업|지원사업|지원\s*계획|보조금|지원금|융자|특례보증|보증지원|바우처|육성\s*사업|육성사업|이차보전|사업비\s*지원|R&D|기술개발|사업화\s*지원|수출\s*지원|판로\s*지원|시행\s*공고|장학금|(?:개최|행사|참가비|응시료|비용|경비|인건비|임차료|수당|이용료|컨설팅|연수과정|양성과정|교육과정)\s*지원|인센티브|집중지원|맞춤형\s*지원|지원\s*(?:안내|공고|알림|변경)|지원$/;
 const T_RECRUIT = /모집|참가\s*신청|참여\s*기업|참여\s*단체|교육생|아카데미|수강|입주|회원|위원\s*(?:공개)?모집|양성\s*과정/;
 const BOARD_TYPE = {"입찰공고":"bid","입찰정보":"bid","계약정보":"bid","나라장터":"bid","채용공고":"hiring","채용정보":"hiring"};
 const TYPE_LABEL = {support:"지원사업", bid:"용역·입찰", recruit:"모집공고", contest:"공모전", hiring:"채용공고"};
@@ -266,6 +267,7 @@ function typeOf(it){
   if (T_BID.test(t)) return "bid";
   if (T_CONTEST.test(t)) return "contest";
   if (T_SUPPORT.test(t)) return "support";
+  if (T_BID_WEAK.test(t)) return "bid";
   if (b === "기업마당") return "support";
   if (T_RECRUIT.test(t)) return "recruit";
   return t.includes("사업") ? "support" : "recruit";
@@ -276,7 +278,9 @@ const esc = s => (s||"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"
 
 function dday(it){
   if (it.always_open) return {txt:"상시", cls:"always", sort:9998};
-  if (!it.apply_end) return {txt:"기한 확인", cls:"", sort:9999};
+  if (!it.apply_end) return it.status === "closed"
+    ? {txt:"종료", cls:"", sort:10001}
+    : {txt:"기한 확인", cls:"", sort:9999};
   const d = Math.ceil((new Date(it.apply_end) - new Date().setHours(0,0,0,0)) / 864e5);
   if (d < 0) return {txt:"마감", cls:"", sort:10000};
   if (d === 0) return {txt:"오늘 마감", cls:"hot", sort:0};
