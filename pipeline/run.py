@@ -40,7 +40,7 @@ def save_db(db: dict):
 
 def housekeeping(db: dict):
     """마감 처리 + 기존 항목을 최신 정제 규칙으로 재정화 (규칙 개선분 소급 적용)."""
-    from .adapters import _clean_title, TITLE_EXCLUDE
+    from .adapters import _clean_title, TITLE_EXCLUDE, URL_EXCLUDE
     from .classifier import classify_sectors, _extract_deadline
     cleaned = []
     for it in db["items"]:
@@ -48,7 +48,9 @@ def housekeeping(db: dict):
             continue  # 시드 데이터 제거 (실데이터 확보 완료)
         it["title"] = _clean_title(it["title"])
         if TITLE_EXCLUDE.search(it["title"]):
-            continue  # 직원채용·합격자발표 등 소급 제거
+            continue  # 소식성·결과알림 등 소급 제거
+        if URL_EXCLUDE.search(it.get("url", "")):
+            continue  # 영상·메뉴 링크 등 비공고 URL 소급 제거
         OTHER = ("서울","부산","대구","인천","광주광역","대전","울산","세종","경기","강원",
                  "충청북","충청남","충북","충남","전라북","전라남","전북","전남",
                  "경상북","경상남","경북","경남")
@@ -59,8 +61,8 @@ def housekeeping(db: dict):
             it["sectors"] = classify_sectors(it["title"], it.get("summary", ""))
         # 공고유형 소급 부여 (규칙 개선 시에도 매일 최신 규칙으로 재분류)
         it["type"] = classify_type(it["title"], it.get("board", ""), it.get("summary", ""))
-        # 접수마감 재추출 (기업마당 건은 API 접수기간이 정확하므로 유지)
-        if it.get("board") != "기업마당":
+        # 접수마감 재추출 (기업마당·나라장터 건은 API 마감일시가 정확하므로 유지)
+        if it.get("board") not in ("기업마당", "나라장터"):
             end, always = _extract_deadline(it["title"] + "\n" + it.get("summary", ""))
             if end or always:
                 it["apply_end"], it["always_open"] = end, always
@@ -153,6 +155,13 @@ def main():
     report["results"].append(br)
     print(f"[{'bizinfo':>12}] found={br['found']:>3} new={br['new']:>3} "
           f"{'ERR ' + str(br['errors'][:1]) if br['errors'] else ''}")
+
+    # 나라장터 API (조달청 입찰공고 — 제주 한정)
+    from . import g2b
+    gr = g2b.collect(db)
+    report["results"].append(gr)
+    print(f"[{'g2b':>12}] found={gr['found']:>3} new={gr['new']:>3} "
+          f"{'ERR ' + str(gr['errors'][:1]) if gr['errors'] else ''}")
 
     housekeeping(db)
     # 정렬: 마감 임박순 → 게시일 역순

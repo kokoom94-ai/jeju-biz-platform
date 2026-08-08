@@ -31,6 +31,18 @@ TITLE_INCLUDE = re.compile(
 # 채용의 '과정' 알림(합격자·서류전형·면접일정)만 계속 배제.
 TITLE_EXCLUDE = re.compile(
     r"결과\s*발표|당첨자|합격자|서류전형|면접\s*일정|휴무|점검\s*안내$"
+    # 소식성·비공고 게시물 (보도자료, 강의영상, 통계, 결과 소식)
+    r"|#?\d+\s*강[.\s]"          # '35강. 무엇이든 물어보세요' 류 강의 시리즈
+    r"|[금은동]메달|입상|우승"     # 수상 소식
+    r"|명단\s*발표"               # 참가자 명단 발표 (결과 알림)
+    r"|참가율|증가율|상승률"       # 통계 보도자료
+    r"|성료|성황리|개최했|다녀왔"   # 행사 후기·결과 소식
+)
+
+# 공고 게시글이 아닌 URL 배제 (외부 영상, 사이트 메뉴 페이지)
+URL_EXCLUDE = re.compile(
+    r"youtube\.com|youtu\.be"      # 크롤링 목록에 섞인 영상 링크
+    r"|index\.php\?cid="           # 게시글이 아닌 고정 메뉴 페이지 (ijto 등)
 )
 
 
@@ -125,6 +137,9 @@ class StaticBoardAdapter:
             title = _clean_title(a.get_text(" ", strip=True))
             if not self._title_ok(title):
                 continue
+            _u = urljoin(base_url, a["href"])
+            if URL_EXCLUDE.search(_u):
+                continue  # 영상·메뉴 링크 등 비공고 URL
             date_sel = self.config.get("date_selector")
             date_el = row.select_one(date_sel) if date_sel else None
             posts.append(RawPost(
@@ -145,8 +160,11 @@ class StaticBoardAdapter:
             title = _clean_title(a.get_text(" ", strip=True))
             if len(title) < 8 or not self._title_ok(title):
                 continue
+            url = urljoin(base_url, a["href"])
+            if URL_EXCLUDE.search(url):
+                continue  # 영상·메뉴 링크 등 비공고 URL
             date = _norm_date(row.get_text(" ", strip=True))
-            candidates.append(RawPost(title=title, url=urljoin(base_url, a["href"]), posted_at=date))
+            candidates.append(RawPost(title=title, url=url, posted_at=date))
         if len(candidates) >= 3:
             return candidates[:40]
         # 2순위: ul/li 리스트형 게시판
@@ -158,8 +176,11 @@ class StaticBoardAdapter:
             title = _clean_title(a.get_text(" ", strip=True))
             if len(title) < 10 or not self._title_ok(title):
                 continue
+            url = urljoin(base_url, a["href"])
+            if URL_EXCLUDE.search(url):
+                continue  # 영상·메뉴 링크 등 비공고 URL
             candidates.append(RawPost(
-                title=title, url=urljoin(base_url, a["href"]),
+                title=title, url=url,
                 posted_at=_norm_date(li.get_text(" ", strip=True)),
             ))
         return candidates[:40]

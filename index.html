@@ -255,7 +255,7 @@ const T_BID     = /입찰|용역|협상에\s*의한\s*계약|수의계약|제안
 const T_CONTEST = /공모전|경진\s*대회|콘테스트|챌린지|아이디어\s*공모|디자인\s*공모|영상\s*공모|사진\s*공모|어워드|시상/;
 const T_SUPPORT = /지원\s*사업|지원사업|지원\s*계획|보조금|지원금|융자|특례보증|보증지원|바우처|육성\s*사업|육성사업|이차보전|사업비\s*지원|R&D|기술개발|사업화\s*지원|수출\s*지원|판로\s*지원|시행\s*공고/;
 const T_RECRUIT = /모집|참가\s*신청|참여\s*기업|참여\s*단체|교육생|아카데미|수강|입주|회원|위원\s*(?:공개)?모집|양성\s*과정/;
-const BOARD_TYPE = {"입찰공고":"bid","입찰정보":"bid","계약정보":"bid","채용공고":"hiring","채용정보":"hiring"};
+const BOARD_TYPE = {"입찰공고":"bid","입찰정보":"bid","계약정보":"bid","나라장터":"bid","채용공고":"hiring","채용정보":"hiring"};
 const TYPE_LABEL = {support:"지원사업", bid:"용역·입찰", recruit:"모집공고", contest:"공모전", hiring:"채용공고"};
 
 function typeOf(it){
