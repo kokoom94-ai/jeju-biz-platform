@@ -62,6 +62,62 @@ BIZINFO_SECTOR = {"금융": "loan", "기술": "tech", "인력": "employ", "수�
                   "내수": "market", "창업": "startup", "경영": "edu", "기타": "etc"}
 
 
+# ===== 공고유형(type) — UI 2차 필터의 단일 축 (항목당 정확히 1개) =====
+# support(지원사업) / bid(용역·입찰) / recruit(모집공고) / contest(공모전) / hiring(채용공고)
+TYPES = ["support", "bid", "recruit", "contest", "hiring"]
+
+_T_HIRING  = re.compile(r"직원\s*채용|채용\s*공고|채용공고|채용\s*계획|채용\s*재공고"
+                        r"|기간제\s*(?:직원|근로자)|공무직|인턴\s*(?:채용|모집)"
+                        r"|경력직|신입\s*채용|직원\s*(?:공개)?\s*모집")
+_T_BID     = re.compile(r"입찰|용역|협상에\s*의한\s*계약|수의계약|제안서\s*(?:평가|제출|접수)"
+                        r"|나라장터|구매\s*(?:공고|입찰|사전규격)|사전\s*규격|낙찰|개찰")
+_T_CONTEST = re.compile(r"공모전|경진\s*대회|경진대회|콘테스트|챌린지|아이디어\s*공모"
+                        r"|디자인\s*공모|영상\s*공모|사진\s*공모|어워드|시상")
+_T_SUPPORT = re.compile(r"지원\s*사업|지원사업|지원\s*계획|보조금|지원금|융자|특례보증|보증지원"
+                        r"|바우처|육성\s*사업|육성사업|이차보전|사업비\s*지원|R&D|기술개발"
+                        r"|사업화\s*지원|수출\s*지원|판로\s*지원|시행\s*공고")
+_T_RECRUIT = re.compile(r"모집|참가\s*신청|참여\s*기업|참여\s*단체|교육생|아카데미"
+                        r"|수강|입주|회원|위원\s*(?:공개)?모집|양성\s*과정")
+
+# 게시판명 단서 (제목보다 우선 — 게시판 자체가 유형을 확정)
+_BOARD_TYPE = {"입찰공고": "bid", "입찰정보": "bid", "계약정보": "bid",
+               "채용공고": "hiring", "채용정보": "hiring"}
+
+
+def classify_type(title: str, board: str = "", body: str = "") -> str:
+    """공고유형 단일 판정. 우선순위: 게시판 확정 > 채용 > 입찰 > 공모전 > 지원 > 모집.
+
+    - 채용을 최우선으로 두는 이유: '직원 모집', '인턴 모집' 등이 모집/지원 규칙과
+      겹치므로 먼저 걸러야 함.
+    - 지원 > 모집 순서인 이유: '지원사업 참여기업 모집'은 지원사업으로 분류돼야 함.
+    """
+    bt = _BOARD_TYPE.get(board or "")
+    if bt:
+        return bt
+    if _T_HIRING.search(title):
+        return "hiring"
+    if _T_BID.search(title):
+        return "bid"
+    if _T_CONTEST.search(title):
+        return "contest"
+    if _T_SUPPORT.search(title):
+        return "support"
+    # 기업마당은 중기부 지원사업 통합공고 채널 — '참가기업 모집'류도 실체는 지원사업.
+    # 공모전/입찰/채용 단서가 없으면 support로 확정.
+    if board == "기업마당":
+        return "support"
+    if _T_RECRUIT.search(title):
+        return "recruit"
+    # 제목 무단서 → 본문 보조 판정 (메뉴 텍스트 오탐 방지 위해 2회 이상)
+    if body:
+        if sum(1 for _ in _T_BID.finditer(body)) >= 2:
+            return "bid"
+        if sum(1 for _ in _T_SUPPORT.finditer(body)) >= 2:
+            return "support"
+    # 최종 폴백: '사업'이 들어가면 지원사업, 아니면 모집공고
+    return "support" if "사업" in title else "recruit"
+
+
 def classify_sectors(title: str, body: str, bizinfo_field: str | None = None) -> list[str]:
     """공고의 분야 태그(다중). 기업마당 공식 분야가 있으면 최우선 반영."""
     found: list[str] = []

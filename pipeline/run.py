@@ -18,7 +18,7 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 
 from .adapters import ADAPTERS, RawPost
-from .classifier import classify
+from .classifier import classify, classify_type
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "announcements.json"
@@ -57,6 +57,8 @@ def housekeeping(db: dict):
         # 분야 소급 부여 (기업마당 건은 board로 식별해도 공식분야 미보존이므로 규칙 분류)
         if not it.get("sectors"):
             it["sectors"] = classify_sectors(it["title"], it.get("summary", ""))
+        # 공고유형 소급 부여 (규칙 개선 시에도 매일 최신 규칙으로 재분류)
+        it["type"] = classify_type(it["title"], it.get("board", ""), it.get("summary", ""))
         # 접수마감 재추출 (기업마당 건은 API 접수기간이 정확하므로 유지)
         if it.get("board") != "기업마당":
             end, always = _extract_deadline(it["title"] + "\n" + it.get("summary", ""))
@@ -103,6 +105,7 @@ def process_institution(inst: dict, db: dict) -> dict:
                 continue  # ★ 증분 처리: 이미 수집된 공고는 상세 요청도 생략
             post = adapter.fetch_detail(post)
             cls = classify(post.title, post.body_text)
+            cls["type"] = classify_type(post.title, board["label"], post.body_text)
             db["items"].append({
                 "id": post.content_hash()[:12],
                 "institution": inst["name"],

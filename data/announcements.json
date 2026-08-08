@@ -37,7 +37,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "94924454aad4",
@@ -75,7 +76,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "7fdb1cb04eb4",
@@ -132,7 +134,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "2017f909f199",
@@ -180,7 +183,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "51957edeea1b",
@@ -228,7 +232,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "742b01416e19",
@@ -271,7 +276,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "207fd49a355f",
@@ -314,7 +320,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "b473fac5ea52",
@@ -357,7 +364,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "c1fca0d63fae",
@@ -400,7 +408,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "7cc619161cdc",
@@ -447,7 +456,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "e5e0fd3f51ee",
@@ -494,7 +504,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "08a0ba684163",
@@ -544,7 +555,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "a059a4edf719",
@@ -594,7 +606,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "ce34f15cfd1b",
@@ -637,7 +650,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "ab9f187c28b3",
@@ -680,7 +694,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "a642fe6cfefa",
@@ -713,7 +728,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "e53ae474fbf8",
@@ -746,7 +762,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "ff7c84e7e2fb",
@@ -792,7 +809,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "cea6dee636e4",
@@ -838,7 +856,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "5be96c1279f7",
@@ -884,7 +903,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "07ae2f476dda",
@@ -934,7 +954,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "2f5813af3ef6",
@@ -967,7 +988,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "034d1b41aa45",
@@ -1000,7 +1022,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "d47a34c5b20c",
@@ -1033,7 +1056,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "cdc9257e751c",
@@ -1075,7 +1099,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "e8c2aeac9cff",
@@ -1117,7 +1142,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "69768fe44351",
@@ -1159,7 +1185,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "18058cc9001d",
@@ -1198,7 +1225,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "20d1348bbeb0",
@@ -1230,7 +1258,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "ef38d4835748",
@@ -1263,7 +1292,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "d8c73fa7f742",
@@ -1296,7 +1326,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "3e3cf1d60ad0",
@@ -1342,7 +1373,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "e6ae6b9a6d5d",
@@ -1379,7 +1411,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "5038fed70227",
@@ -1432,7 +1465,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "d23c27e47ad3",
@@ -1485,7 +1519,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "64fbb7cc93ca",
@@ -1536,7 +1571,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "9ca50d4c918b",
@@ -1587,7 +1623,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "39ccece814c9",
@@ -1632,7 +1669,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "44cfd59ff80e",
@@ -1663,7 +1701,8 @@
    "needs_review": true,
    "sectors": [
     "etc"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "3b224d3ecdd8",
@@ -1695,7 +1734,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "b1e575349f02",
@@ -1728,7 +1768,8 @@
    "needs_review": true,
    "sectors": [
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "a365e553ef55",
@@ -1765,7 +1806,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "5d552e38d0ba",
@@ -1796,7 +1838,8 @@
    "needs_review": false,
    "sectors": [
     "startup"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "c4b177df1186",
@@ -1834,7 +1877,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "c4b177df1186",
@@ -1872,7 +1916,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "c12660d07a00",
@@ -1905,7 +1950,8 @@
    "sectors": [
     "fund",
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "6d4d812717de",
@@ -1936,7 +1982,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "1b2a20089726",
@@ -1970,7 +2017,8 @@
    "sectors": [
     "edu",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "2d0bc3706555",
@@ -2007,7 +2055,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "5742b1150e61",
@@ -2044,7 +2093,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "cded57fd8c6d",
@@ -2075,7 +2125,8 @@
    "needs_review": false,
    "sectors": [
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "cb7f7889ceed",
@@ -2107,7 +2158,8 @@
    "needs_review": true,
    "sectors": [
     "etc"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "22bae0f30c92",
@@ -2138,7 +2190,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "d227d0585403",
@@ -2169,7 +2222,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "3912deeadb16",
@@ -2206,7 +2260,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "7b083841919f",
@@ -2237,7 +2292,8 @@
    "needs_review": true,
    "sectors": [
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "ea6c9bb937a9",
@@ -2272,7 +2328,8 @@
     "market",
     "fund",
     "edu"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "52f1bbe29b2c",
@@ -2303,7 +2360,8 @@
    "needs_review": false,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "d9711f029bc0",
@@ -2335,7 +2393,8 @@
    "needs_review": true,
    "sectors": [
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "6820afa4cc9a",
@@ -2366,7 +2425,8 @@
    "needs_review": true,
    "sectors": [
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "8b2adebdd92b",
@@ -2398,7 +2458,8 @@
    "sectors": [
     "tech",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "ebc2d62ade03",
@@ -2431,7 +2492,8 @@
    "sectors": [
     "edu",
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "bf7361c594d7",
@@ -2462,7 +2524,8 @@
    "needs_review": true,
    "sectors": [
     "loan"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "0a5b604dce1f",
@@ -2494,7 +2557,8 @@
    "sectors": [
     "market",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "be9f5af6c124",
@@ -2526,7 +2590,8 @@
    "sectors": [
     "edu",
     "startup"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "92bf1cd9fb2b",
@@ -2559,7 +2624,8 @@
    "needs_review": false,
    "sectors": [
     "edu"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "fcde0073a094",
@@ -2592,7 +2658,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "6c2a36a42a2e",
@@ -2623,7 +2690,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "8b03fcf0beca",
@@ -2654,7 +2722,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "a791eb136983",
@@ -2686,7 +2755,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "5377697565ea",
@@ -2721,7 +2791,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "837439e5e521",
@@ -2756,7 +2827,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "4704590ef69a",
@@ -2789,7 +2861,8 @@
    "sectors": [
     "tech",
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "95ed11c4c725",
@@ -2835,7 +2908,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "79fa8581e83b",
@@ -2867,7 +2941,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "8dd8a65ebda6",
@@ -2898,7 +2973,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "6c856d0fa13d",
@@ -2935,7 +3011,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "hiring"
   },
   {
    "id": "d6b6fb66850e",
@@ -2966,7 +3043,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "603a4f149314",
@@ -2998,7 +3076,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "6e7856f5a3f4",
@@ -3029,7 +3108,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "06bd33e1ef9e",
@@ -3066,7 +3146,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "896f02ccb074",
@@ -3103,7 +3184,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "5fd6b216fa31",
@@ -3141,7 +3223,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "3aa2b33c9de9",
@@ -3179,7 +3262,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "b21fbd4758a2",
@@ -3210,7 +3294,8 @@
    "needs_review": false,
    "sectors": [
     "contest"
-   ]
+   ],
+   "type": "contest"
   },
   {
    "id": "46e1b90cdb60",
@@ -3241,7 +3326,8 @@
    "needs_review": false,
    "sectors": [
     "etc"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "b47041d96903",
@@ -3274,7 +3360,8 @@
    "sectors": [
     "fund",
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "5b923ed88022",
@@ -3305,7 +3392,8 @@
    "needs_review": true,
    "sectors": [
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "80cf4e19681b",
@@ -3337,7 +3425,8 @@
    "needs_review": true,
    "sectors": [
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "e79325a6605b",
@@ -3369,7 +3458,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "ad6cc0102c22",
@@ -3402,7 +3492,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "82e8036408f5",
@@ -3434,7 +3525,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "a1a1c779b6ea",
@@ -3469,7 +3561,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "695ac3c82c47",
@@ -3511,7 +3604,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "19813ec9e043",
@@ -3553,7 +3647,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "07d1be7f1449",
@@ -3585,7 +3680,8 @@
    "needs_review": true,
    "sectors": [
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "6f8b6a699126",
@@ -3616,7 +3712,8 @@
    "needs_review": false,
    "sectors": [
     "edu"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "8800516df5d8",
@@ -3649,7 +3746,8 @@
    "sectors": [
     "tech",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "084ded0448f3",
@@ -3680,7 +3778,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "bb1311f304b5",
@@ -3713,7 +3812,8 @@
    "sectors": [
     "startup",
     "contest"
-   ]
+   ],
+   "type": "contest"
   },
   {
    "id": "31c276cfdbde",
@@ -3744,7 +3844,8 @@
    "needs_review": true,
    "sectors": [
     "edu"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "2077d076fa01",
@@ -3778,7 +3879,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "cf47b26d1ed6",
@@ -3810,7 +3912,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "1e31ef2aacb0",
@@ -3854,7 +3957,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "3ead91239ccb",
@@ -3888,7 +3992,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "ba321ba26694",
@@ -3929,7 +4034,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "7674bd88c276",
@@ -3974,7 +4080,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "afb5dff6aa4d",
@@ -4006,7 +4113,8 @@
    "sectors": [
     "market",
     "startup"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "484adcb53938",
@@ -4038,7 +4146,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "9459d7324256",
@@ -4071,7 +4180,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "7bde3fa3ae69",
@@ -4102,7 +4212,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "c36e5b1a45d3",
@@ -4135,7 +4246,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "54f2ba4456c6",
@@ -4166,7 +4278,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "019382d3cb25",
@@ -4198,7 +4311,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "78aa0eb5efcb",
@@ -4231,7 +4345,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "361450f61131",
@@ -4262,7 +4377,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "90f7f7f009c4",
@@ -4294,7 +4410,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "5fe46a1e80cc",
@@ -4326,7 +4443,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "f4adccb5e8a4",
@@ -4357,7 +4475,8 @@
    "needs_review": false,
    "sectors": [
     "loan"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "e686ec553fe1",
@@ -4388,7 +4507,8 @@
    "needs_review": false,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "4fb0f91e9f58",
@@ -4421,7 +4541,8 @@
    "sectors": [
     "market",
     "bid"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "8bb6f8343970",
@@ -4453,7 +4574,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "a1f825820dad",
@@ -4485,7 +4607,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "f9b776620e00",
@@ -4517,7 +4640,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "018df818d903",
@@ -4551,7 +4675,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "de8fcbc595cf",
@@ -4583,7 +4708,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "4f6eaa54705d",
@@ -4615,7 +4741,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "236b2ed73b60",
@@ -4647,7 +4774,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "03935a1fddf5",
@@ -4679,7 +4807,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "a1e3e55faf2b",
@@ -4716,7 +4845,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "69e01b403b1d",
@@ -4758,7 +4888,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "6993d14c9833",
@@ -4800,7 +4931,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "8744819320e3",
@@ -4842,7 +4974,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "398cc365615b",
@@ -4875,7 +5008,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "3f7940f6dea8",
@@ -4906,7 +5040,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "cdaa69beec80",
@@ -4938,7 +5073,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "90b4137f504e",
@@ -4983,7 +5119,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "c5264f6cf59c",
@@ -5016,7 +5153,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "62b93e8f00de",
@@ -5049,7 +5187,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "a910fdfc8d70",
@@ -5082,7 +5221,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "9dba1b1240d5",
@@ -5127,7 +5267,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "0eadcdefabc9",
@@ -5160,7 +5301,8 @@
    "sectors": [
     "startup",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "4ecfbc98548c",
@@ -5194,7 +5336,8 @@
    "sectors": [
     "startup",
     "bid"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "5e9314c2a701",
@@ -5227,7 +5370,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "328ddd6e091c",
@@ -5258,7 +5402,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "ef2b384651bc",
@@ -5291,7 +5436,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "070d96208b4f",
@@ -5323,7 +5469,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "260e4d16220a",
@@ -5355,7 +5502,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "e9bbb883436b",
@@ -5389,7 +5537,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "f29150c3c0f5",
@@ -5422,7 +5571,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "f47f18c399b7",
@@ -5467,7 +5617,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "ab391df24ecc",
@@ -5508,7 +5659,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "f851ce49e4bd",
@@ -5545,7 +5697,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "8aee200ce204",
@@ -5582,7 +5735,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "49832eda50cf",
@@ -5613,7 +5767,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "f433dcbc87e3",
@@ -5647,7 +5802,8 @@
    "sectors": [
     "market",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "08aacf3d37bc",
@@ -5680,7 +5836,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "56bb83f5999b",
@@ -5717,7 +5874,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "8afe1b0880e4",
@@ -5754,7 +5912,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "2af13cee70d8",
@@ -5791,7 +5950,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "4f41f40d597e",
@@ -5823,7 +5983,8 @@
    "needs_review": false,
    "sectors": [
     "edu"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "4f02eaa8f5e6",
@@ -5854,7 +6015,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "dec1569a3b76",
@@ -5887,7 +6049,8 @@
    "sectors": [
     "market",
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "30b00075a14c",
@@ -5918,7 +6081,8 @@
    "needs_review": true,
    "sectors": [
     "etc"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "41948008fd51",
@@ -5950,7 +6114,8 @@
    "sectors": [
     "edu",
     "employ"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "1def370a94d1",
@@ -5981,7 +6146,8 @@
    "needs_review": true,
    "sectors": [
     "edu"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "e2e3666279a1",
@@ -6012,7 +6178,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "0a7d7543064a",
@@ -6043,7 +6210,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "ab0dbe400d30",
@@ -6074,7 +6242,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "46846eba178d",
@@ -6107,7 +6276,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "96f71f989aa1",
@@ -6138,7 +6308,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "b20b1332f95e",
@@ -6169,7 +6340,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "205f7291cefb",
@@ -6218,7 +6390,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "932b4c00d521",
@@ -6250,7 +6423,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "a76f8ab95678",
@@ -6281,7 +6455,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "6393e219e6b5",
@@ -6330,7 +6505,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "e49fefc68927",
@@ -6366,7 +6542,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "0672c836f9ca",
@@ -6400,7 +6577,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "7efb74e56179",
@@ -6434,7 +6612,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "f0c0032480a3",
@@ -6471,7 +6650,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "c630d392633b",
@@ -6507,7 +6687,8 @@
     "edu",
     "fund",
     "bid"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "111938d363c3",
@@ -6538,7 +6719,8 @@
    "needs_review": true,
    "sectors": [
     "etc"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "f6cb982030f0",
@@ -6569,7 +6751,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "621cf2eb9089",
@@ -6600,7 +6783,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "faa8c8173f1f",
@@ -6631,7 +6815,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "90f8b84d0cae",
@@ -6669,7 +6854,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "6dbd95cccd4b",
@@ -6707,7 +6893,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "ab28779be5bd",
@@ -6745,7 +6932,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "cc546b3bc0de",
@@ -6777,7 +6965,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "5d46c196d96e",
@@ -6809,7 +6998,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "ee4236e9dc9a",
@@ -6840,7 +7030,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "69f77536a3a8",
@@ -6873,7 +7064,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "37cc1874b47e",
@@ -6906,7 +7098,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "6bbc60451dd9",
@@ -6939,7 +7132,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "150be75e2eaa",
@@ -6976,7 +7170,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "da4f21fcc238",
@@ -7018,7 +7213,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "89a0e5df244f",
@@ -7055,7 +7251,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "015c1b9b131d",
@@ -7088,7 +7285,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "ef21a9cb9f75",
@@ -7123,7 +7321,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "7c7c90a1e814",
@@ -7157,7 +7356,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "9a48ae2370f3",
@@ -7194,7 +7394,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "50fae5065a0f",
@@ -7225,7 +7426,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "e1210dd65a0e",
@@ -7257,7 +7459,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "4db0e776ed5d",
@@ -7288,7 +7491,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "d70fb7e1ed19",
@@ -7319,7 +7523,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "3677b1d6a289",
@@ -7350,7 +7555,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "ebc812bcf981",
@@ -7384,7 +7590,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "85be846123b0",
@@ -7417,7 +7624,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "6364f7273bac",
@@ -7454,7 +7662,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "4b46979b6786",
@@ -7485,7 +7694,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "eba99be19a25",
@@ -7517,7 +7727,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "9a5d27598478",
@@ -7549,7 +7760,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "9b7081fb5d4c",
@@ -7582,7 +7794,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "ae335b40cbf4",
@@ -7613,7 +7826,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "4d705ca664ac",
@@ -7645,7 +7859,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "f4ee413d85d6",
@@ -7676,7 +7891,8 @@
    "needs_review": true,
    "sectors": [
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "ce446267b5c5",
@@ -7710,7 +7926,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "42fb1ce8ae8d",
@@ -7742,7 +7959,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "a67485d82d3f",
@@ -7773,7 +7991,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "dc41d53a51d1",
@@ -7808,7 +8027,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "462290886b41",
@@ -7841,7 +8061,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "6a9ae850090b",
@@ -7878,7 +8099,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "6abff695ab4e",
@@ -7923,7 +8145,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "3cd9bfd66b38",
@@ -7955,7 +8178,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "6ea45b9c252a",
@@ -7988,7 +8212,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "ade1ccf18ab4",
@@ -8033,7 +8258,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "23ab8c90f6b9",
@@ -8082,7 +8308,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "14cc13300520",
@@ -8114,7 +8341,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "211498334031",
@@ -8145,7 +8373,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "9caec5bff604",
@@ -8176,7 +8405,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "b8b18e05ae03",
@@ -8209,7 +8439,8 @@
    "sectors": [
     "tech",
     "edu"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "312a68625e51",
@@ -8241,7 +8472,8 @@
    "sectors": [
     "tech",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "c50ded06b2d2",
@@ -8273,7 +8505,8 @@
    "sectors": [
     "edu",
     "employ"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "ccfef52e2862",
@@ -8305,7 +8538,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "25914aebceae",
@@ -8336,7 +8570,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "eb3ea2a04415",
@@ -8367,7 +8602,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "contest"
   },
   {
    "id": "3f77ff344741",
@@ -8401,7 +8637,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "b4f8710ad9cb",
@@ -8433,7 +8670,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "4e8d29d454b5",
@@ -8466,7 +8704,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "0cc786743f04",
@@ -8499,7 +8738,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "2a3f9cf4999f",
@@ -8530,7 +8770,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "b847afa9500c",
@@ -8562,7 +8803,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "0c72e38aa8cf",
@@ -8594,7 +8836,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "cc1776af541f",
@@ -8625,7 +8868,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "7ae72ad0014b",
@@ -8657,7 +8901,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "aea557e1d115",
@@ -8689,7 +8934,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "60c962c68034",
@@ -8721,7 +8967,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "b20b0d3bb46c",
@@ -8754,7 +9001,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "24858e34e352",
@@ -8786,7 +9034,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "3e3e05feb5b0",
@@ -8817,7 +9066,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "904b863859df",
@@ -8848,7 +9098,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "8e35df7eb2c8",
@@ -8879,7 +9130,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "75f848821ac6",
@@ -8927,7 +9179,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "b38a750c004d",
@@ -8958,7 +9211,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "3245bd05aedb",
@@ -8992,7 +9246,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "e0b1ac5c6a54",
@@ -9024,7 +9279,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "aed76a4fcf56",
@@ -9057,7 +9313,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "508034556624",
@@ -9088,7 +9345,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "e3940e1dc14b",
@@ -9119,7 +9377,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "7835a1af3db5",
@@ -9151,7 +9410,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "7a002766fb27",
@@ -9184,7 +9444,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "3d6f30833e19",
@@ -9218,7 +9479,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "bf09d34b8700",
@@ -9255,7 +9517,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "bca82f464e4f",
@@ -9287,7 +9550,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "412f57dcc111",
@@ -9318,7 +9582,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "a866cd5d759d",
@@ -9350,7 +9615,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "c801dd6ded7d",
@@ -9396,7 +9662,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "f54fbb25322b",
@@ -9433,7 +9700,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "09c9657f02a7",
@@ -9475,7 +9743,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "8a0663d9eea7",
@@ -9517,7 +9786,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "e0c54658feda",
@@ -9548,7 +9818,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "bc620f539bd9",
@@ -9579,7 +9850,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "d3fa6442a177",
@@ -9611,7 +9883,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "b58bb02cb056",
@@ -9646,7 +9919,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "contest"
   },
   {
    "id": "40a1a0436a28",
@@ -9679,7 +9953,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "86298a9b78b7",
@@ -9713,7 +9988,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "865a2e5f5b41",
@@ -9747,7 +10023,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "a05770413008",
@@ -9781,7 +10058,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "1ea304acb163",
@@ -9812,7 +10090,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "86ce42012ccd",
@@ -9844,7 +10123,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "ff9a04acb30a",
@@ -9875,7 +10155,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "40ac56c33e71",
@@ -9908,7 +10189,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "502e0cff9311",
@@ -9940,7 +10222,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "170894ea442c",
@@ -9972,7 +10255,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "cbc8c6d69f16",
@@ -10004,7 +10288,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "47c4dd25e34a",
@@ -10037,7 +10322,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "c52e064253e2",
@@ -10070,7 +10356,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "959e05a9d327",
@@ -10102,7 +10389,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "038553081521",
@@ -10133,7 +10421,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "fa3fe1fe3d59",
@@ -10170,7 +10459,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "7e447102c9c0",
@@ -10203,7 +10493,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "d43dab8ef29c",
@@ -10240,7 +10531,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "3762228358fe",
@@ -10272,7 +10564,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "5c555a0f7454",
@@ -10303,7 +10596,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "49dabe4b817e",
@@ -10334,7 +10628,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "ee9fe6fce0fa",
@@ -10366,7 +10661,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "54292188acb6",
@@ -10397,7 +10693,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "82e6da1790ab",
@@ -10429,7 +10726,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "eeaf58fad5a7",
@@ -10466,7 +10764,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "bae7f8304ddf",
@@ -10508,7 +10807,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "f0fe502305f3",
@@ -10540,7 +10840,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "94d47f380566",
@@ -10573,7 +10874,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "e799228bd8c8",
@@ -10605,7 +10907,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "2a080fb8b8e6",
@@ -10637,7 +10940,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "4d0588e7ad9f",
@@ -10668,7 +10972,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "79df6e505c24",
@@ -10702,7 +11007,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "40896e548637",
@@ -10740,7 +11046,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "718e49653571",
@@ -10772,7 +11079,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "3ef965b71166",
@@ -10804,7 +11112,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "54c33b64ae7f",
@@ -10836,7 +11145,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "031afbb26ca8",
@@ -10868,7 +11178,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "30d2a7dd043c",
@@ -10901,7 +11212,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "867af2fe270d",
@@ -10932,7 +11244,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "e54c0d91cd74",
@@ -10966,7 +11279,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "contest"
   },
   {
    "id": "7db325b76fab",
@@ -10998,7 +11312,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "c9e827e83b4b",
@@ -11029,7 +11344,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "9f0882841c9e",
@@ -11060,7 +11376,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "0a1ee42a4e7e",
@@ -11094,7 +11411,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "1a5c9317b761",
@@ -11125,7 +11443,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "e84c33e6e881",
@@ -11156,7 +11475,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "310272f3fbdc",
@@ -11188,7 +11508,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "e3dee60b1988",
@@ -11224,7 +11545,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "63d0ae162825",
@@ -11258,7 +11580,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "2d0cc11a1954",
@@ -11290,7 +11613,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "9828e8c464b6",
@@ -11322,7 +11646,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "b37b9706e2a2",
@@ -11356,7 +11681,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "997299a11b5a",
@@ -11389,7 +11715,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "9e0a4500c0d4",
@@ -11420,7 +11747,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "8d16593f48bf",
@@ -11451,7 +11779,8 @@
    "needs_review": true,
    "sectors": [
     "edu"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "4c7869f360ab",
@@ -11485,7 +11814,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "727b3837a520",
@@ -11518,7 +11848,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "03a9a3954a70",
@@ -11550,7 +11881,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "1a191c4aad30",
@@ -11581,7 +11913,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "9e27f3d1bebf",
@@ -11613,7 +11946,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "6e389253a094",
@@ -11650,7 +11984,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "41a046610675",
@@ -11682,7 +12017,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "8696941dc257",
@@ -11713,7 +12049,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "e1a01e769511",
@@ -11744,7 +12081,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "3af69c0390f7",
@@ -11779,7 +12117,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "a1e962975a1b",
@@ -11825,7 +12164,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "dac1dc518194",
@@ -11858,7 +12198,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "06a7f7427db3",
@@ -11890,7 +12231,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "25748950946a",
@@ -11921,7 +12263,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "ab78ff07e76b",
@@ -11952,7 +12295,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "102048e15fe0",
@@ -11983,7 +12327,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "bec9c32a0d5e",
@@ -12016,7 +12361,8 @@
    "sectors": [
     "tech",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "6e140873efbd",
@@ -12048,7 +12394,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "1d60e1f2ebc3",
@@ -12079,7 +12426,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "870598b3dfd9",
@@ -12110,7 +12458,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "71e561cefb1b",
@@ -12142,7 +12491,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "05384dc016ad",
@@ -12173,7 +12523,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "5db57a0dd996",
@@ -12207,7 +12558,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "a56f97e2e488",
@@ -12256,7 +12608,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "93e592c12de4",
@@ -12287,7 +12640,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "85e658f145be",
@@ -12320,7 +12674,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "f1f730476b44",
@@ -12354,7 +12709,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "59b7a8447845",
@@ -12388,7 +12744,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "003e800eb898",
@@ -12422,7 +12779,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "4d12f8592336",
@@ -12453,7 +12811,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "596d1f81a618",
@@ -12484,7 +12843,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "482d24576fb4",
@@ -12516,7 +12876,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "06fe471b2706",
@@ -12561,7 +12922,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "1ca1d145a2e5",
@@ -12592,7 +12954,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "aa05b9a9e349",
@@ -12624,7 +12987,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "7cdcad601781",
@@ -12655,7 +13019,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "be4879883913",
@@ -12689,7 +13054,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "67a69056f914",
@@ -12721,7 +13087,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "023023807dba",
@@ -12752,7 +13119,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "e1f55530f71d",
@@ -12783,7 +13151,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "8f14b39eb2ff",
@@ -12815,7 +13184,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "e9aee8cdd0d4",
@@ -12847,7 +13217,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "a0ed17d44adc",
@@ -12878,7 +13249,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "80a89fea223b",
@@ -12911,7 +13283,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "7113d436f374",
@@ -12942,7 +13315,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "0f9d4ead25dc",
@@ -12973,7 +13347,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "9c622c96eb4c",
@@ -13007,7 +13382,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "5767ea4986fe",
@@ -13039,7 +13415,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "0a0b10fe7461",
@@ -13073,7 +13450,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "1456beffba71",
@@ -13105,7 +13483,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "dd54b8d51365",
@@ -13139,7 +13518,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "17a3fe4851f0",
@@ -13171,7 +13551,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "955cac2d2faf",
@@ -13202,7 +13583,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "dd9430523dc6",
@@ -13233,7 +13615,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "54bb29484d12",
@@ -13267,7 +13650,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "contest"
   },
   {
    "id": "3eba88211d0f",
@@ -13300,7 +13684,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "daefe0b22a59",
@@ -13333,7 +13718,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "aa3e1b6945ab",
@@ -13367,7 +13753,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "306538e0f65d",
@@ -13398,7 +13785,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "44678d6d20d5",
@@ -13429,7 +13817,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "cffdd2ae4a6f",
@@ -13460,7 +13849,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "69696790fc57",
@@ -13491,7 +13881,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "904d11397b0c",
@@ -13527,7 +13918,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "893e34592700",
@@ -13559,7 +13951,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "2005d4d50a16",
@@ -13590,7 +13983,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "dfcc10318bd0",
@@ -13621,7 +14015,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "2962c9f008b5",
@@ -13653,7 +14048,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "c5782bd91352",
@@ -13685,7 +14081,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "03b80e9bace2",
@@ -13716,7 +14113,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "96df09ab07f1",
@@ -13747,7 +14145,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "6d13c30a3d0c",
@@ -13779,7 +14178,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "2511f79c5ad4",
@@ -13810,7 +14210,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "43bfbe0d1b45",
@@ -13841,7 +14242,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "2a8d48fc39e8",
@@ -13874,7 +14276,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "b68a4be37874",
@@ -13906,7 +14309,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "7bdb9de144d3",
@@ -13941,7 +14345,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "08deb3727976",
@@ -13975,7 +14380,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "e12a0ffbe5fe",
@@ -14006,7 +14412,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "8bbf04315619",
@@ -14037,7 +14444,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "ad4af7676ab5",
@@ -14068,7 +14476,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "93873125b601",
@@ -14101,7 +14510,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "2d1bf0e88c8e",
@@ -14134,7 +14544,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "7e9663f6135b",
@@ -14166,7 +14577,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "ca8c229a5f69",
@@ -14197,7 +14609,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "45c0e7f05047",
@@ -14228,7 +14641,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "68ea9d897aa0",
@@ -14259,7 +14673,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "f2e72a8d09ad",
@@ -14291,7 +14706,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "98c23057febe",
@@ -14324,7 +14740,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "27d83712c89c",
@@ -14356,7 +14773,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "15f6ce1a6a34",
@@ -14389,7 +14807,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "6db185f37a8a",
@@ -14438,7 +14857,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "13f9c360b06d",
@@ -14469,7 +14889,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "feea1de87f02",
@@ -14501,7 +14922,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "d91d5b01336c",
@@ -14535,7 +14957,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "9d0a02d7541f",
@@ -14568,7 +14991,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "fae3dbab1ef4",
@@ -14602,7 +15026,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "c8971edd9f89",
@@ -14635,7 +15060,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "610ddb2e0ea6",
@@ -14667,7 +15093,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "f6d3b98a354e",
@@ -14698,7 +15125,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "3dc1c3714db4",
@@ -14729,7 +15157,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "d7dc34174887",
@@ -14764,7 +15193,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "930ddbd1cada",
@@ -14799,7 +15229,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "9f8ec62b1c33",
@@ -14830,7 +15261,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "60b0d9c918e2",
@@ -14862,7 +15294,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "79a4b2d454e6",
@@ -14895,7 +15328,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "220a1778e281",
@@ -14926,7 +15360,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "b917ac3bd19d",
@@ -14960,7 +15395,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "de5f2bf34079",
@@ -14992,7 +15428,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "72c5d0f599a0",
@@ -15024,7 +15461,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "340a9b3a30f3",
@@ -15056,7 +15494,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "89ee7ce4db6b",
@@ -15088,7 +15527,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "8a25d8318f1b",
@@ -15119,7 +15559,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "3d1345cfacb3",
@@ -15151,7 +15592,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "f79a195e19d2",
@@ -15183,7 +15625,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "e07c56f82072",
@@ -15215,7 +15658,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "364512395d6e",
@@ -15247,7 +15691,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "c1f2839da640",
@@ -15279,7 +15724,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "a53e47ad8d9c",
@@ -15311,7 +15757,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "a5acc6a382b3",
@@ -15348,7 +15795,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "3b396ecac220",
@@ -15381,7 +15829,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "af08bc5954a4",
@@ -15412,7 +15861,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "26d2f6f627da",
@@ -15444,7 +15894,8 @@
    "sectors": [
     "market",
     "startup"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "3ec5dd1d2173",
@@ -15478,7 +15929,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "c5c3c8a58f7a",
@@ -15509,7 +15961,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "5bd0a198df4b",
@@ -15541,7 +15994,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "23dbde8c0d5e",
@@ -15573,7 +16027,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "cc0fd04c962c",
@@ -15604,7 +16059,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "616f1cdfa027",
@@ -15636,7 +16092,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "641fb967fba2",
@@ -15667,7 +16124,8 @@
    "needs_review": true,
    "sectors": [
     "etc"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "f40680a59a69",
@@ -15698,7 +16156,8 @@
    "needs_review": true,
    "sectors": [
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "94dd077bdb24",
@@ -15730,7 +16189,8 @@
    "sectors": [
     "edu",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "231250c7316d",
@@ -15763,7 +16223,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "29bb287ea040",
@@ -15796,7 +16257,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "2552b55cd1a8",
@@ -15830,7 +16292,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "93370cb3ef38",
@@ -15861,7 +16324,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "3eaa1ed569aa",
@@ -15892,7 +16356,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "c65885a83da5",
@@ -15924,7 +16389,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "5c49cc482fab",
@@ -15955,7 +16421,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "9d57d397e445",
@@ -15986,7 +16453,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "38ff83acbad7",
@@ -16017,7 +16485,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "9972749eb4ef",
@@ -16049,7 +16518,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "5f0e8b67a7a4",
@@ -16081,7 +16551,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "fc4a12c69612",
@@ -16113,7 +16584,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "d1e389df025b",
@@ -16146,7 +16618,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "381dfe89fa71",
@@ -16179,7 +16652,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "91f9262e0f61",
@@ -16211,7 +16685,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "acb8c1c49a84",
@@ -16260,7 +16735,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "fb5daa87facc",
@@ -16293,7 +16769,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "341b5227f71a",
@@ -16325,7 +16802,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "40a66e2c3712",
@@ -16359,7 +16837,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "f7aae0f67587",
@@ -16390,7 +16869,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "9705dc1107fd",
@@ -16422,7 +16902,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "f2d9474c31c5",
@@ -16454,7 +16935,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "4a5662e3ec35",
@@ -16485,7 +16967,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "e3d3795d75e9",
@@ -16517,7 +17000,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "dc49c4307c76",
@@ -16548,7 +17032,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "806b904b8bab",
@@ -16602,7 +17087,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "3fc6b57cfdc5",
@@ -16656,7 +17142,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "4ccaf6e38b31",
@@ -16710,7 +17197,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "2e1fc9322736",
@@ -16742,7 +17230,8 @@
    "needs_review": true,
    "sectors": [
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "f57334817668",
@@ -16774,7 +17263,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "6dac3c87be91",
@@ -16820,7 +17310,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "10b4ddc93b6f",
@@ -16852,7 +17343,8 @@
    "needs_review": true,
    "sectors": [
     "etc"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "0fc9830c0474",
@@ -16883,7 +17375,8 @@
    "needs_review": false,
    "sectors": [
     "edu"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "9699cb8de0d2",
@@ -16914,7 +17407,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "608dc9017954",
@@ -16948,7 +17442,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "ec431319b9f5",
@@ -16980,7 +17475,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "c7b8e2950cb7",
@@ -17012,7 +17508,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "85bbcde2c3c5",
@@ -17046,7 +17543,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "a762a29d17b1",
@@ -17078,7 +17576,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "dcf5ab1b18eb",
@@ -17116,7 +17615,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "ba66e81307df",
@@ -17150,7 +17650,8 @@
    "sectors": [
     "edu",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "5e9e94a72b44",
@@ -17184,7 +17685,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "cf05a972a6a7",
@@ -17215,7 +17717,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "c9d2a02a95d1",
@@ -17246,7 +17749,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "62a906438282",
@@ -17277,7 +17781,8 @@
    "needs_review": true,
    "sectors": [
     "market"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "f985092e2e64",
@@ -17310,7 +17815,8 @@
    "needs_review": false,
    "sectors": [
     "edu"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "2f49efaa2a8c",
@@ -17343,7 +17849,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "c5f5c05e432b",
@@ -17375,7 +17882,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "efb063338261",
@@ -17407,7 +17915,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "ab82ebb52117",
@@ -17439,7 +17948,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "9d78a408e643",
@@ -17471,7 +17981,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "9d78a408e643",
@@ -17503,7 +18014,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "13ea6ea66b10",
@@ -17536,7 +18048,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "c0f1ba4d4560",
@@ -17568,7 +18081,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "9b373e2e2ea6",
@@ -17600,7 +18114,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "5835da6236c0",
@@ -17632,7 +18147,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "b4a3af7f497d",
@@ -17664,7 +18180,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "af1bcf81e4a4",
@@ -17696,7 +18213,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "2f2f4228e6ac",
@@ -17728,7 +18246,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "43fc9935b138",
@@ -17761,7 +18280,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "ac0ff89fc800",
@@ -17793,7 +18313,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "859b918b89ad",
@@ -17830,7 +18351,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "ddeca6a43505",
@@ -17862,7 +18384,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "c302c7067a88",
@@ -17894,7 +18417,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "88dfe66a4aba",
@@ -17926,7 +18450,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "464be75632c4",
@@ -17970,7 +18495,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "75bcaffee66c",
@@ -18002,7 +18528,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "c773aed67a8e",
@@ -18034,7 +18561,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "5c05fd2f4ed4",
@@ -18066,7 +18594,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "976d4cf39f8b",
@@ -18098,7 +18627,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "8a053dcf8463",
@@ -18130,7 +18660,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "1069be2e38c4",
@@ -18162,7 +18693,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "06ce1a31676b",
@@ -18194,7 +18726,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "db64e2c816ac",
@@ -18226,7 +18759,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "cf6b21cea05a",
@@ -18259,7 +18793,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "0a60198e68e0",
@@ -18291,7 +18826,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "3e403d794b95",
@@ -18323,7 +18859,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "e73346c634aa",
@@ -18355,7 +18892,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "ce85f38c1935",
@@ -18388,7 +18926,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "93b415c4bf48",
@@ -18421,7 +18960,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "97950dc006dd",
@@ -18454,7 +18994,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "29a5a86b3525",
@@ -18486,7 +19027,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "fd0477cb07ce",
@@ -18518,7 +19060,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "b44755af1c41",
@@ -18551,7 +19094,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "61aa8e0be181",
@@ -18583,7 +19127,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "75bcaffee66c",
@@ -18615,7 +19160,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "07ddea9cedee",
@@ -18647,7 +19193,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "464be75632c4",
@@ -18691,7 +19238,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "acebc53dad85",
@@ -18723,7 +19271,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "d65481d0d2b5",
@@ -18756,7 +19305,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "d910539b4375",
@@ -18788,7 +19338,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "f008dd054e74",
@@ -18820,7 +19371,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "c1d9298d97cf",
@@ -18853,7 +19405,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "7ac96e808230",
@@ -18890,7 +19443,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "39da9f38b4b2",
@@ -18922,7 +19476,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "b8111454be4b",
@@ -18954,7 +19509,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "858df95fd220",
@@ -19003,7 +19559,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "a8d1eacc09b2",
@@ -19040,7 +19597,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "c67207303357",
@@ -19072,7 +19630,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "c43555288729",
@@ -19104,7 +19663,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "ed8d0a2c1cf8",
@@ -19136,7 +19696,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "4456b343b029",
@@ -19168,7 +19729,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "284b9690f37b",
@@ -19221,7 +19783,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "af0155f17144",
@@ -19253,7 +19816,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "43054b0739b0",
@@ -19285,7 +19849,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "df97bee17eb8",
@@ -19330,7 +19895,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "cecb0f72053e",
@@ -19362,7 +19928,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "73f9c6e05bb2",
@@ -19394,7 +19961,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "0a9086a89b6b",
@@ -19426,7 +19994,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "36f7d21c58c3",
@@ -19458,7 +20027,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "c1e6c87062e3",
@@ -19499,7 +20069,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "ee6a671fe486",
@@ -19536,7 +20107,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "359aa21dbf46",
@@ -19577,7 +20149,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "7b6eb2423ba3",
@@ -19614,7 +20187,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "cf7e33f48040",
@@ -19660,7 +20234,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "8da72b14725e",
@@ -19706,7 +20281,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "3dffff6f4387",
@@ -19740,7 +20316,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "0efc9efdb50e",
@@ -19772,7 +20349,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "7e40f2ebac82",
@@ -19810,7 +20388,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "24210e428af6",
@@ -19848,7 +20427,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "4a21d1e0e4a3",
@@ -19890,7 +20470,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "fdae6d37fea1",
@@ -19927,7 +20508,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "7186e7ce92cc",
@@ -19967,7 +20549,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "eb1a62524600",
@@ -20007,7 +20590,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "a0d7007bd536",
@@ -20049,7 +20633,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "d1b4bcc4ab31",
@@ -20091,7 +20676,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "045a58873b81",
@@ -20130,7 +20716,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "5dfd16164733",
@@ -20172,7 +20759,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "2b81ab6569c1",
@@ -20209,7 +20797,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "2bca36e4a115",
@@ -20251,7 +20840,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "49a36e790b97",
@@ -20293,7 +20883,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "cf02053d0000",
@@ -20331,7 +20922,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "01a7b9b1d03d",
@@ -20373,7 +20965,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "deb77016eeb5",
@@ -20415,7 +21008,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "b781202ca394",
@@ -20457,7 +21051,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "334a446de8ff",
@@ -20499,7 +21094,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "d709293ddd46",
@@ -20540,7 +21136,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "a1ffb622397d",
@@ -20575,7 +21172,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "d542e74ff632",
@@ -20617,7 +21215,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "196f51c5a835",
@@ -20659,7 +21258,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "4ea32bb63e73",
@@ -20692,7 +21292,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "b98ef263e1fc",
@@ -20725,7 +21326,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "38faff1340ea",
@@ -20764,7 +21366,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "f0b1d4336b4e",
@@ -20803,7 +21406,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "76348f701043",
@@ -20842,7 +21446,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "476ccd3d6f8a",
@@ -20874,7 +21479,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "45960313bf62",
@@ -20918,7 +21524,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "7c180c2d35bb",
@@ -20962,7 +21569,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "280715d7db46",
@@ -21012,7 +21620,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "195b9e2726c5",
@@ -21062,7 +21671,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "886c4cd46b60",
@@ -21111,7 +21721,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "60ece13cf392",
@@ -21143,7 +21754,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "de48d7a8547a",
@@ -21175,7 +21787,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "e295e208d9f8",
@@ -21207,7 +21820,8 @@
    "needs_review": false,
    "sectors": [
     "etc"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "4f954df7693d",
@@ -21239,7 +21853,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "18f6c1ef0b94",
@@ -21289,7 +21904,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "4893919073f4",
@@ -21322,7 +21938,8 @@
    "sectors": [
     "loan",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "bdb617e8825a",
@@ -21354,7 +21971,8 @@
    "needs_review": false,
    "sectors": [
     "tech"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "cb3a860a7834",
@@ -21386,7 +22004,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "d1c270eef297",
@@ -21423,7 +22042,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "f5e256f37952",
@@ -21464,7 +22084,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "e0ed38249a70",
@@ -21495,7 +22116,8 @@
    "needs_review": false,
    "sectors": [
     "edu"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "fe979f460e01",
@@ -21528,7 +22150,8 @@
    "sectors": [
     "employ",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "67837069467b",
@@ -21560,7 +22183,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "f8dccac2571e",
@@ -21605,7 +22229,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "93ce2d193d31",
@@ -21662,7 +22287,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "a8c1d979bef9",
@@ -21694,7 +22320,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "38011a9a2056",
@@ -21739,7 +22366,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "16777fbed97e",
@@ -21772,7 +22400,8 @@
     "tech",
     "fund",
     "startup"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "4ea25f4851d8",
@@ -21812,7 +22441,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "972006a42ecd",
@@ -21844,7 +22474,8 @@
    "sectors": [
     "market",
     "fund"
-   ]
+   ],
+   "type": "support"
   },
   {
    "id": "811931cff28d",
@@ -21881,7 +22512,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "58be079b2ac4",
@@ -21918,7 +22550,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "957b71ef29de",
@@ -21955,7 +22588,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "11559919c6f8",
@@ -22000,7 +22634,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "49fe931488d7",
@@ -22036,7 +22671,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "8e66725ef99b",
@@ -22069,7 +22705,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "d47d7489e3a5",
@@ -22110,7 +22747,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "abad0661cb19",
@@ -22142,7 +22780,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "0b32855d8237",
@@ -22191,7 +22830,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "b0237db35c35",
@@ -22224,7 +22864,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "15c0a03966de",
@@ -22257,7 +22898,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "aa5665b2c73a",
@@ -22298,7 +22940,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "0ce2cbac22d6",
@@ -22339,7 +22982,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "e86fdab92c1c",
@@ -22376,7 +23020,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "2be1e95ca9cd",
@@ -22413,7 +23058,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "80c7d1a2e272",
@@ -22478,7 +23124,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "678dda15abec",
@@ -22512,7 +23159,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "1eedcc2c087e",
@@ -22545,7 +23193,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "0b30b176c32e",
@@ -22582,7 +23231,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "46c13fe4967b",
@@ -22617,7 +23267,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "c8eb2aa2dab8",
@@ -22654,7 +23305,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "af4c7529877c",
@@ -22691,7 +23343,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "9c29f37a3ce6",
@@ -22741,7 +23394,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "c2e2c4215722",
@@ -22782,7 +23436,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "fdbeb0fea4e3",
@@ -22826,7 +23481,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "95360097c7a4",
@@ -22860,7 +23516,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "3eb754a15a47",
@@ -22895,7 +23552,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "3be8ef10b2bf",
@@ -22932,7 +23590,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "15d050adba2d",
@@ -22969,7 +23628,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "dc3f8f4881c1",
@@ -23006,7 +23666,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "18fa3b49b06d",
@@ -23043,7 +23704,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "3b2d37d56e40",
@@ -23080,7 +23742,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "8e5c562dd95c",
@@ -23117,7 +23780,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "cffc74f4254c",
@@ -23154,7 +23818,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "ad3bd3b437f8",
@@ -23211,7 +23876,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "8c846b87e50c",
@@ -23244,7 +23910,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "84a8ec7d05bf",
@@ -23280,7 +23947,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "d7aaf5d9cfc9",
@@ -23317,7 +23985,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "6f856d1c45b7",
@@ -23354,7 +24023,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "2d0d2157211c",
@@ -23399,7 +24069,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "a99f5bac1286",
@@ -23441,7 +24112,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "02dae1a5c949",
@@ -23482,7 +24154,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "37aeee657a81",
@@ -23519,7 +24192,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "853fd18c65b1",
@@ -23560,7 +24234,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "e4b9d4349ce1",
@@ -23617,7 +24292,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "8361bc228c85",
@@ -23654,7 +24330,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "ce1ac09d9fc6",
@@ -23686,7 +24363,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "e1ae7d2d33bb",
@@ -23720,7 +24398,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "e8ea32e3421b",
@@ -23752,7 +24431,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "f430d50c2eab",
@@ -23794,7 +24474,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "87276dd00394",
@@ -23831,7 +24512,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "7482f3adcc90",
@@ -23868,7 +24550,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "hiring"
   },
   {
    "id": "2f2dd58ce51d",
@@ -23900,7 +24583,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "417fc5354326",
@@ -23932,7 +24616,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "97455b67003e",
@@ -23969,7 +24654,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "9847246d7235",
@@ -24000,7 +24686,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "b2efc4443d62",
@@ -24031,7 +24718,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "2d8e0d50519a",
@@ -24063,7 +24751,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "7ba3c463633e",
@@ -24095,7 +24784,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "a003e439a2b9",
@@ -24136,7 +24826,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "2a8ea85f9d1e",
@@ -24177,7 +24868,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "dc81df235df0",
@@ -24218,7 +24910,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "3f1a0144589e",
@@ -24255,7 +24948,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "8a5a9f1d9ae4",
@@ -24292,7 +24986,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "321f0f6e932f",
@@ -24329,7 +25024,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "73cb8df789f6",
@@ -24366,7 +25062,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "12a98fe72545",
@@ -24409,7 +25106,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "6e9f0874b100",
@@ -24456,7 +25154,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "f63acc3ec667",
@@ -24503,7 +25202,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 1.0,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "9ed304150bbd",
@@ -24535,7 +25235,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "5b7fcba000d9",
@@ -24572,7 +25273,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "0f2f321ac02b",
@@ -24606,7 +25308,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "88bb3b43f018",
@@ -24647,7 +25350,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "76bf12a53742",
@@ -24696,7 +25400,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "e42ff9ddfa0a",
@@ -24733,7 +25438,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "a9294409a246",
@@ -24770,7 +25476,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "818b21982b09",
@@ -24819,7 +25526,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "e52674307a20",
@@ -24856,7 +25564,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "607a0bb05668",
@@ -24905,7 +25614,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "a6956241d3e2",
@@ -24954,7 +25664,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "33f38c764091",
@@ -24986,7 +25697,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "7efb1d5af678",
@@ -25024,7 +25736,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "4c0474ace9dc",
@@ -25061,7 +25774,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "8023efc57d83",
@@ -25098,7 +25812,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "8c9aa079b455",
@@ -25135,7 +25850,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "35b6750d9419",
@@ -25176,7 +25892,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "d4fbce8efe7f",
@@ -25216,7 +25933,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "273ab6c6624c",
@@ -25248,7 +25966,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "14b2023dbc0c",
@@ -25280,7 +25999,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "90c8de3af1d2",
@@ -25314,7 +26034,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "1cda7a789f50",
@@ -25355,7 +26076,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "6f1eb89d37fa",
@@ -25387,7 +26109,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "b6f237a138d3",
@@ -25424,7 +26147,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "c040b645eecd",
@@ -25489,7 +26213,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "d027e1c44bc8",
@@ -25554,7 +26279,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "5d78fcba1ebb",
@@ -25587,7 +26313,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "7cf98b2dac00",
@@ -25619,7 +26346,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "53816eb076f4",
@@ -25657,7 +26385,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "f12e7dffea74",
@@ -25695,7 +26424,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "07fb2492ce24",
@@ -25743,7 +26473,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "6f690b343553",
@@ -25780,7 +26511,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "946b8d4af526",
@@ -25812,7 +26544,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "7665fa34bcef",
@@ -25850,7 +26583,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "2dc4b69cb160",
@@ -25887,7 +26621,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "3be0afe073cd",
@@ -25924,7 +26659,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "87e9187daabd",
@@ -25961,7 +26697,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "a7ef94568659",
@@ -25995,7 +26732,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "a8abd4173c58",
@@ -26033,7 +26771,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "83fd94ce1233",
@@ -26065,7 +26804,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "fcd49c00723a",
@@ -26106,7 +26846,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "08e406d8fb08",
@@ -26137,7 +26878,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "e8fd58f00b06",
@@ -26168,7 +26910,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.4,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "e3cf4e5bff8f",
@@ -26203,7 +26946,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "6e0ce61bfab1",
@@ -26240,7 +26984,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "94711c9c86cc",
@@ -26280,7 +27025,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.65,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "140ac5858ffd",
@@ -26317,7 +27063,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "dc1b1f0b77aa",
@@ -26350,7 +27097,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "27117a6646b4",
@@ -26383,7 +27131,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "13be0246bcb6",
@@ -26417,7 +27166,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "ffe452fd4ec8",
@@ -26450,7 +27200,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "4b7efb818043",
@@ -26487,7 +27238,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "bd3ed10129d8",
@@ -26524,7 +27276,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "09e151fd7105",
@@ -26561,7 +27314,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "059b884d5c93",
@@ -26598,7 +27352,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "hiring"
   },
   {
    "id": "a564e46b60c1",
@@ -26635,7 +27390,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "hiring"
   },
   {
    "id": "378740a4a573",
@@ -26668,7 +27424,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "3033332a5448",
@@ -26709,7 +27466,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "8610ba68c8a7",
@@ -26750,7 +27508,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "1ce638ce5145",
@@ -26783,7 +27542,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "0f4fcfdc5a2c",
@@ -26832,7 +27592,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "ae4cfcd81d9b",
@@ -26864,7 +27625,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "f9ff4eed6a0f",
@@ -26896,7 +27658,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "cdf67c2fe7b2",
@@ -26928,7 +27691,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "fb0aeffe8dc9",
@@ -26960,7 +27724,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.75,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "3d7a362dc94b",
@@ -26992,7 +27757,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "7b65d3ac5d3a",
@@ -27027,7 +27793,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "b4a008737a7a",
@@ -27058,7 +27825,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "cd0cb3358c3b",
@@ -27092,7 +27860,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "f9dda6ad6a61",
@@ -27127,7 +27896,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "169546c85d1f",
@@ -27159,7 +27929,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "8d5ad02bc565",
@@ -27191,7 +27962,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "cee8b2223f6c",
@@ -27232,7 +28004,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "8b8d49ae3f97",
@@ -27273,7 +28046,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "269e52b85dd3",
@@ -27310,7 +28084,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "09ad8c0add1e",
@@ -27347,7 +28122,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "85232d2fba0d",
@@ -27384,7 +28160,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "cda9b361bbdd",
@@ -27421,7 +28198,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "97ff18de06db",
@@ -27453,7 +28231,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "c1b4f0ac2c25",
@@ -27488,7 +28267,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "1c9ab5570f6a",
@@ -27520,7 +28300,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "77a4fb030d2d",
@@ -27565,7 +28346,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "42c5d468e040",
@@ -27597,7 +28379,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "6a3ac48aba84",
@@ -27629,7 +28412,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "2e16f722ed83",
@@ -27662,7 +28446,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "317bb643e331",
@@ -27703,7 +28488,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "4cdbd1b58578",
@@ -27745,7 +28531,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "5604a1706b06",
@@ -27779,7 +28566,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "cee1b88139b6",
@@ -27820,7 +28608,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "30b0f49c3491",
@@ -27857,7 +28646,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "90c5160a6af5",
@@ -27894,7 +28684,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "d2282339168e",
@@ -27943,7 +28734,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "818b21982b09",
@@ -27992,7 +28784,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "d0150b2b05e3",
@@ -28025,7 +28818,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "0e616ba4f784",
@@ -28062,7 +28856,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "2c2fcf62d930",
@@ -28099,7 +28894,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "90bab63e3af0",
@@ -28136,7 +28932,8 @@
    "gender": "무관",
    "region": "서귀포시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "3f8c296b8924",
@@ -28194,7 +28991,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.5,
-   "needs_review": true
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "50f4010cb3bb",
@@ -28239,7 +29037,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "bid"
   },
   {
    "id": "79b44056c45f",
@@ -28276,7 +29075,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "recruit"
   },
   {
    "id": "ce19dc134db8",
@@ -28313,7 +29113,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "d85e06a8866d",
@@ -28350,7 +29151,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "24b6067ada88",
@@ -28384,7 +29186,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.85,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "0797d1a41f82",
@@ -28417,7 +29220,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.6,
-   "needs_review": false
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "3309d0d0fcef",
@@ -28458,7 +29262,8 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "bbfd6af7e6d3",
@@ -28499,7 +29304,8 @@
    "gender": "무관",
    "region": "제주시",
    "confidence": 0.25,
-   "needs_review": true
+   "needs_review": true,
+   "type": "recruit"
   }
  ]
 }

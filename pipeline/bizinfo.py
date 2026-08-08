@@ -123,6 +123,8 @@ def collect(db: dict) -> dict:
             cls["apply_end"] = end
         cls["always_open"] = cls.get("always_open") or always
 
+        from .classifier import classify_type
+        cls["type"] = classify_type(title, "기업마당", body)
         db["items"].append({
             "id": hashlib.sha256(url.encode()).hexdigest()[:12],
             "institution": org or "기업마당",

@@ -36,6 +36,8 @@ h1 em{font-style:normal;color:#ffce9e}
 .chip:hover{border-color:var(--teal)}
 .chip[aria-pressed="true"]{background:var(--teal);border-color:var(--teal);color:#fff;font-weight:600}
 .chip:focus-visible{outline:2px solid var(--tangerine);outline-offset:1px}
+.chip .cnt{font-weight:600;opacity:.55;font-variant-numeric:tabular-nums;margin-left:1px}
+.chip[aria-pressed="true"] .cnt{opacity:.8}
 .toggle{margin-left:auto;display:flex;align-items:center;gap:6px;font-size:.8rem;color:var(--ink-soft);cursor:pointer;user-select:none}
 .toggle input{accent-color:var(--teal);width:15px;height:15px}
 
@@ -48,6 +50,12 @@ h1 em{font-style:normal;color:#ffce9e}
 .card:hover{box-shadow:0 3px 14px rgba(14,110,103,.13);transform:translateY(-1px)}
 .card.urgent{background:linear-gradient(0deg,var(--tangerine-soft),var(--tangerine-soft)),var(--card);border-color:#f4cfa8}
 .card-top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:5px;font-size:.74rem}
+.typebadge{font-weight:800;font-size:.68rem;padding:2px 7px;border-radius:5px;letter-spacing:.01em}
+.t-support{background:#e4efe9;color:var(--teal-deep)}
+.t-bid{background:#e8edf6;color:#2a4f86}
+.t-recruit{background:#efeaf6;color:#54468c}
+.t-contest{background:var(--tangerine-soft);color:#b05a10}
+.t-hiring{background:#f2ece4;color:#7a5c33}
 .inst{font-weight:700;color:var(--gc,var(--teal))}
 .board{color:var(--ink-soft)}
 .dday{margin-left:auto;font-weight:800;font-variant-numeric:tabular-nums;padding:2px 9px;border-radius:999px;background:var(--bg);color:var(--ink-soft)}
@@ -97,39 +105,28 @@ footer{border-top:1px solid var(--line);padding:20px 0 40px;font-size:.74rem;col
 
 <nav class="tabs" role="tablist">
   <div class="wrap">
-    <button class="tab" role="tab" id="tab-jeju" aria-selected="true">제주 지원사업</button>
-    <button class="tab" role="tab" id="tab-natl" aria-selected="false">국가 지원사업</button>
+    <button class="tab" role="tab" id="tab-jeju" aria-selected="true">공고 목록</button>
+    <button class="tab" role="tab" id="tab-natl" aria-selected="false">국가 포털 바로가기</button>
   </div>
 </nav>
 
 <div class="filterbar" id="panel-jeju-filter">
   <div class="wrap">
     <input type="search" class="search" id="q" placeholder="공고 제목·기관·내용 검색 (예: 청년, 인건비, 관광)">
-    <div class="fgroup" data-cat="group">
-      <span class="flabel">기관</span>
-      <button class="chip all" data-v="__all__" aria-pressed="true">전체</button>
-      <button class="chip" data-v="6">전국공모</button>
-      <button class="chip" data-v="1">지방공기업</button>
-      <button class="chip" data-v="2">출자·출연</button>
-      <button class="chip" data-v="3">행정·교육·의회</button>
-      <button class="chip" data-v="4">일자리·복지</button>
-      <button class="chip" data-v="5">협회·유관</button>
+    <div class="fgroup" data-cat="region">
+      <span class="flabel">지역</span>
+      <button class="chip all" data-v="all" aria-pressed="true">전체</button>
+      <button class="chip" data-v="natl">전국공모 <b class="cnt"></b></button>
+      <button class="chip" data-v="jeju">제주공모 <b class="cnt"></b></button>
     </div>
-    <div class="fgroup" data-cat="sector">
-      <span class="flabel">분야</span>
-      <button class="chip all" data-v="__all__" aria-pressed="true">전체</button>
-      <button class="chip" data-v="fund">자금지원</button>
-      <button class="chip" data-v="loan">융자·보증</button>
-      <button class="chip" data-v="tech">기술·R&amp;D</button>
-      <button class="chip" data-v="employ">인력·고용</button>
-      <button class="chip" data-v="market">수출·판로</button>
-      <button class="chip" data-v="startup">창업</button>
-      <button class="chip" data-v="edu">교육·컨설팅</button>
-      <button class="chip" data-v="contest">공모전</button>
-      <button class="chip" data-v="bid">입찰·용역</button>
-      <button class="chip" data-v="space">입주·공간</button>
-      <button class="chip" data-v="dist">배분·기탁</button>
-      <button class="chip" data-v="etc">기타</button>
+    <div class="fgroup" data-cat="type">
+      <span class="flabel">유형</span>
+      <button class="chip all" data-v="all" aria-pressed="true">전체</button>
+      <button class="chip" data-v="support">지원사업 <b class="cnt"></b></button>
+      <button class="chip" data-v="bid">용역·입찰 <b class="cnt"></b></button>
+      <button class="chip" data-v="recruit">모집공고 <b class="cnt"></b></button>
+      <button class="chip" data-v="contest">공모전 <b class="cnt"></b></button>
+      <button class="chip" data-v="hiring">채용공고 <b class="cnt"></b></button>
       <label class="toggle"><input type="checkbox" id="openOnly" checked>접수중만</label>
     </div>
   </div>
@@ -248,8 +245,32 @@ const LABEL = {
 };
 const GCOLOR = {1:"var(--g1)",2:"var(--g2)",3:"var(--g3)",4:"var(--g4)",5:"var(--g5)",6:"var(--g6)"};
 
-const state = { q:"", group:new Set(), sector:new Set(), openOnly:true };
+const state = { q:"", region:"all", type:"all", openOnly:true };
 let items = [];
+
+// ===== 공고유형 판정 (서버 type 필드 우선, 미부여 구데이터는 제목 규칙 폴백) =====
+// pipeline/classifier.py의 classify_type과 동일한 우선순위를 유지할 것.
+const T_HIRING  = /직원\s*채용|채용\s*공고|채용공고|채용\s*계획|채용\s*재공고|기간제\s*(?:직원|근로자)|공무직|인턴\s*(?:채용|모집)|경력직|신입\s*채용|직원\s*(?:공개)?\s*모집/;
+const T_BID     = /입찰|용역|협상에\s*의한\s*계약|수의계약|제안서\s*(?:평가|제출|접수)|나라장터|구매\s*(?:공고|입찰|사전규격)|사전\s*규격|낙찰|개찰/;
+const T_CONTEST = /공모전|경진\s*대회|콘테스트|챌린지|아이디어\s*공모|디자인\s*공모|영상\s*공모|사진\s*공모|어워드|시상/;
+const T_SUPPORT = /지원\s*사업|지원사업|지원\s*계획|보조금|지원금|융자|특례보증|보증지원|바우처|육성\s*사업|육성사업|이차보전|사업비\s*지원|R&D|기술개발|사업화\s*지원|수출\s*지원|판로\s*지원|시행\s*공고/;
+const T_RECRUIT = /모집|참가\s*신청|참여\s*기업|참여\s*단체|교육생|아카데미|수강|입주|회원|위원\s*(?:공개)?모집|양성\s*과정/;
+const BOARD_TYPE = {"입찰공고":"bid","입찰정보":"bid","계약정보":"bid","채용공고":"hiring","채용정보":"hiring"};
+const TYPE_LABEL = {support:"지원사업", bid:"용역·입찰", recruit:"모집공고", contest:"공모전", hiring:"채용공고"};
+
+function typeOf(it){
+  if (it.type) return it.type;
+  const t = it.title || "", b = it.board || "";
+  if (BOARD_TYPE[b]) return BOARD_TYPE[b];
+  if (T_HIRING.test(t)) return "hiring";
+  if (T_BID.test(t)) return "bid";
+  if (T_CONTEST.test(t)) return "contest";
+  if (T_SUPPORT.test(t)) return "support";
+  if (b === "기업마당") return "support";
+  if (T_RECRUIT.test(t)) return "recruit";
+  return t.includes("사업") ? "support" : "recruit";
+}
+const regionOf = it => it.group === 6 ? "natl" : "jeju";
 
 const esc = s => (s||"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
@@ -268,23 +289,45 @@ function sectorsOf(it){
   return s.length ? [...new Set(s)] : ["etc"];
 }
 
-function matches(it){
+function baseMatch(it){
+  // 지역·유형을 제외한 공통 조건 (칩 카운트 계산에 재사용)
   if (OTHER_REGIONS.some(r => (it.institution||"").includes(r))) return false;
   if (state.openOnly && it.status !== "open") return false;
   if (state.openOnly && it.apply_end && new Date(it.apply_end) < new Date().setHours(0,0,0,0)) return false;
-  if (state.group.size && !state.group.has(String(it.group))) return false;
-  if (state.sector.size && !sectorsOf(it).some(s => state.sector.has(s))) return false;
   if (state.q){
     const tagWords = sectorsOf(it).map(s => SECTOR_LABEL[s]).join(" ");
     const hay = [it.title, it.institution, it.institution_short, it.board,
-                 it.summary, tagWords, it.region, it.apply_end,
+                 it.summary, tagWords, TYPE_LABEL[typeOf(it)], it.region, it.apply_end,
                  it.always_open ? "상시 상시모집" : ""].join(" ").toLowerCase();
     if (!state.q.toLowerCase().split(/\s+/).every(w => hay.includes(w))) return false;
   }
   return true;
 }
 
+function matches(it){
+  if (!baseMatch(it)) return false;
+  if (state.region !== "all" && regionOf(it) !== state.region) return false;
+  if (state.type !== "all" && typeOf(it) !== state.type) return false;
+  return true;
+}
+
+function updateCounts(){
+  // 각 칩에 '다른 축 필터를 적용한 상태'의 건수를 표시 → 누르기 전에 결과 규모 예측 가능
+  const base = items.filter(baseMatch);
+  document.querySelectorAll('.fgroup[data-cat="region"] .chip:not(.all)').forEach(c => {
+    const n = base.filter(it => regionOf(it) === c.dataset.v &&
+      (state.type === "all" || typeOf(it) === state.type)).length;
+    c.querySelector(".cnt").textContent = n;
+  });
+  document.querySelectorAll('.fgroup[data-cat="type"] .chip:not(.all)').forEach(c => {
+    const n = base.filter(it => typeOf(it) === c.dataset.v &&
+      (state.region === "all" || regionOf(it) === state.region)).length;
+    c.querySelector(".cnt").textContent = n;
+  });
+}
+
 function render(){
+  updateCounts();
   const list = document.getElementById("list");
   const filtered = items.filter(matches)
     .map(it => ({...it, _d: dday(it)}))
@@ -298,6 +341,7 @@ function render(){
     <a class="card ${it._d.cls==='hot'?'urgent':''}" href="${esc(it.url)}" target="_blank" rel="noopener"
        style="--gc:${GCOLOR[it.group]||'var(--teal)'}">
       <div class="card-top">
+        <span class="typebadge t-${typeOf(it)}">${TYPE_LABEL[typeOf(it)]}</span>
         <span class="inst">${esc(it.institution_short||it.institution)}</span>
         <span class="board">${esc(it.board||"")}</span>
         <span class="dday ${it._d.cls}">${it._d.txt}</span>
@@ -315,18 +359,9 @@ document.querySelectorAll(".fgroup").forEach(g => {
   g.addEventListener("click", e => {
     const chip = e.target.closest(".chip");
     if (!chip) return;
-    const v = chip.dataset.v;
-    const set = state[cat];
-    const allChip = g.querySelector('.chip.all');
-    if (v === "__all__") {
-      set.clear();  // 전체 = 필터 해제
-    } else {
-      set.has(v) ? set.delete(v) : set.add(v);
-    }
-    g.querySelectorAll(".chip").forEach(c => {
-      const cv = c.dataset.v;
-      c.setAttribute("aria-pressed", cv === "__all__" ? set.size === 0 : set.has(cv));
-    });
+    state[cat] = chip.dataset.v;  // 단일 선택 (라디오)
+    g.querySelectorAll(".chip").forEach(c =>
+      c.setAttribute("aria-pressed", c.dataset.v === state[cat]));
     render();
   });
 });
