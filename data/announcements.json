@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-11T21:26:40",
+ "updated_at": "2026-08-12T21:24:33",
  "items": [
   {
    "id": "7fdb1cb04eb4",
@@ -3614,6 +3614,49 @@
    ],
    "status": "closed",
    "crawled_at": "2026-07-28",
+   "ev": 2,
+   "sectors": [
+    "edu"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "education"
+   ],
+   "apply_end": "2026-07-15",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false,
+   "type": "recruit"
+  },
+  {
+   "id": "25eabb5e2706",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "J-Academy 맞춤형 찾아가는 관광 서비스 혁신역량 교육 참가기업 모집",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1517&p=3&lcate=",
+   "posted_at": "2026-07-15",
+   "summary": "미세먼지\n0㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주관광공사",
+   "attachments": [
+    {
+     "name": "img_1784074424.jpg",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1517&fidx=1"
+    },
+    {
+     "name": "지원신청서_2026 관광 서비스 혁신역량 아카데미_수정_fin.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1517&fidx=2"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-08-12",
    "ev": 2,
    "sectors": [
     "edu"
@@ -9323,6 +9366,44 @@
    "type": "support"
   },
   {
+   "id": "e443a77b3114",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "한국뷰티고등학교 기간제교육공무직원[조리실무사 대체인력] 채용 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477233",
+   "posted_at": "2026-08-12",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n한국뷰티고등학교 기간제교육공무직원[조리실무사 대체인력] 채용 공고\n한국뷰티고등학교\n65회\n2026-08-12\n마감일\n2026-08-18 16:30\n064-795-8201\n(게시용) 2026학년도 한국뷰티고등학교 기간제교육공무직원(조리실무사 대체인력) 채용 공고문.hwp (81 kb)\n1. 채용 직종 및 인원: 기간제교육공무직원(조리실무사 대체인력) 1명\n2. 원서 접수 기간: 2026. 8. 1",
+   "attachments": [
+    {
+     "name": "(게시용) 2026학년도 한국뷰티고등학교 기간제교육공무직원(조리실무사 대체인력) 채용 공고문.hwp (81 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477233&command=update&fileSid=1408315"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-08-12",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-01",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
    "id": "7a002766fb27",
    "institution": "산업통상부",
    "institution_short": "산업통상부",
@@ -12327,7 +12408,7 @@
    "posted_at": "2026-06-30",
    "summary": "<p>국방 분야 중소기업 육성과 무기체계 부품개발 활성화를 위해 정부가 개발자금을 지원하고 구매를 보장하는「무기체계 부품국산화개발 지원사업」의 과제 및 연구개발기관을 모집하오니, 관련 기관의 많은 참여를 바랍니다.</p><p><br></p><p>☞「중소기업기본법」제2조 및 동법 시행령 제3조에 따른 중소기업</p><p><br></p><p>☞&nbsp;핵심부품국산화,&nbsp;수출연계부품국산화,&nbsp;전략부품국산화,&nbsp;상생협력부품국산화 기술개발 지원</p>",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-06",
    "company_types": [
     "small_biz",
@@ -12361,7 +12442,7 @@
    "posted_at": "2026-07-10",
    "summary": "<p>중소벤처기업부 소관 중소기업기술개발 지원사업을 통해 개발된 제품의 공공조달 연계 활성화를 위하여 「2026년도 하반기 중소벤처기업부 혁신제품 신규지정」을 다음과 같이 공고하오니, 참여하고자 하는 중소기업은 안내에 따라 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 「중소기업기본법」제2조에 따른 중소기업</p><p style=\"line-height: 1.8;\">- 접수마감일 기준 5년(’21. 8. 12. ~ ‘26. 8. 11.) ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-10",
    "sectors": [
     "tech"
@@ -12394,7 +12475,7 @@
    "posted_at": "2026-07-29",
    "summary": "<p>첨단의료기기 연구개발기업의 제품마케팅을 활성화하고, 글로벌 비즈니스 환경 조성 및 해외시장 진출지원을 위한 ‘2027년 UAE 두바이 국제 의료기기 전시회(WHX Dubai)' 케이메디허브 공동관 참가기업 모집을 아래와 같이 공고하오니 관심 있는 기업의 많은 참여 바랍니다.</p><p><br></p><p>☞ 국내에서 첨단의료기기를 연구개발하고 제품을 생산하는 의료제품기업으로서, 글로벌 시장 진출을 진행 또는 고려중인 기업</p><p><br></p><p>☞ 전시참가비용(참가비, 임차비) 및 시",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-31",
    "sectors": [
     "market"
@@ -12426,7 +12507,7 @@
    "posted_at": "2026-07-30",
    "summary": "<p>과학기술정보통신부는 국내 소프트웨어 산업발전에 기여한 유공자를 포상하고자 다음과 같이 「2026년도 소프트웨어 산업발전 유공자 포상계획」을 연장 공고하오니 많은 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ SW신기술(인공지능, 클라우드, 가상융합기반산업 등) 기반으로 혁신적인 비즈니스를 통해 소프트웨어 산업 성장에 기여한 자&nbsp;</p><p style=\"line-height: 1.8;\">- 인공지능 등 SW 신기술을 활용하여 자동차, ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-31",
    "sectors": [
     "tech"
@@ -12458,7 +12539,7 @@
    "posted_at": "2026-07-30",
    "summary": "<p>산업통상부와 부산광역시에서 지원하는 바이오나노산업 개방형 생태계 조성사업 「지능형 헬스케어 제품기반 실증․사업화지원」사업의 기업지원을 공고하오니 동 사업에 참여를 희망하는 지능형 헬스케어 관련 기업의 많은 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;지능형 헬스케어 제품 관련 기업</p><p style=\"line-height: 1.8;\">- 지원분야 : 지능형 돌봄케어, 치료기기, 건강관리ㆍ예방관리, 리빙케어</p><p><br></",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-31",
    "sectors": [
     "market",
@@ -12491,7 +12572,7 @@
    "posted_at": "2026-07-30",
    "summary": "<p>미국 통상정책에 따른 현지 공급망 다변화(듀얼소실, 온ㆍ니어쇼어링) 수요확대에 대응하여, KOTRA는 우리 기업들의 미국 밸류체인 진출을 지원하고자 합니다. 미국 전통ㆍ첨단 제조 시장 내 신규 수요를 선점허고자 하는 국내 소부장 제조기업들의 많은 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;국내 소재ㆍ부품ㆍ장비 제조기업</p><p style=\"line-height: 1.8;\">- 주요품목 : 기계/중장비, 농기계, 이차전지, 자동화",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-31",
    "sectors": [
     "market"
@@ -12523,7 +12604,7 @@
    "posted_at": "2026-07-30",
    "summary": "<p>기업부설연구소의 경쟁력 제고와 질적 성장 견인을 위해 '우수 기업부설연구소' 지정 심사에서 미지정된 기업을 대상으로 「우수 기업부설연구소 리바운드 컨설팅」을 지원하고자 하오니 희망하시는 기업은 관련 절차에 따라 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 기업부설연구소등의 연구개발 지원에 관한 법률 제조에 따라 인정 받아 이상 운영한 기업부설연구소를 보유한 기업</p><p style=\"line-height: 1.8;\">- 중소ㆍ중",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-31",
    "sectors": [
     "edu",
@@ -12575,7 +12656,7 @@
      "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59319&no=2"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-05",
    "ev": 2,
    "sectors": [
@@ -12837,6 +12918,92 @@
    "type": "hiring"
   },
   {
+   "id": "922dfe0c3f34",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "제주 퐁낭라운지 참여마을 모집 공고",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1540&p=1&lcate=",
+   "posted_at": "2026-08-11",
+   "summary": "미세먼지\n0㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주관광공사",
+   "attachments": [
+    {
+     "name": "공고문_82.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1540&fidx=1"
+    },
+    {
+     "name": ".pdf",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1540&fidx=2"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-12",
+   "ev": 2,
+   "sectors": [
+    "market"
+   ],
+   "company_types": [
+    "coop",
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-12",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false,
+   "type": "recruit"
+  },
+  {
+   "id": "a48fddbda9a0",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "(서귀포시교육지원청 학교지원센터) 2026학년도 중문초등학교 생존수영교육 강사 2차 채용 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477234",
+   "posted_at": "2026-08-12",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n(서귀포시교육지원청 학교지원센터) 2026학년도 중문초등학교 생존수영교육 강사 2차 채용 공고\n서귀포시교육지원청 학교지원센터\n77회\n2026-08-12\n마감일\n2026-08-19 11:00\n064-730-8312\n2026학년도 중문초 생존수영교육 강사 2차 채용 공고문.hwpx (114 kb)\n(서식)응시원서 2026학년도 중문초 생존수영교육 강사.hwpx (74 kb)\n2026학년도 중문초등학",
+   "attachments": [
+    {
+     "name": "2026학년도 중문초 생존수영교육 강사 2차 채용 공고문.hwpx (114 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477234&command=update&fileSid=1408316"
+    },
+    {
+     "name": "(서식)응시원서 2026학년도 중문초 생존수영교육 강사.hwpx (74 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477234&command=update&fileSid=1408317"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-12",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-12",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "서귀포시",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
    "id": "003e800eb898",
    "institution": "제주관광공사",
    "institution_short": "JTO",
@@ -13013,6 +13180,82 @@
    "confidence": 0.75,
    "needs_review": false,
    "type": "bid"
+  },
+  {
+   "id": "4bcc7d22c886",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 노형중학교 기간제 교육공무직원(조리실무사) 채용 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477232",
+   "posted_at": "2026-08-12",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 노형중학교 기간제 교육공무직원(조리실무사) 채용 공고\n노형중학교\n88회\n2026-08-12\n마감일\n2026-08-19\n064-740-8905\n노형중학교 기간제 교육공무직원(조리실무사) 채용 공고문_20260812.hwp (76 kb)\n1. 채용직종: 기간제 교육공무직원(조리실무사)\n2. 채용인원: 2명\n3. 채용기간: 2026. 9. 1.~2027. 2. 28.\n4. 원서접수기간:",
+   "attachments": [
+    {
+     "name": "노형중학교 기간제 교육공무직원(조리실무사) 채용 공고문_20260812.hwp (76 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477232&command=update&fileSid=1408314"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-12",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-13",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
+   "id": "afa450098539",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "[긴급]2026학년도 노형중학교 기간제 교육공무직원(교육업무실무원(전산))채용 재공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477231",
+   "posted_at": "2026-08-12",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n[긴급]2026학년도 노형중학교 기간제 교육공무직원(교육업무실무원(전산))채용 재공고\n노형중학교\n91회\n2026-08-12\n마감일\n2026-08-18\n064-740-8905\n[긴급]노형중학교 기간제 교육공무직원(교육업무실무원(전산)) 채용 공고문_20260812.hwp (81 kb)\n1. 채용직종: 기간제 교육공무직원(교육업무실무원(전산))\n2. 채용인원: 1명\n3. 채용기간: 2026. 9. ",
+   "attachments": [
+    {
+     "name": "[긴급]노형중학교 기간제 교육공무직원(교육업무실무원(전산)) 채용 공고문_20260812.hwp (81 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477231&command=update&fileSid=1408313"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-12",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-13",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
   },
   {
    "id": "1ca1d145a2e5",
@@ -26443,6 +26686,49 @@
    "type": "bid"
   },
   {
+   "id": "dfc7d6e5dcd5",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "[유관기관협조] 제주여성가족연구원 2027년 연구과제 공모 홍보",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1537&p=2&lcate=",
+   "posted_at": "2026-08-05",
+   "summary": "미세먼지\n0㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주관광공사",
+   "attachments": [
+    {
+     "name": "제주여성가족연구원 2027년 연구과제 도민 공모 공고문.pdf",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1537&fidx=1"
+    },
+    {
+     "name": "제주여성가족연구원 2027년 연구과제 도민 공모 제안 서식.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1537&fidx=2"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-12",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
+   "needs_review": true,
+   "type": "recruit"
+  },
+  {
    "id": "0e616ba4f784",
    "institution": "제주평생교육장학진흥원",
    "institution_short": "JILES",
@@ -27340,6 +27626,82 @@
    "confidence": 0.85,
    "needs_review": false,
    "type": "support"
+  },
+  {
+   "id": "40d4e5332d3b",
+   "institution": "제주평생교육장학진흥원",
+   "institution_short": "JILES",
+   "group": 2,
+   "board": "공지사항",
+   "title": "[모집공고] 2026년 탐나는5060인생학교 집중탐구과정 「탐나는 5060 제주책방 여행자(나만의 기록학교)」수강생 모집 안내",
+   "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=view&seq=12956",
+   "posted_at": "2026-08-12",
+   "summary": "제주특별자치도 제주시 서사로43(삼도이동) (재)제주평생교육장학진흥원\nTel_064-744-9852 ㅣ Fax_064-726-9961 ㅣ E-mail_ webmaster@jiles.or.kr\nCopyright ⓒ 재단법인 제주평생교육장학진흥원. All rights reserved.",
+   "attachments": [
+    {
+     "name": "공고문.pdf (289 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12956&no=1"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-12",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.25,
+   "needs_review": true,
+   "type": "recruit"
+  },
+  {
+   "id": "4c72367b4a98",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 남원초등학교 기간제 교육공무직원(조리사) 채용 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477228",
+   "posted_at": "2026-08-12",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 남원초등학교 기간제 교육공무직원(조리사) 채용 공고\n남원초등학교\n43회\n2026-08-12\n마감일\n2026-08-19\n064-766-4104\n2026 하반기 기간제 교육공무직원(조리사 대체인력) 채용 공고.hwp (88 kb)\n남원초등학교 기간제 교육공무직원(조리사) 채용 공고\n1.\n채용직종 및 인원\n:\n기간제 교육공무직원\n(\n조리사\n) 1\n명\n2.\n채용기간\n: 2026.9.1.~",
+   "attachments": [
+    {
+     "name": "2026 하반기 기간제 교육공무직원(조리사 대체인력) 채용 공고.hwp (88 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477228&command=update&fileSid=1408311"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-12",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true,
+   "type": "hiring"
   },
   {
    "id": "3309d0d0fcef",
