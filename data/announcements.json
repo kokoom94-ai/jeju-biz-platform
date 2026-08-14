@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-13T21:18:50",
+ "updated_at": "2026-08-14T21:06:40",
  "items": [
   {
    "id": "7fdb1cb04eb4",
@@ -10801,6 +10801,49 @@
    "type": "recruit"
   },
   {
+   "id": "190a8b65dea0",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "[유관기관협조] AI(바이브코딩)를 활용한 게임개발 입문기 참가자 모집",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1539&p=2&lcate=",
+   "posted_at": "2026-08-07",
+   "summary": "미세먼지\n좋음\n15㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "[붙임1] 모집 공고문 (2).hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1539&fidx=1"
+    },
+    {
+     "name": "img_1786061142.jpg",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1539&fidx=2"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-08-14",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-06",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false,
+   "type": "recruit"
+  },
+  {
    "id": "f0fe502305f3",
    "institution": "산업통상부",
    "institution_short": "산업통상부",
@@ -12679,6 +12722,48 @@
    "type": "support"
   },
   {
+   "id": "d2dc929b9338",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "공약 도민평가단 학생위원(고등학생) 모집",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000017&menuCd=DOM_000000103001001000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477096",
+   "posted_at": "2026-08-11",
+   "summary": "공지사항\n홈\n뉴스/소식\n새소식\n공지사항\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n공약 도민평가단 학생위원(고등학생) 모집\n정책기획과\n89회\n작성일\n2026-08-11\n전화번호\n064-710-0192\n제주특별자치도교육청 도민평가단 학생위원 모집 안내(제출서류 포함).hwp (544 kb)\n제주특별자치도교육청 공약 도민평가단_학생위원 모집_홍보포스터.png (296 kb)\n‘\n모두가 주인공\n!\n함께 성장하는 제주교육\n’\n제주교육의 비전 구현을 위한 학생들의\n다양한 경험과 의견을 교육감",
+   "attachments": [
+    {
+     "name": "제주특별자치도교육청 도민평가단 학생위원 모집 안내(제출서류 포함).hwp (544 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000017&menuCd=DOM_000000103001001000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477096&command=update&fileSid=1408100"
+    },
+    {
+     "name": "제주특별자치도교육청 공약 도민평가단_학생위원 모집_홍보포스터.png (296 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000017&menuCd=DOM_000000103001001000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477096&command=update&fileSid=1408101"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-08-14",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-11",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "recruit"
+  },
+  {
    "id": "93e592c12de4",
    "institution": "중소벤처기업부",
    "institution_short": "중소벤처기업부",
@@ -13014,7 +13099,7 @@
    "posted_at": "2026-07-21",
    "summary": "미세먼지\n좋음\n21㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-21",
    "ev": 2,
    "sectors": [
@@ -13049,7 +13134,7 @@
    "posted_at": "2026-07-24",
    "summary": "<p>KOTRA는 오는 10월 15일 (목) 일본 도치기현에서「2026 Inside HONDA」를 개최합니다. 이번 행사는 일본의 글로벌완성차 메이커 HONDA의 R&amp;D센터「Global Plaza」 내에 전시 부스를 설치, HONDA 및 Tier 1 구매ㆍ개발 담당자에게 제품을 전시ㆍ홍보하고, 1:1 상담을 진행할 수 있는 자리입니다. 특히, EV 및 차세대 자동차 관련 부품 및 기술, 2차전지 등에 강점을 가진 우리기업에게 일본 시장 진출의 좋은 기회가 될 것으로 기대됩니다. 관심 있는 ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-25",
    "sectors": [
     "market"
@@ -13081,7 +13166,7 @@
    "posted_at": "2026-08-03",
    "summary": "<p>살생물제 안전관리 제도의 안정적 정착 및 원활한 운영을 위한「살생물제 정책 산ㆍ관 협력체」(이하 협력체)에 참여할 기업을 모집합니다. 많은 살생물제 기업의 적극적인 지원을 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 국내 살생물제(물질ㆍ제품)을 제조ㆍ수입하는 자로 승인받았거나, 이행 중 또는 계획중인 기업(국외 제조자의 대리인(선임자) 제외)</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;살생물제 관리 ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-04",
    "sectors": [
     "edu"
@@ -13113,7 +13198,7 @@
    "posted_at": "2026-08-06",
    "summary": "<p>대한무역투자진흥공사에서「2026년 중국 섬서성 환경보호산업 시장진출 지원사업」을 공고하오니 관심있는 기업에 많은 관심과 참여를 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;석탄/마그네슘 자동 채굴설비, 공장설비, 가공설비, 친환경 제품 관련 기업</p><p style=\"line-height: 1.8;\">※ 주요 품목 : 탄소배출, 음식물처리, 고체폐기물, 수처리 분야 등</p><p><br></p><p style=\"line-height: ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-07",
    "sectors": [
     "market",
@@ -13159,7 +13244,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1476940&command=update&fileSid=1407829"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-07",
    "ev": 2,
    "sectors": [
@@ -13197,7 +13282,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477232&command=update&fileSid=1408314"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-12",
    "ev": 2,
    "sectors": [
@@ -13235,7 +13320,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477231&command=update&fileSid=1408313"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-12",
    "ev": 2,
    "sectors": [
@@ -14349,6 +14434,53 @@
    "type": "hiring"
   },
   {
+   "id": "96a82034249f",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "(8.14.~8..28.) 나우다 제휴사 협력 특화 서비스 개발 사업 참여업체 모집",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1542&p=1&lcate=",
+   "posted_at": "2026-08-14",
+   "summary": "미세먼지\n좋음\n15㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "사업 공고문.pdf",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1542&fidx=1"
+    },
+    {
+     "name": "(서식1) 신청서 및 계획서.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1542&fidx=2"
+    },
+    {
+     "name": "(서식2) 개인정보수집이용제공동의서.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1542&fidx=3"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-14",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-14",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false,
+   "type": "recruit"
+  },
+  {
    "id": "aa3e1b6945ab",
    "institution": "문화체육관광부",
    "institution_short": "문화체육관광부",
@@ -14680,6 +14812,158 @@
    "confidence": 0.85,
    "needs_review": false,
    "type": "support"
+  },
+  {
+   "id": "819f0a69d6ae",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "제주중앙중학교 업무경감 시간강사(국어) 채용 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477430",
+   "posted_at": "2026-08-14",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n제주중앙중학교 업무경감 시간강사(국어) 채용 공고\n제주중앙중학교\n42회\n2026-08-14\n마감일\n2026-08-20\n0647280893\n2026학년도 2학기 교육과정지원교사(시간강사_국어) 채용 공고.hwp (68 kb)\n2026학년도 2학기 업무경감 시간강사 채용을 아래와 같이 공고합니다.\n1. 과목: 국어\n2. 채용기간: 2026. 8. 25.~2026. 12. 31. (주당 8시간 총 1",
+   "attachments": [
+    {
+     "name": "2026학년도 2학기 교육과정지원교사(시간강사_국어) 채용 공고.hwp (68 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477430&command=update&fileSid=1408625"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-14",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-18",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
+   "id": "9235b43edfa0",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 중문고등학교 기간제교원(정보 ·컴퓨터) 채용 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477426",
+   "posted_at": "2026-08-14",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 중문고등학교 기간제교원(정보 ·컴퓨터)  채용 공고\n중문고등학교\n59회\n2026-08-14\n마감일\n2026-08-20\n064-735-7401\n2026학년도 기간제교원 채용 공고문(정보).hwp (80 kb)\n2026학년도 중문고등학교 기간제교원(정보 ·컴퓨터) 채용 계획을 붙임과 같이 공고합니다.\n1. 채용분야 :  정보 ·컴퓨터 1명\n2. 채용기간: 2026. 9. 1. ~ 20",
+   "attachments": [
+    {
+     "name": "2026학년도 기간제교원 채용 공고문(정보).hwp (80 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477426&command=update&fileSid=1408612"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-14",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-18",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
+   "id": "3ae8e4e27415",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 한림항공우주고등학교 기간제교원(국어) 채용 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477421",
+   "posted_at": "2026-08-14",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 한림항공우주고등학교 기간제교원(국어) 채용 공고\n한림항공우주고등학교\n69회\n2026-08-14\n마감일\n2026-08-20\n064-797-3221\n탑재 - 기간제교원(국어) 채용 공고문(20260814).hwp (149 kb)\n2026학년도 2학기 기간제교원(국어) 채용 공고\n- 채용인원: 1명\n- 채용기간: 2026. 9. 1. ~ 2027. 2.28.(6개월)\n- 원서접수기간: ",
+   "attachments": [
+    {
+     "name": "탑재 - 기간제교원(국어) 채용 공고문(20260814).hwp (149 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477421&command=update&fileSid=1408603"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-14",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-18",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
+   "id": "0976f8f486f7",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 제주중앙여자고등학교 기간제교원 채용 공고(영어)",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477420",
+   "posted_at": "2026-08-14",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 제주중앙여자고등학교 기간제교원 채용 공고(영어)\n제주중앙여자고등학교\n61회\n2026-08-14\n마감일\n2026-08-20\n064-717-3104\n★ 2026학년도 기간제교원 채용(영어) 공고-2026.8.14. - 탑재.hwp (139 kb)\n2026학년도 제주중앙여자고등학교 기간제교원 채용 공고입니다.\n1. 채용과목: 영어\n2. 접수기간: 2026. 8. 18.(화) 08:20 ",
+   "attachments": [
+    {
+     "name": "★ 2026학년도 기간제교원 채용(영어) 공고-2026.8.14. - 탑재.hwp (139 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477420&command=update&fileSid=1408602"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-14",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-18",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
   },
   {
    "id": "893e34592700",
@@ -29549,6 +29833,44 @@
    "confidence": 0.5,
    "needs_review": true,
    "type": "support"
+  },
+  {
+   "id": "6ec546d065fe",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 평대초등학교 기초학력 협력강사 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477432",
+   "posted_at": "2026-08-15",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 평대초등학교 기초학력 협력강사 모집 공고\n평대초등학교\n10회\n2026-08-15\n마감일\n2026-08-21\n064-750-6827\n2026학년도 평대초등학교 기초학력 협력강사 채용 공고.hwp (73 kb)\n공고\n:\n평대초등학교\n2026\n–\n21\n호\n2026\n학년도 기초학력 협력강사 채용 공고\n2026\n학년도 평대초등학교 기초학력 협력강사 채용을 공고합니다\n.\n2026. 8. 14",
+   "attachments": [
+    {
+     "name": "2026학년도 평대초등학교 기초학력 협력강사 채용 공고.hwp (73 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477432&command=update&fileSid=1408626"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-14",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "3309d0d0fcef",
