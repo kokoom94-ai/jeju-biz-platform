@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T20:54:00",
+ "updated_at": "2026-08-16T20:51:38",
  "items": [
   {
    "id": "7fdb1cb04eb4",
@@ -16887,8 +16887,7 @@
    "status": "open",
    "crawled_at": "2026-08-15",
    "sectors": [
-    "tech",
-    "market"
+    "tech"
    ],
    "company_types": [
     "general"
@@ -17982,7 +17981,6 @@
    "crawled_at": "2026-08-15",
    "sectors": [
     "edu",
-    "market",
     "startup"
    ],
    "company_types": [
@@ -22792,7 +22790,7 @@
      "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1506&fidx=3"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -22843,7 +22841,7 @@
      "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1506&fidx=3"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-23",
    "ev": 2,
    "sectors": [
