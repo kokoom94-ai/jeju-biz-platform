@@ -1,162 +1,6 @@
 {
- "updated_at": "2026-08-16T20:51:38",
+ "updated_at": "2026-08-17T20:58:31",
  "items": [
-  {
-   "id": "7fdb1cb04eb4",
-   "institution": "제주관광공사",
-   "institution_short": "JTO",
-   "group": 1,
-   "board": "공지사항",
-   "title": "도전! J-스타트업 참가기업 모집 공고",
-   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1466&p=4&lcate=",
-   "posted_at": "2026-04-28",
-   "summary": "미세먼지\n좋음\n19㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
-   "attachments": [
-    {
-     "name": "2026 모집 공고문 (J-스타트업).pdf",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1466&fidx=1"
-    },
-    {
-     "name": "2026 모집 공고문 (J-스타트업).hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1466&fidx=2"
-    },
-    {
-     "name": "(서식1) 참가신청서_1.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1466&fidx=3"
-    },
-    {
-     "name": "(서식2) 사업계획서_1.pptx",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1466&fidx=4"
-    },
-    {
-     "name": "(서식3) 개인정보수집이용제공동의서_1.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1466&fidx=5"
-    }
-   ],
-   "status": "closed",
-   "crawled_at": "2026-07-07",
-   "ev": 2,
-   "sectors": [
-    "startup",
-    "edu"
-   ],
-   "company_types": [
-    "small_biz",
-    "startup",
-    "tourism",
-    "general"
-   ],
-   "biz_types": [
-    "education"
-   ],
-   "apply_end": "2026-05-18",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 1.0,
-   "needs_review": false,
-   "type": "recruit"
-  },
-  {
-   "id": "2017f909f199",
-   "institution": "제주관광공사",
-   "institution_short": "JTO",
-   "group": 1,
-   "board": "입찰정보",
-   "title": "J-스타트업 육성 프로그램 운영(긴급입찰) <협상에 의한 계약>",
-   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=972&p=1&lcate=",
-   "posted_at": "2026-05-06",
-   "summary": "미세먼지\n좋음\n20㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
-   "attachments": [
-    {
-     "name": "1_289.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=972&fidx=1"
-    },
-    {
-     "name": "2_272.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=972&fidx=2"
-    },
-    {
-     "name": "3_184.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=972&fidx=3"
-    }
-   ],
-   "status": "closed",
-   "crawled_at": "2026-07-07",
-   "ev": 2,
-   "sectors": [
-    "startup",
-    "bid"
-   ],
-   "company_types": [
-    "startup",
-    "tourism",
-    "general"
-   ],
-   "biz_types": [
-    "bid"
-   ],
-   "apply_end": "2026-05-18",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 1.0,
-   "needs_review": false,
-   "type": "bid"
-  },
-  {
-   "id": "51957edeea1b",
-   "institution": "제주관광공사",
-   "institution_short": "JTO",
-   "group": 1,
-   "board": "입찰정보",
-   "title": "J-스타트업 육성 프로그램 운영(긴급입찰) <협상에 의한 계약>",
-   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=972&p=2&lcate=",
-   "posted_at": "2026-05-06",
-   "summary": "미세먼지\n좋음\n23㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
-   "attachments": [
-    {
-     "name": "1_289.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=972&fidx=1"
-    },
-    {
-     "name": "2_272.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=972&fidx=2"
-    },
-    {
-     "name": "3_184.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=972&fidx=3"
-    }
-   ],
-   "status": "closed",
-   "crawled_at": "2026-08-07",
-   "ev": 2,
-   "sectors": [
-    "startup",
-    "bid"
-   ],
-   "company_types": [
-    "startup",
-    "tourism",
-    "general"
-   ],
-   "biz_types": [
-    "bid"
-   ],
-   "apply_end": "2026-05-18",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 1.0,
-   "needs_review": false,
-   "type": "bid"
-  },
   {
    "id": "742b01416e19",
    "institution": "제주관광공사",
@@ -17070,6 +16914,44 @@
    "type": "support"
   },
   {
+   "id": "02a8a65dace5",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 예원유치원 기간제 교원 채용공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477443",
+   "posted_at": "2026-08-17",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 예원유치원 기간제 교원 채용공고\n예원유치원 교무실\n65회\n2026-08-17\n마감일\n2026-08-25\n762-0063\n2026년 예원유치원 기간제 교사 공고.hwp (45 kb)\n2026학년도 예원유치원 기간제 교원 채용공고\n1. 채용인원 : 정교사 1명\n2. 접수기간 : 2026.8.18(화)~2026.8.25(화) 17:000\n3. 접수방법 : 예원유치원 교무실로 직접 방문접",
+   "attachments": [
+    {
+     "name": "2026년 예원유치원 기간제 교사 공고.hwp (45 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477443&command=update&fileSid=1408638"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-17",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-25",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
    "id": "8a25d8318f1b",
    "institution": "농림축산식품부",
    "institution_short": "농림축산식품부",
@@ -30320,6 +30202,44 @@
    "confidence": 0.25,
    "needs_review": true,
    "type": "hiring"
+  },
+  {
+   "id": "b8e61382b984",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 2학기 기초학력 협력강사 모집 공고(동광초)",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477440",
+   "posted_at": "2026-08-17",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 2학기 기초학력 협력강사 모집 공고(동광초)\n동광초등학교\n138회\n2026-08-17\n마감일\n2026-08-24\n0647295858\n2026학년도 2학기 동광초 기초학력 협력수업 강사 채용 공고문.hwp (143 kb)\n1.\n모집 분야 및 인원\n분야\n채용\n인원\n활동 기간\n활동 내용\n협력수업\n(\n기초학력\n)\n강사\n1\n명\n2026. 9. 1. ~ 2026 12. 31.\n*\n방학 기간 ",
+   "attachments": [
+    {
+     "name": "2026학년도 2학기 동광초 기초학력 협력수업 강사 채용 공고문.hwp (143 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477440&command=update&fileSid=1408634"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-17",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "3309d0d0fcef",

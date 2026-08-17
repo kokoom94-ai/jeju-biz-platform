@@ -1,5 +1,5 @@
 {
- "run_at": "2026-08-16T20:45:55",
+ "run_at": "2026-08-17T20:52:37",
  "results": [
   {
    "institution": "jto",
@@ -76,7 +76,7 @@
   {
    "institution": "jjedu",
    "found": 24,
-   "new": 0,
+   "new": 2,
    "errors": []
   },
   {
