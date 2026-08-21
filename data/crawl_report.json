@@ -1,5 +1,5 @@
 {
- "run_at": "2026-08-20T20:55:37",
+ "run_at": "2026-08-21T20:48:39",
  "results": [
   {
    "institution": "jto",
@@ -26,7 +26,7 @@
   {
    "institution": "jba",
    "found": 24,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -42,7 +42,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 154268자, title='제주연구원', 링크 391개"
+    "공지사항: 0건 진단: 응답 154387자, title='제주연구원', 링크 391개"
    ]
   },
   {
@@ -62,7 +62,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 368자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 367자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -70,13 +70,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 403자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 402자, title='no-title', 링크 0개"
    ]
   },
   {
    "institution": "jjedu",
    "found": 26,
-   "new": 6,
+   "new": 5,
    "errors": []
   },
   {
@@ -84,7 +84,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 403자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 402자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -98,7 +98,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 151954자, title='제주창조경제혁신센터', 링크 47개"
+    "사업공고: 0건 진단: 응답 151952자, title='제주창조경제혁신센터', 링크 47개"
    ]
   },
   {
@@ -120,19 +120,19 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 353839자, title='노사발전재단', 링크 815개"
+    "공지사항: 0건 진단: 응답 354738자, title='노사발전재단', 링크 816개"
    ]
   },
   {
    "institution": "jta",
    "found": 12,
-   "new": 6,
+   "new": 4,
    "errors": []
   },
   {
    "institution": "jejucci",
-   "found": 5,
-   "new": 1,
+   "found": 4,
+   "new": 0,
    "errors": []
   },
   {
@@ -157,8 +157,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 80,
-   "new": 10,
+   "found": 74,
+   "new": 11,
    "errors": []
   },
   {
