@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-22T20:53:17",
+ "updated_at": "2026-08-23T20:54:11",
  "items": [
   {
    "id": "7cc619161cdc",
@@ -17033,6 +17033,44 @@
    "type": "hiring"
   },
   {
+   "id": "67e5c9d605ee",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026년 2학기 남주중학교 보건보조인력 채용 공고(3차)",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477866",
+   "posted_at": "2026-08-21",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026년 2학기 남주중학교 보건보조인력 채용 공고(3차) 채용공고 상세정보\n제목\n2026년 2학기 남주중학교 보건보조인력 채용 공고(3차)\n학교(부서)명\n남주중학교\n작성일\n2026-08-21\n공고구분\n채용공고\n연락처\n064-730-6191\n직종구분\n기타\n모집상태\n대기중\n※ 모집상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담당과목(업무)\n보건보조인력\n",
+   "attachments": [
+    {
+     "name": "2026년2학기보건보조인력채용공고(3차)h.hwp (66 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477866&command=update&fileSid=1409298"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-23",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-24",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
    "id": "de5f2bf34079",
    "institution": "기후에너지환경부",
    "institution_short": "기후에너지환경부",
@@ -18339,6 +18377,82 @@
    "type": "support"
   },
   {
+   "id": "894931e6e50e",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 일도초등학교 2학기 특수교육자원봉사자 모집 재공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477867",
+   "posted_at": "2026-08-21",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 일도초등학교 2학기 특수교육자원봉사자 모집 재공고 채용공고 상세정보\n제목\n2026학년도 일도초등학교 2학기 특수교육자원봉사자 모집 재공고\n학교(부서)명\n일도초등학교\n작성일\n2026-08-21\n공고구분\n채용공고\n연락처\n064-750-2966\n직종구분\n지방공무원 대체인력\n모집상태\n모집중\n※ 모집상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담",
+   "attachments": [
+    {
+     "name": "2026학년도 특수교육자원봉사자 모집 재공고.hwp (79 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477867&command=update&fileSid=1409299"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-23",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-27",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "recruit"
+  },
+  {
+   "id": "aa2381d18358",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 재릉초등학교 5~6학년 체육수업(농구) 강사 모집 계획",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477865",
+   "posted_at": "2026-08-21",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 재릉초등학교 5~6학년 체육수업(농구) 강사 모집 계획 채용공고 상세정보\n제목\n2026학년도 재릉초등학교 5~6학년 체육수업(농구) 강사 모집 계획\n학교(부서)명\n재릉초등학교\n작성일\n2026-08-21\n공고구분\n채용공고\n연락처\n064-795-5700\n직종구분\n강사\n모집상태\n모집중\n※ 모집상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담당과",
+   "attachments": [
+    {
+     "name": "2026학년도 재릉초등학교 체육(농구) 강사 모집 공고.hwp (130 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477865&command=update&fileSid=1409297"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-23",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-27",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "recruit"
+  },
+  {
    "id": "26d2f6f627da",
    "institution": "조달청",
    "institution_short": "조달청",
@@ -18964,6 +19078,44 @@
    "confidence": 0.5,
    "needs_review": true,
    "type": "support"
+  },
+  {
+   "id": "8d1e5ed6f590",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 2학기 방과후학교 개인위탁 외부강사 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477869",
+   "posted_at": "2026-08-21",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 2학기 방과후학교 개인위탁 외부강사 모집 공고 채용공고 상세정보\n제목\n2026학년도 2학기 방과후학교 개인위탁 외부강사 모집 공고\n학교(부서)명\n제주중앙고등학교\n작성일\n2026-08-21\n공고구분\n채용공고\n연락처\n064-750-3826\n직종구분\n강사\n모집상태\n모집중\n※ 모집상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n2 명\n담당과목(업무)\nNC",
+   "attachments": [
+    {
+     "name": "2026학년도 제주중앙고 방과후 프로그램 위탁강사 모집 공고.hwp (90 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477869&command=update&fileSid=1409301"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-23",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-28",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "d5b51a7f5ebb",
@@ -19997,6 +20149,44 @@
    "confidence": 0.6,
    "needs_review": false,
    "type": "support"
+  },
+  {
+   "id": "78fef5ffa087",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "제주도서관 지방공무원 결원지원인력(사서) 채용 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1477868",
+   "posted_at": "2026-08-21",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n제주도서관 지방공무원 결원지원인력(사서) 채용 공고 채용공고 상세정보\n제목\n제주도서관 지방공무원 결원지원인력(사서) 채용 공고\n학교(부서)명\n제주도서관\n작성일\n2026-08-21\n공고구분\n채용공고\n연락처\n064-717-6451\n직종구분\n자원봉사자\n모집상태\n대기중\n※ 모집상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담당과목(업무)\n사서\n접수기간\n2026",
+   "attachments": [
+    {
+     "name": "# 지방공무원 결원지원인력(사서) 채용 공고(2026.8.21.).hwp (86 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1477868&command=update&fileSid=1409300"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-08-23",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-31",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
   },
   {
    "id": "38ff83acbad7",
@@ -23375,6 +23565,39 @@
    "confidence": 0.5,
    "needs_review": true,
    "type": "recruit"
+  },
+  {
+   "id": "2c500fe1710c",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "제주관광공사 지정면세점 출퇴근버스 운행 용역 <적격심사>",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=949&p=4&lcate=",
+   "posted_at": "2025-09-18",
+   "summary": "",
+   "attachments": [],
+   "status": "closed",
+   "crawled_at": "2026-08-23",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.6,
+   "needs_review": false,
+   "type": "bid"
   },
   {
    "id": "7e40f2ebac82",
