@@ -1,10 +1,10 @@
 {
- "run_at": "2026-08-23T20:47:24",
+ "run_at": "2026-08-24T20:57:54",
  "results": [
   {
    "institution": "jto",
    "found": 58,
-   "new": 17,
+   "new": 19,
    "errors": []
   },
   {
@@ -25,8 +25,8 @@
   },
   {
    "institution": "jba",
-   "found": 24,
-   "new": 0,
+   "found": 25,
+   "new": 2,
    "errors": []
   },
   {
@@ -47,14 +47,14 @@
   },
   {
    "institution": "jwfri",
-   "found": 7,
+   "found": 6,
    "new": 1,
    "errors": []
   },
   {
    "institution": "jiles",
-   "found": 14,
-   "new": 0,
+   "found": 15,
+   "new": 2,
    "errors": []
   },
   {
@@ -120,13 +120,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 354740자, title='노사발전재단', 링크 816개"
+    "공지사항: 0건 진단: 응답 354185자, title='노사발전재단', 링크 815개"
    ]
   },
   {
    "institution": "jta",
-   "found": 12,
-   "new": 4,
+   "found": 13,
+   "new": 6,
    "errors": []
   },
   {
@@ -139,7 +139,9 @@
    "institution": "kbizjeju",
    "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "공지사항: 0건 진단: 응답 71자, title='no-title', 링크 0개"
+   ]
   },
   {
    "institution": "jejurise",
@@ -155,8 +157,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 74,
-   "new": 0,
+   "found": 73,
+   "new": 9,
    "errors": []
   },
   {
