@@ -1,10 +1,10 @@
 {
- "run_at": "2026-08-24T20:57:54",
+ "run_at": "2026-08-25T20:54:43",
  "results": [
   {
    "institution": "jto",
-   "found": 58,
-   "new": 19,
+   "found": 59,
+   "new": 18,
    "errors": []
   },
   {
@@ -25,8 +25,8 @@
   },
   {
    "institution": "jba",
-   "found": 25,
-   "new": 2,
+   "found": 26,
+   "new": 1,
    "errors": []
   },
   {
@@ -42,7 +42,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 154271자, title='제주연구원', 링크 391개"
+    "공지사항: 0건 진단: 응답 154329자, title='제주연구원', 링크 391개"
    ]
   },
   {
@@ -53,7 +53,7 @@
   },
   {
    "institution": "jiles",
-   "found": 15,
+   "found": 17,
    "new": 2,
    "errors": []
   },
@@ -62,7 +62,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 368자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 367자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -70,7 +70,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 403자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 402자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -84,7 +84,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 403자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 402자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -120,13 +120,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 354185자, title='노사발전재단', 링크 815개"
+    "공지사항: 0건 진단: 응답 354065자, title='노사발전재단', 링크 814개"
    ]
   },
   {
    "institution": "jta",
    "found": 13,
-   "new": 6,
+   "new": 4,
    "errors": []
   },
   {
@@ -157,8 +157,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 73,
-   "new": 9,
+   "found": 68,
+   "new": 11,
    "errors": []
   },
   {
