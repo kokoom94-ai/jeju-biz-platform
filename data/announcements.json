@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-29T22:48:03",
+ "updated_at": "2026-08-30T22:58:19",
  "items": [
   {
    "id": "08a0ba684163",
@@ -23356,8 +23356,7 @@
    "status": "open",
    "crawled_at": "2026-08-29",
    "sectors": [
-    "market",
-    "tech"
+    "market"
    ],
    "company_types": [
     "small_biz",
@@ -23392,7 +23391,6 @@
    "sectors": [
     "tech",
     "fund",
-    "startup",
     "edu"
    ],
    "company_types": [
@@ -23689,8 +23687,7 @@
    "status": "open",
    "crawled_at": "2026-08-29",
    "sectors": [
-    "tech",
-    "edu"
+    "tech"
    ],
    "company_types": [
     "general"
@@ -23722,9 +23719,7 @@
    "status": "open",
    "crawled_at": "2026-08-29",
    "sectors": [
-    "market",
-    "startup",
-    "edu"
+    "market"
    ],
    "company_types": [
     "small_biz",
@@ -24019,7 +24014,6 @@
    "crawled_at": "2026-08-29",
    "sectors": [
     "market",
-    "tech",
     "bid"
    ],
    "company_types": [
@@ -24053,7 +24047,6 @@
    "crawled_at": "2026-08-29",
    "sectors": [
     "market",
-    "tech",
     "bid"
    ],
    "company_types": [
@@ -24087,7 +24080,6 @@
    "crawled_at": "2026-08-29",
    "sectors": [
     "market",
-    "tech",
     "bid"
    ],
    "company_types": [
@@ -24191,8 +24183,7 @@
    "crawled_at": "2026-08-29",
    "sectors": [
     "tech",
-    "fund",
-    "market"
+    "fund"
    ],
    "company_types": [
     "small_biz",
@@ -24555,8 +24546,7 @@
    "crawled_at": "2026-08-29",
    "sectors": [
     "edu",
-    "fund",
-    "tech"
+    "fund"
    ],
    "company_types": [
     "general"
@@ -24625,8 +24615,7 @@
    "status": "open",
    "crawled_at": "2026-08-29",
    "sectors": [
-    "tech",
-    "market"
+    "tech"
    ],
    "company_types": [
     "small_biz",
@@ -27919,7 +27908,7 @@
    "posted_at": "2026-06-30",
    "summary": "연구원 공지사항\nHOME  > 열린광장 > 공지사항 >\n연구원 공지사항\n게시물 상세보기\n제주여성가족연구원 정책제안 도민 참여단 최종 선정자 공고\n제주여성가족연구원\n2026-06-30\n104\n재단법인 제주여성가족연구원 공고 2026-47호\n정책제안 도민 참여단 최종 선정자 공고\n정책제안 도민 참여단 모집 관련 선정자 명단을 다음과 같이 공고합니다.\n2026. 6. 30.\n재단법인 제주여성가족연구원\n첨부파일\n정책제안 도민 참여단 최종 선정자 공고.pdf (80.11KBytes)\n목록\n담당부서\n기획홍보",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -27957,7 +27946,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000017&menuCd=DOM_000000103001001000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1473769&command=update&fileSid=1401735"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -27995,7 +27984,7 @@
      "url": "https://jejucci.korcham.net/file/dext5uploaddata/2026/(서식) 제주 전세버스업 고용안정 패키지 지원사업___.hwp"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
