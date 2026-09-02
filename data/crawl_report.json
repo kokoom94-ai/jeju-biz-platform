@@ -1,10 +1,10 @@
 {
- "run_at": "2026-09-01T22:42:48",
+ "run_at": "2026-09-02T22:45:07",
  "results": [
   {
    "institution": "jto",
-   "found": 55,
-   "new": 22,
+   "found": 56,
+   "new": 18,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
   {
    "institution": "jba",
    "found": 28,
-   "new": 3,
+   "new": 0,
    "errors": []
   },
   {
@@ -42,7 +42,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 154245자, title='제주연구원', 링크 391개"
+    "공지사항: 0건 진단: 응답 157867자, title='제주연구원', 링크 392개"
    ]
   },
   {
@@ -54,7 +54,7 @@
   {
    "institution": "jiles",
    "found": 17,
-   "new": 2,
+   "new": 3,
    "errors": []
   },
   {
@@ -62,7 +62,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 368자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 367자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -70,13 +70,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 403자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 402자, title='no-title', 링크 0개"
    ]
   },
   {
    "institution": "jjedu",
-   "found": 0,
-   "new": 0,
+   "found": 26,
+   "new": 6,
    "errors": []
   },
   {
@@ -84,7 +84,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 403자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 402자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -120,19 +120,19 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 353746자, title='노사발전재단', 링크 808개"
+    "공지사항: 0건 진단: 응답 354013자, title='노사발전재단', 링크 810개"
    ]
   },
   {
    "institution": "jta",
    "found": 13,
-   "new": 5,
+   "new": 4,
    "errors": []
   },
   {
    "institution": "jejucci",
-   "found": 7,
-   "new": 0,
+   "found": 9,
+   "new": 2,
    "errors": []
   },
   {
@@ -157,9 +157,11 @@
   },
   {
    "institution": "bizinfo",
-   "found": 67,
-   "new": 11,
-   "errors": []
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "3회 재시도 실패 — ConnectTimeout: timed out"
+   ]
   },
   {
    "institution": "g2b",
@@ -167,9 +169,9 @@
    "new": 0,
    "errors": [
     "작동하는 API 경로 조합 없음 — 아래 조합별 응답 참조",
-    "BidPublicInfoService/PPSSrch: RuntimeError HTTP 403 :: {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\"",
-    "BidPublicInfoService: RuntimeError HTTP 403 :: {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\"",
-    "BidPublicInfoService04/PPSSrch: RuntimeError HTTP 400 :: {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"NO_OPENAPI_SERVICE_ERROR\",\n      \"re"
+    "BidPublicInfoService/PPSSrch: ConnectTimeout timed out",
+    "BidPublicInfoService: ConnectTimeout timed out",
+    "BidPublicInfoService04/PPSSrch: ConnectTimeout timed out"
    ]
   }
  ]
