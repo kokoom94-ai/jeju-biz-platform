@@ -1,10 +1,10 @@
 {
- "run_at": "2026-09-03T22:42:20",
+ "run_at": "2026-09-04T22:26:52",
  "results": [
   {
    "institution": "jto",
    "found": 57,
-   "new": 17,
+   "new": 15,
    "errors": []
   },
   {
@@ -62,7 +62,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 368자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 369자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -70,13 +70,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 403자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 404자, title='no-title', 링크 0개"
    ]
   },
   {
    "institution": "jjedu",
-   "found": 26,
-   "new": 5,
+   "found": 24,
+   "new": 4,
    "errors": []
   },
   {
@@ -84,7 +84,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 403자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 404자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -120,13 +120,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 354015자, title='노사발전재단', 링크 810개"
+    "공지사항: 0건 진단: 응답 354044자, title='노사발전재단', 링크 810개"
    ]
   },
   {
    "institution": "jta",
-   "found": 14,
-   "new": 6,
+   "found": 13,
+   "new": 2,
    "errors": []
   },
   {
@@ -157,8 +157,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 66,
-   "new": 23,
+   "found": 71,
+   "new": 9,
    "errors": []
   },
   {
