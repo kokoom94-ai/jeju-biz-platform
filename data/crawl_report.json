@@ -1,5 +1,5 @@
 {
- "run_at": "2026-09-04T22:26:52",
+ "run_at": "2026-09-05T22:08:50",
  "results": [
   {
    "institution": "jto",
@@ -54,7 +54,7 @@
   {
    "institution": "jiles",
    "found": 18,
-   "new": 2,
+   "new": 0,
    "errors": []
   },
   {
@@ -62,7 +62,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 369자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 367자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -70,13 +70,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 404자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 402자, title='no-title', 링크 0개"
    ]
   },
   {
    "institution": "jjedu",
    "found": 24,
-   "new": 4,
+   "new": 1,
    "errors": []
   },
   {
@@ -84,7 +84,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 404자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 402자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -98,7 +98,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 151955자, title='제주창조경제혁신센터', 링크 47개"
+    "사업공고: 0건 진단: 응답 151953자, title='제주창조경제혁신센터', 링크 47개"
    ]
   },
   {
@@ -120,13 +120,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 354044자, title='노사발전재단', 링크 810개"
+    "공지사항: 0건 진단: 응답 354040자, title='노사발전재단', 링크 810개"
    ]
   },
   {
    "institution": "jta",
    "found": 13,
-   "new": 2,
+   "new": 3,
    "errors": []
   },
   {
@@ -157,9 +157,11 @@
   },
   {
    "institution": "bizinfo",
-   "found": 71,
-   "new": 9,
-   "errors": []
+   "found": 0,
+   "new": 0,
+   "errors": [
+    "3회 재시도 실패 — ConnectTimeout: timed out"
+   ]
   },
   {
    "institution": "g2b",
@@ -167,9 +169,9 @@
    "new": 0,
    "errors": [
     "작동하는 API 경로 조합 없음 — 아래 조합별 응답 참조",
-    "BidPublicInfoService/PPSSrch: RuntimeError HTTP 403 :: {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\"",
-    "BidPublicInfoService: RuntimeError HTTP 403 :: {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\"",
-    "BidPublicInfoService04/PPSSrch: RuntimeError HTTP 400 :: {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"NO_OPENAPI_SERVICE_ERROR\",\n      \"re"
+    "BidPublicInfoService/PPSSrch: ConnectTimeout timed out",
+    "BidPublicInfoService: ConnectTimeout timed out",
+    "BidPublicInfoService04/PPSSrch: ConnectTimeout timed out"
    ]
   }
  ]
