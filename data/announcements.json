@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T22:19:33",
+ "updated_at": "2026-09-06T22:22:57",
  "items": [
   {
    "id": "07ae2f476dda",
@@ -23925,6 +23925,44 @@
    "type": "hiring"
   },
   {
+   "id": "072c98e466ba",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "[긴급] 2026년 정서회복과 기간제교원(전문상담) 채용 재공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1479271",
+   "posted_at": "2026-09-06",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n[긴급] 2026년 정서회복과 기간제교원(전문상담) 채용 재공고 채용공고 상세정보\n제목\n[긴급] 2026년 정서회복과 기간제교원(전문상담) 채용 재공고\n학교(부서)명\n정서회복과\n작성일\n2026-09-06\n공고구분\n채용공고\n연락처\n0647100043\n직종구분\n기간제교원\n접수상태\n대기중\n※ 접수상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담당과목(업무)\n",
+   "attachments": [
+    {
+     "name": "2026년 기간제교원(전문상담) 채용 재공고문.hwp (71 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1479271&command=update&fileSid=1411259"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-09-06",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-09-09",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
    "id": "30554739eb23",
    "institution": "문화체육관광부",
    "institution_short": "문화체육관광부",
@@ -28402,7 +28440,7 @@
    "posted_at": null,
    "summary": "소개 및 지원안내\n소개 및 지원안내 목록\n번호, 제목, 글쓴이, 날짜, 조회 표\n제주아동·청소년지원센터 ‘반짝’\n'반짝'\n은 성착취 피해아동\n·\n청소년을 대상으로 상담\n,\n의료\n,\n법률\n,\n학업\n·\n진로 지원 등을 제공하며 피해를 경험한 아동\n·\n청소년들이 안전하고 평화로운 일상을 찾을 수 있도록 돕는 전문상담기관입니다\n.\n주요활동\n성착취 피해아동\n·\n청소년을 위한 긴급지원, 상담·법률·의료지원, 교육·학업지원, 자활·자활지원센터 연계\n온/오프라인 아웃리치 활동\n아동\n·\n청소년을 위한 편이점(편하",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -28436,7 +28474,7 @@
    "posted_at": null,
    "summary": "제주인재육성 장학사업\n제주평생교육장학진흥원을 소개합니다.\n제주인재육성 장학사업\n사업목적 및 방향\n성적 우수 학생 및 경제적 취약계층 등 지역 출신 학생들에게 장학금 지원을 통해 학업 장려 및 제주지역의 우수 인재로 육성\n해외 인턴십 체계를 도입하여 제주 청년 대상 국제 경쟁력을 갖춘 학습 및 실무 경험을 제공함으로써 글로벌 혁신 역량 강화\n사업개요\n사업기간 : 2026년 1월 ~ 12월\n사업대상 : 제주도민(고등학생 및 대학(원)생)\n주요사업\n제주인재육성 장학금 지원사업 운영\n제주인재육성 특별지정",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -28469,7 +28507,7 @@
    "posted_at": null,
    "summary": "도민 외국어 역량강화 사업\n제주평생교육장학진흥원을 소개합니다.\n도민 외국어 역량강화 사업\n사업목적 및 방향\n도민 외국어 회화 학습 기회 부여를 통한 동기부여 및 역량 강화\n도민 수요를 반영한 전문적이고 다양한 외국어 학습 기회 제공\n사업개요\n사업기간 : 2026년 1월 ~ 12월\n지원대상 : 제주도민\n주요사업\n특정주제·분아별 외국어 교육과정 운영\n찾아가는 맞춤형 외국어 교육 기관(단체) 지원\n제주도민 외국어 학습비 지원(학원비 지원 과정, 전화화상 학습비 지원 과정)\n사이버 외국어 어학센터 위탁 ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -28502,7 +28540,7 @@
    "posted_at": null,
    "summary": "평생교육이용권\n제주평생교육장학진흥원을 소개합니다.\n평생교육이용권(바우처) 지원사업\n평생교육바우처 안내 홈페이지\n평생교육이용권(바우처) 지원사업\n사업목적 및 방향\n평생교육격차를 해소하고 학습자 본인이 자율적으로 학습 활동을 결정하고 참여할 수 있도록 평생교육이용권 제공\n사업개요\n사업기간 : 2025년 1월 ~ 12월\n사업대상 : 교육취약계층 대상\n주요사업\n평생교육이용권(바우처) 지원사업\n· 교육 취약계층 대상으로 학습자 본인이 자율적으로 학습 활동을 결정하고 참여할 수 있도록 평생교육 이용권 제공 ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -28535,7 +28573,7 @@
    "posted_at": null,
    "summary": "공익법인 안내\n제주평생교육장학진흥원을 소개합니다.\n일반기부금 모집 기관\n일반기부금 모집 기관\n소개\n기부자 혜택\n기부자 예우\n기부금 접수 및 진행절차\n기부금 영수증 발급안내\n01\n공익법인\n소개\n(재)제주평생교육장학진흥원은 학술·장학 목적 공익법인으로 일반기부금 모집 기관입니다.\n(재)제주평생교육장학진흥원은 제주특별자치도가 출연한 공익법인으로, 제주국제자유도시 추진을 위한 인재육성 장학사업을 수행하고 있습니다.\n「공익법인의 설립」운영에 관한 법률 제2조 (적용범위)\n「기부금품의 모집 및 사용에 관한 ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -28568,7 +28606,7 @@
    "posted_at": null,
    "summary": "장년층 생애재설계 지원사업\n사업목적 및 방향\n예비 노년층의 사회활동 모델 개발 및 제주문화에 특화된 지원 기반 구축\n제주지역 예비 노년층의 노후 준비 지원으로 일자리 및 사회참여 활동 촉진\n사업개요\n사업 기간 : 2025년 1월 ~ 12월\n사업대상 : 50~64세 제주도민\n주요사업\n5060 재능나눔 활동지원\n5060 분야별 전문자원봉사단 조직 및 육성을 통한 자원봉사자 파견\n공동체 씨앗동아리 선정ㆍ지원 통한 활성화 사업 운영\n탐나는 5060인생학교\n탐나는 5060인생학교 입문과정, 진로설계과정, ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -28607,7 +28645,7 @@
      "url": "https://www.jje.go.kr/pro/board/download.jje?boardId=BBS_0000652&menuCd=DOM_000000209001000000&paging=ok&startPage=1&dataSid=1474257&command=update&fileSid=1402298"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -28640,7 +28678,7 @@
    "posted_at": null,
    "summary": "서브컨텐츠\n관광이 상생으로 이어지는 모두가 행복한 제주\n커뮤니티\n공지사항\n알림마당\n타시도 인센티브지원안내\n보도자료\n동호회 활동\n관광관련문의\n홍보물신청\n채용공고\n협회동정\n홈\n커뮤니티\n타시도 인센티브지원안내\n타시도 인센티브지원안내\n주소복사\n프린트\n분류 선택\n제목\n내용\n제목+내용\n작성자\n검색\n총\n13\n건\n게시판목록을 번호, 제목, 작성자, 작성일,  조회로 보여주는 표입니다.\n번호\n제목\n작성자\n작성일\n조회\n13\n한국여행업협회 「여행상품 온라인 유통지원」사업 참여여행사 7차 모집 안내\n3\n수도권제주관광홍",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -28673,7 +28711,7 @@
    "posted_at": null,
    "summary": "등급결정 제도\n호텔등급결정 개요\n01\n목   적\n관광숙박업 이용자의 편의를 돕고, 서비스의 수준을 효율적으로 유지 관리\n02\n대   상\n관광호텔업, 가족호텔업, 한국전통호텔업, 수상관광호텔업, 소형호텔업, 의료관광호텔업\n03\n등급신청\n1) 신규등록, 시설중개축 등 등급조정사유가 발생한 날부터 60일 이내\n2) 등급유효기간 만료 150일~90일 전 까지 신청\n04\n등급결정\n신청일로 부터 90일 이내\n※ 등급결정 신청 위반\n행정처분 : 1차 시정명령 → 2차 사업정지 10일 → 3차 사업정지 20일 ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -28707,7 +28745,7 @@
    "posted_at": null,
    "summary": "Jeju Tourist Souvenir Contest Winner\n제주특별자치도 주최\n제주관광기념품\n공모전 수상작\n제주관광기념품 공모전 수상작은\n제주의 스토리를 담은 다양한 형태의 기념품\n으로, 제주를 상징하는 디자인 요소와 친환경 소재를 활용한 지속 가능한 상품들이 주목받고 있습니다.",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -28740,7 +28778,7 @@
    "posted_at": null,
    "summary": "",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -31595,7 +31633,7 @@
      "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12883&no=2"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -31637,7 +31675,7 @@
      "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12882&no=2"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -31675,7 +31713,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1474705&command=update&fileSid=1403109"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
@@ -31741,7 +31779,7 @@
      "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59128&no=4"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-07",
    "ev": 2,
    "sectors": [
