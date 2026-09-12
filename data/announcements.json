@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-11T22:49:33",
+ "updated_at": "2026-09-12T22:40:00",
  "items": [
   {
    "id": "2f5813af3ef6",
@@ -2370,6 +2370,45 @@
    ],
    "status": "closed",
    "crawled_at": "2026-08-18",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-07-14",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false,
+   "type": "recruit"
+  },
+  {
+   "id": "5e6c91ae3ee9",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "(7/14~27) [혼저옵서개] 프로젝트 신규 참여 업체 모집 및 현행화 연장 공고",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1524&p=4&lcate=",
+   "posted_at": "2026-07-22",
+   "summary": "미세먼지\n좋음\n10㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "2026년 혼저옵서개 프로젝트 모집공고문(연장).zip",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1524&fidx=1"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-09-12",
    "ev": 2,
    "sectors": [
     "etc"
@@ -12670,6 +12709,50 @@
    "type": "recruit"
   },
   {
+   "id": "14b821238ccd",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "제주 퐁낭라운지 참여마을 모집 공고",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1540&p=3&lcate=",
+   "posted_at": "2026-08-11",
+   "summary": "미세먼지\n좋음\n10㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "공고문_82.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1540&fidx=1"
+    },
+    {
+     "name": ".pdf",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1540&fidx=2"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-09-12",
+   "ev": 2,
+   "sectors": [
+    "market"
+   ],
+   "company_types": [
+    "coop",
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-12",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false,
+   "type": "recruit"
+  },
+  {
    "id": "a48fddbda9a0",
    "institution": "제주특별자치도교육청",
    "institution_short": "교육청",
@@ -12759,6 +12842,41 @@
    "attachments": [],
    "status": "closed",
    "crawled_at": "2026-08-18",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "youth",
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-13",
+   "always_open": false,
+   "age_min": 19,
+   "age_max": 39,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false,
+   "type": "recruit"
+  },
+  {
+   "id": "94e51a7502cb",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "(7/20~8/13) 「2026 청춘 정거장 in 제주」 가을시즌 참가자 모집 공고",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1522&p=4&lcate=",
+   "posted_at": "2026-07-21",
+   "summary": "미세먼지\n좋음\n10㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [],
+   "status": "closed",
+   "crawled_at": "2026-09-12",
    "ev": 2,
    "sectors": [
     "etc"
@@ -14164,6 +14282,53 @@
    ],
    "status": "closed",
    "crawled_at": "2026-08-31",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-14",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false,
+   "type": "recruit"
+  },
+  {
+   "id": "cc6c0c1a76c2",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "(8.14.~8.28.) 나우다 제휴사 협력 특화 서비스 개발 사업 참여업체 모집",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1542&p=3&lcate=",
+   "posted_at": "2026-08-14",
+   "summary": "미세먼지\n좋음\n10㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "사업 공고문.pdf",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1542&fidx=1"
+    },
+    {
+     "name": "(서식1) 신청서 및 계획서.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1542&fidx=2"
+    },
+    {
+     "name": "(서식2) 개인정보수집이용제공동의서.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1542&fidx=3"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-09-12",
    "ev": 2,
    "sectors": [
     "etc"
@@ -16515,6 +16680,45 @@
    "type": "recruit"
   },
   {
+   "id": "c159ac7d949e",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "[유관기관협조] 제65회 탐라문화제 탐나들이(아트마켓) 운영 부스 신청자 모집",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1556&p=2&lcate=",
+   "posted_at": "2026-09-02",
+   "summary": "미세먼지\n좋음\n10㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "제65회 탐라문화제 탐나들이(아트마켓) 운영자 모집 개요.hwpx",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1556&fidx=1"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-09-12",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-21",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false,
+   "type": "recruit"
+  },
+  {
    "id": "f6d3b98a354e",
    "institution": "산업통상부",
    "institution_short": "산업통상부",
@@ -18384,6 +18588,45 @@
    ],
    "status": "closed",
    "crawled_at": "2026-08-28",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-27",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false,
+   "type": "recruit"
+  },
+  {
+   "id": "d6f42cc127a0",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "(8/14~8/27) 2026년 제주 고유문화 및 여행상품 추가 공모 시행",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1541&p=3&lcate=",
+   "posted_at": "2026-08-13",
+   "summary": "미세먼지\n좋음\n10㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "공고문_2026 제주 고유문화 및 테마 여행상품 추가 공모.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1541&fidx=1"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-09-12",
    "ev": 2,
    "sectors": [
     "etc"
@@ -24376,7 +24619,7 @@
    "posted_at": "2026-08-07",
    "summary": "<p>「해외농업ㆍ산림자원 개발협력법」 제25조, 「산림사업종합자금 운용규정」, 「산림사업종합자금 이차보전 규정」에 따라 ‘2026년 해외산림자원개발 이차보전 사업’을 다음과 같이 공고합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞「해외농업ㆍ산림자원 개발협력법」제2조 규정에 의한 해외산림자원을 개발하기 위하여 같은 법 제7조 규정에 의하여 해외산림자원개발 사업계획 신고가 수리된 자<br></p><p style=\"line-height: 1.8;\">※ 자세한 지",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-07",
    "sectors": [
     "loan"
@@ -24408,7 +24651,7 @@
    "posted_at": "2026-08-14",
    "summary": "<p>2026년도 제2차 로봇산업기술개발사업 신규 지원대상 연구개발과제를 다음과 같이 공고하오니 수행하고자 하는 자는 신청하여 주시기 바랍니다.&nbsp;</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;기업, 대학, 연구기관, 연구조합, 사업자단체, 의료기관 등</p><p style=\"line-height: 1.8;\">-「산업기술혁신촉진법」제11조 제2항 및 같은 법 시행령 제11조,「산업기술혁신사업 공통 운영요령」제2조제1항제3호, 제4호 및 제4의2호",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-15",
    "sectors": [
     "tech"
@@ -24440,7 +24683,7 @@
    "posted_at": "2026-08-20",
    "summary": "<p>마이데이터 서비스 기획, 사업화 등을 추진하는 기업ㆍ개인데이터 보유ㆍ활용기관의 마이데이터 비즈니스 경쟁력 제고를 지원하기 위한 「2026년 마이데이터 컨설팅 및 교육」 지원 사업을 아래와 같이 안내합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 마이데이터 활용 서비스를 준비ㆍ운영 중이거나 보유한 기업ㆍ개인 데이터 기반 사업화를 추진하는 기업 및 기관</p><p style=\"line-height: 1.8;\">※ 국가ㆍ공공기관, 지자체, 대ㆍ중소ㆍ중견기업",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-20",
    "sectors": [
     "edu"
@@ -24473,7 +24716,7 @@
    "posted_at": "2026-08-21",
    "summary": "<p>해양수산 유망기업 발굴 및 지원을 위해「2026 예비오션스타 기업」을 모집하고자 하오니 관심 있는 기업들의 많은 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;우수기술력을 바탕으로 높은 성장성이 기대되고 최근 3년간 평균매출액이 100억 원 이상인 기업</p><p style=\"line-height: 1.8;\">-&nbsp;연 매출액 1,000억 원 이상 달성이 기대되는 해양수산 벤처ㆍ스타트업</p><p><br></p><p>☞&nbsp",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-21",
    "sectors": [
     "edu"
@@ -24505,7 +24748,7 @@
    "posted_at": "2026-08-21",
    "summary": "<p>한식진흥원은 한식의 날(10.24)을 기념하여 한식의 다채로운 매력을 알리고자「2026 한식페스타」를 개최합니다. 한식의 가치를 알릴 식품기업의 많은 관심과 참여를 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;한식관련 식품, 식재료, 음료 등 관련 기업 중 행사 취지에 부합하는 홍보ㆍ체험 콘텐츠를 운영할 수 있는 기업</p><p style=\"line-height: 1.8;\">-&nbsp;모집 분야 :&nbsp;한식 및 식품산업과 관련된 ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-21",
    "sectors": [
     "market"
@@ -24537,7 +24780,7 @@
    "posted_at": "2026-08-21",
    "summary": "<p>\"소담상회 with LOTTE ON\"은 중소벤처기업부, 한국중소벤처기업유통원이 함께하는 상생 플랫폼으로 우수한 소상공인 제품에 현대적 기획을 더해 판로 개척과 디지털 전환을 지원하는 O2O 플래그십 스토어 입니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 지역 특산물을 활용ㆍ가공한 상품을 제조하는 소상공인</p><p style=\"line-height: 1.8;\">- 지역 특산품과 문화를 활용한 굿즈ㆍ리빙ㆍ팬시 상품을 제작하는 소상공인</p><p styl",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-21",
    "sectors": [
     "market"
@@ -24578,7 +24821,7 @@
      "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1548&fidx=2"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-25",
    "ev": 2,
    "sectors": [
@@ -24612,7 +24855,7 @@
    "posted_at": "2026-08-25",
    "summary": "<p>기후에너지환경부와 한국환경산업기술원은 녹색금융 활성화에 현저히 공헌한 기업ㆍ개인을 대상으로 다음과 같이 「2026년 녹색금융 우수기업 시상」 을 공모하오니 많은 참여 부탁드립니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ ’25.8.30.부터 공고 마감일까지 한국형 녹색채권 발행한 기업, 녹색자산유동화증권에 편입된 기업 및 녹색금융 활성화에 기여한 개인</p><p><br></p><p style=\"line-height: 1.8;\">☞ 시상 및 포상 지원<",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-25",
    "sectors": [
     "edu"
@@ -24644,7 +24887,7 @@
    "posted_at": "2026-08-26",
    "summary": "<p>예비 및 초기 창업기업의 우수기술의 외부침해 방지를 지원하여 지식재산의 피해를 예방하고 안정적인 제조 창업과 성장을 도모하고자 「2026년 WoW!메이커스 특허출원 지원」참여기업을 다음과 같이 모집하오니 많은 관심과 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;기술개발이 완료된 예비 창업자 및 업력 3년 미만의 제조 창업기업 (기업 소재지 무관)</p><p style=\"line-height: 1.8;\">-&nbsp;예비창업자 경우 ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-27",
    "sectors": [
     "tech",
@@ -24678,7 +24921,7 @@
    "posted_at": "2026-08-26",
    "summary": "<p>KOTRA Invest KOREA에서는 국내시업의 외국인 투자 유치를 지원하기 위한 플랫폼으로서 Invest KOREA Startup Program(IKSP) 사업을 운영하고 있습니다. 해외 투자유치를 희망하는 유망기업을 선정하여 KOTRA 해외무역관을 통한 홍보 및 글로벌 투자가와의 매칭 기회를 제공하는 동 사업에 많은 관심&nbsp; 바랍니다.</p><p><br></p><p>☞&nbsp;외국인투자유치 희망 혁신기술 보유 스타트업, 중소ㆍ중견기업 등</p><p><br></p><p style",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-27",
    "sectors": [
     "market"
@@ -24712,7 +24955,7 @@
    "posted_at": "2026-08-27",
    "summary": "<p>해외 K-브랜드 위조상품 유통에 따른 우리기업의 피해를 예방하고 피해 발생 시, 정부가 기업과 함께 대응하기 위한 「2026년 K-브랜드 정부인증제도」의 참여기업 모집을 다음과 같이 공고합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 「중소기업기본법」제2조 및 시행령 제3조,「중견기업 성장 촉진 및 경쟁력 강화에 관한 특별법」제2조 및 시행령 제2조에 해당하는 중소ㆍ중견기업</p><p style=\"line-height: 1.8;\">- 사용을 원하는 해",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-29",
    "sectors": [
     "market"
@@ -24745,7 +24988,7 @@
    "posted_at": "2026-08-27",
    "summary": "<p>한국생산기술연구원(주관기관)과 한국섬유개발연구원, 한국섬유산업연합회에서는 온디맨드 섬유패션산업 실현을 위한 지능형 마이크로팩토리 제조혁신 모델을 산업계에 보급ㆍ확산하는 사업을 추진하고 있습니다. 본 사업의 일환으로 테크패션 제품 관련 기업을 대상으로 빠른 시장출시 및 사업화(제품화) 지원을 위한 프로그램을 운영하고 있으며, 테크패션 시제품 제작 지원사업을 통해 가능성을 보여준 기업을 대상으로, 제품의 기술ㆍ디자인ㆍ시장 경쟁력 향상을 위한 ‘고도화 지원’을 수행하고 있습니다. 본 사업에 참여를",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-29",
    "sectors": [
     "tech",
@@ -24780,7 +25023,7 @@
    "posted_at": "2026-08-31",
    "summary": "<p>2026년도 AI 기반 주파수 간섭분석 및 전파예측기술개발사업 신규지원 대상과제를 다음과 같이 재공고하오니 동 사업에 참여를 희망하는 기관(기업) 등은 관련 규정 및 절차에 따라 신청하여 주시기 바랍니다.</p><p><br></p><p>☞&nbsp;기업, 대학, 연구기관, 연구조합, 사업자단체 등 관련 규정에 해당되는 기관</p><p><br></p><p>☞&nbsp;(차세대통신) AI 기반 차세대 주파수 간섭분석 기술개발&nbsp;연구개발비 지원</p>",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-01",
    "sectors": [
     "tech"
@@ -24812,7 +25055,7 @@
    "posted_at": "2026-09-01",
    "summary": "<p>영화산업 침체로 위축된 제작환경 속에서 기술 집약도가 높은 한국영화의 기술 수준을 제고함으로써 한국영화 산업 경쟁력 회복 도모해드리는 사업입니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞「영화 및 비디오물의 진흥에 관한 법률」에 따른 영화제작업자 또는「애니메이션산업 진흥에 관한 법률」에 따른 애니메이션제작업자로, 사업자등록증과 영화제작업 신고증(또는 애니메이션제작업신고증)을 발급받은 법인사업자</p><p style=\"line-height: 1.8;\">-",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-01",
    "sectors": [
     "edu"
@@ -24844,7 +25087,7 @@
    "posted_at": "2026-09-02",
    "summary": "<p>디지털의료제품 규제지원센터에서 디지털의료제품 내 취약점 발견 및 공급망 위협 대응에 필요한 SBOM 제작 지원을 위해 붙임과 같이 공고합니다.</p><p><br></p><p>☞ 디지털의료 분야 기업</p><p><br></p><p>☞&nbsp;디지털의료기기제조업자 SBOM 제작 지원</p>",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-03",
    "sectors": [
     "tech",
@@ -24877,7 +25120,7 @@
    "posted_at": "2026-09-02",
    "summary": "<p>AI, DfAM 및 적층제조 등 첨단제조기술의 활용이 확대됨에 따라 모빌리\r\n티 산업에서도 제품 설계ㆍ개발 및 제조방식의 혁신이 가속화되고 있습니\r\n다. 첨단제조기술(AI-DfAM)을 활용한 모빌리티 부품기업의 제조공정 혁신을 촉진하고, 미래 제조환경 변화에 대한 대응역량 및 기술경쟁력 강화를 \r\n지원하고자 2026년도 기술지원 수요기업을 다음과 같이 모집하오니 관련 \r\n기업의 많은 관심과 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbs",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-03",
    "sectors": [
     "tech"
@@ -24909,7 +25152,7 @@
    "posted_at": "2026-09-02",
    "summary": "<p>울산과학기술원(UNIST), (재)울산테크노파크(UTP), 한국화학융합시험연구원(KTR), 선박해양플랜트연구소(KRISO)에서는 산업통상자원부와 울산광역시가 지원하는 「AI선박 기자재 및 첨단부품 실증지원센터구축」사업의 일환으로 AI선박 기자재 및 첨단 복합소재ㆍ부품 분야의 기술 경쟁력 강화와 사업화를 지원하기 위하여 다음과 같이 기업지원사업을 공고하오니, 참여를 희망하는 기업에서는 관련 절차에 따라 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height:",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-03",
    "sectors": [
     "tech",
@@ -24948,7 +25191,7 @@
      "url": "https://www.jiles.or.kr/community/notice/othernews.htm?act=download&seq=12998&no=1"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-03",
    "ev": 2,
    "sectors": [
@@ -24990,7 +25233,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1479043&command=update&fileSid=1410967"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-03",
    "ev": 2,
    "sectors": [
@@ -25023,7 +25266,7 @@
    "posted_at": "2026-09-03",
    "summary": "<p>「조달사업에 관한 법률 시행령」제33조 제3항 및 재정경제부 훈령 「혁신제품 지정 및 구매촉진 등에 관한 규정」제13조에 따라 아래와 같이 ‘2026년 지식재산처 우수특허기반 혁신제품 지정기간 2차연장 공고’ 일정을 안내하오니, 지정기간 연장을 희망하는 혁신제품 지정 기업은 관련 규정 및 아래의 내용을 반드시 확인하신 후 신청하여 주시기 바랍니다.</p><div><br></div><div style=\"line-height: 1.8;\">☞&nbsp;지식재산처 우수특허기반 혁신제품 보유기업</d",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-03",
    "sectors": [
     "tech"
@@ -25055,7 +25298,7 @@
    "posted_at": "2026-09-03",
    "summary": "<p>수출 도전기업의 안정적인 해외진출과 수출활성화 도모를 위한 「수출 도전기업 IP위험 대응역량 강화사업」위험대응 유형 4차 모집을 다음과 같이 공고합니다</p><p><br></p><p>☞&nbsp;위험진단 유형 지원기업</p><p><br></p><p>☞&nbsp;위험진단에서 확인된 IP위험을 해소하는 대응전략 지원(최대 사업비 14,000,000원 지원)</p>",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-03",
    "sectors": [
     "market"
@@ -25087,7 +25330,7 @@
    "posted_at": "2026-09-03",
    "summary": "<p>광주미래차모빌리티진흥원, 한국자동차연구원에서 수행하고 있는 「2026년 e-다목적차량 주행 안정성 성능평가 기반구축」 사업의 일환으로 미래차 탑재모듈 및 핵심 부품의 개발과 고급화를 통한 기술ㆍ사업화 경쟁력 강화를 위해, 대상 기업을 모집하오니 관심 있는 기업의 많은 신청 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;e-PBV 관련 부품기업 또는 전ㆍ후방 연관 기업</p><p><br></p><p style=\"line-height: 1.8",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-03",
    "sectors": [
     "tech"
@@ -25119,7 +25362,7 @@
    "posted_at": "2026-09-04",
    "summary": "<p>지역 중소기업에 맞춤형 지식재산 서비스를 지원하는 ‘지식재산 긴급지원’ 사업을 다음과 같이 공고하오니 사업에 참여하고자 하는 기업의 많은 신청 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 제주소재 중소기업 (「중소기업 기본법」 제2조 및 동법 시행령 제3조에 의거)</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;기업 당 2,000만원 이내 지원</p><p style=\"line-height: 1.8;\">-",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-04",
    "sectors": [
     "tech"
@@ -25157,7 +25400,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1479401&command=update&fileSid=1411482"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-07",
    "ev": 2,
    "sectors": [
@@ -25195,7 +25438,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1479384&command=update&fileSid=1411465"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-07",
    "ev": 2,
    "sectors": [
@@ -25233,7 +25476,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1479556&command=update&fileSid=1411678"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-08",
    "ev": 2,
    "sectors": [
@@ -25266,7 +25509,7 @@
    "posted_at": "2026-09-08",
    "summary": "<p>2026년 반려동물 연관산업 온라인 플랫폼 입점 기업을 모집하오니 많은 지원 부탁드립니다. 자세한 내용은 공고문 확인 부탁드립니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;국내 반려동물 연관산업 제조ㆍ수출 기업</p><p style=\"line-height: 1.8;\">- 대상품목 : 펫푸드, 펫테크(스마트 기기, 일반용품 등), 펫헬스케어(시약, 진단키트 등)</p><p><br></p><p>☞&nbsp;입점지원 및 K-Pet 특별 기획전 운영",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-08",
    "sectors": [
     "market"
@@ -25303,7 +25546,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1480337&command=update&fileSid=1412178"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-10",
    "ev": 2,
    "sectors": [
@@ -25341,7 +25584,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1480253&command=update&fileSid=1412147"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-10",
    "ev": 2,
    "sectors": [
@@ -25383,8 +25626,46 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1480215&command=update&fileSid=1412129"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-10",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-09-11",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
+   "id": "86464dd75c46",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "제주관광대학교부속유치원 단기대체교사 채용 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1480938",
+   "posted_at": "2026-09-12",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n제주관광대학교부속유치원  단기대체교사 채용 공고 채용공고 상세정보\n제목\n제주관광대학교부속유치원  단기대체교사 채용 공고\n학교(부서)명\n제주관광대학교부속유치원\n작성일\n2026-09-12\n공고구분\n채용공고\n연락처\n064-746-9220\n직종구분\n기간제교원\n접수상태\n접수중\n※ 접수상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담당과목(업무)\n담임교사\n접수기간",
+   "attachments": [
+    {
+     "name": "2026학년도제주관광대학교부속유치원단기대체교사채용공고 (2).hwp (132 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1480938&command=update&fileSid=1412499"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-09-12",
    "ev": 2,
    "sectors": [
     "etc"
@@ -35355,7 +35636,7 @@
    "posted_at": "2026-07-13",
    "summary": "입찰공고\n홈\n정보공개\n계약정보공개\n입찰정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n입찰공고\n나라장터(G2B) 입찰공고\n공공급식플랫폼 입찰공고\n새창으로 열림\n[취소공고]2026학년도 제주제일고등학교 1학년 테마체험학습(수학여행) 위탁용역 입찰공고\n이경보\n2회\n2026-07-13\n기타\n2026학년도 제주제일고등학교 1학년 테마체험학습(수학여행) 위탁용역 2단계(규격·가격 동시) 입찰 공고를 아래와 같은 사유로 취소합니다.\n○ 취소공고번호: 제주제일고등학교 공고 제2026-29호\n○ ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-12",
    "ev": 2,
    "sectors": [
@@ -35388,7 +35669,7 @@
    "posted_at": "2026-07-13",
    "summary": "연구원 공지사항\nHOME  > 열린광장 > 공지사항 >\n연구원 공지사항\n게시물 상세보기\n2026년 제3기 제주 생활정치아카데미 기본과정 교육생 모집 공고\n제주여성가족연구원\n2026-07-13\n38\n제주여성가족연구원 공고 2026 - 51호\n2026년 제3기 제주 생활정치아카데미 기본과정 교육생 모집 공고\n본 과정은 제주지역 도민의 정치·정책 참여역량과 풀뿌리 민주주의 자치역량을 높이고, 지역사회 성평등 생활정치 리더들의 사회적 지지 네트워크 구축을 목표로 합니다.\n2024년, 2025년에 이어 2",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-13",
    "ev": 2,
    "sectors": [
@@ -35426,7 +35707,7 @@
      "url": "https://www.jiles.or.kr/community/notice/othernews.htm?act=download&seq=12900&no=1"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-13",
    "ev": 2,
    "sectors": [
@@ -37203,6 +37484,55 @@
    "confidence": 0.65,
    "needs_review": false,
    "type": "support"
+  },
+  {
+   "id": "bd8ff8f50c90",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "[유관기관협조] 2026년 상생결제 우수사례 공모전 알림",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1525&p=4&lcate=",
+   "posted_at": "2026-07-23",
+   "summary": "미세먼지\n좋음\n10㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "attach_(공고문) 2026년 상생결제제도 우수사례 공모전 안내.hwpx",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1525&fidx=1"
+    },
+    {
+     "name": "attach_(신청서) 2026년 상생결제제도 우수사례 공모전 신청 양식.hwpx",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1525&fidx=2"
+    },
+    {
+     "name": "img_1784767205.png",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1525&fidx=3"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-09-12",
+   "ev": 2,
+   "sectors": [
+    "contest"
+   ],
+   "company_types": [
+    "small_biz",
+    "farmer_fisher",
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "contest"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false,
+   "type": "contest"
   },
   {
    "id": "7665fa34bcef",
@@ -44482,6 +44812,45 @@
    "confidence": 0.6,
    "needs_review": false,
    "type": "bid"
+  },
+  {
+   "id": "b83bec022771",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "(최종결과) 나우다 제휴사 협력 특화 서비스 개발 사업 선정 결과",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1562&p=1&lcate=",
+   "posted_at": "2026-09-10",
+   "summary": "미세먼지\n좋음\n10㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "최종 심사 결과 공고.pdf",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1562&fidx=1"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-09-12",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
+   "needs_review": true,
+   "type": "support"
   },
   {
    "id": "4a42c0423135",
