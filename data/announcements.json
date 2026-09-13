@@ -1,108 +1,6 @@
 {
- "updated_at": "2026-09-12T22:40:00",
+ "updated_at": "2026-09-13T22:39:09",
  "items": [
-  {
-   "id": "2f5813af3ef6",
-   "institution": "제주관광공사",
-   "institution_short": "JTO",
-   "group": 1,
-   "board": "공지사항",
-   "title": "(마감) 무장애 관광 인력 양성 교육(교육생 모집)",
-   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1492&p=2&lcate=",
-   "posted_at": "2026-06-05",
-   "summary": "미세먼지\n좋음\n19㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-07-07",
-   "ev": 2,
-   "sectors": [
-    "edu"
-   ],
-   "company_types": [
-    "tourism",
-    "general"
-   ],
-   "biz_types": [
-    "education"
-   ],
-   "apply_end": "2026-06-14",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 1.0,
-   "needs_review": false,
-   "type": "recruit"
-  },
-  {
-   "id": "034d1b41aa45",
-   "institution": "제주관광공사",
-   "institution_short": "JTO",
-   "group": 1,
-   "board": "공지사항",
-   "title": "(마감) 무장애 관광 인력 양성 교육(교육생 모집)",
-   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1492&p=3&lcate=",
-   "posted_at": "2026-06-05",
-   "summary": "미세먼지\n좋음\n17㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-07-14",
-   "ev": 2,
-   "sectors": [
-    "edu"
-   ],
-   "company_types": [
-    "tourism",
-    "general"
-   ],
-   "biz_types": [
-    "education"
-   ],
-   "apply_end": "2026-06-14",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 1.0,
-   "needs_review": false,
-   "type": "recruit"
-  },
-  {
-   "id": "d47a34c5b20c",
-   "institution": "제주관광공사",
-   "institution_short": "JTO",
-   "group": 1,
-   "board": "공지사항",
-   "title": "(마감) 무장애 관광 인력 양성 교육(교육생 모집)",
-   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1492&p=4&lcate=",
-   "posted_at": "2026-06-05",
-   "summary": "미세먼지\n좋음\n5㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주관",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-07-30",
-   "ev": 2,
-   "sectors": [
-    "edu"
-   ],
-   "company_types": [
-    "tourism",
-    "general"
-   ],
-   "biz_types": [
-    "education"
-   ],
-   "apply_end": "2026-06-14",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 1.0,
-   "needs_review": false,
-   "type": "recruit"
-  },
   {
    "id": "cdc9257e751c",
    "institution": "제주관광공사",
@@ -26491,8 +26389,7 @@
    "status": "open",
    "crawled_at": "2026-09-11",
    "sectors": [
-    "startup",
-    "edu"
+    "startup"
    ],
    "company_types": [
     "startup"
@@ -27260,8 +27157,7 @@
    "crawled_at": "2026-09-11",
    "sectors": [
     "tech",
-    "fund",
-    "market"
+    "fund"
    ],
    "company_types": [
     "small_biz",
@@ -27504,8 +27400,7 @@
    "crawled_at": "2026-09-11",
    "sectors": [
     "market",
-    "fund",
-    "tech"
+    "fund"
    ],
    "company_types": [
     "small_biz",
@@ -28221,8 +28116,7 @@
    "crawled_at": "2026-09-11",
    "sectors": [
     "tech",
-    "fund",
-    "market"
+    "fund"
    ],
    "company_types": [
     "general"
@@ -28556,8 +28450,7 @@
    "status": "open",
    "crawled_at": "2026-09-11",
    "sectors": [
-    "tech",
-    "market"
+    "tech"
    ],
    "company_types": [
     "small_biz",
@@ -29357,8 +29250,7 @@
    "status": "open",
    "crawled_at": "2026-09-11",
    "sectors": [
-    "startup",
-    "edu"
+    "startup"
    ],
    "company_types": [
     "startup"
@@ -29965,8 +29857,7 @@
    "status": "open",
    "crawled_at": "2026-09-11",
    "sectors": [
-    "market",
-    "edu"
+    "market"
    ],
    "company_types": [
     "small_biz"
@@ -29998,8 +29889,7 @@
    "status": "open",
    "crawled_at": "2026-09-11",
    "sectors": [
-    "tech",
-    "edu"
+    "tech"
    ],
    "company_types": [
     "general"
@@ -45034,9 +44924,7 @@
    "status": "open",
    "crawled_at": "2026-09-11",
    "sectors": [
-    "edu",
-    "market",
-    "bid"
+    "edu"
    ],
    "company_types": [
     "small_biz",
