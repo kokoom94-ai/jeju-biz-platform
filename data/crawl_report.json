@@ -1,10 +1,10 @@
 {
- "run_at": "2026-09-14T23:16:44",
+ "run_at": "2026-09-15T23:01:16",
  "results": [
   {
    "institution": "jto",
-   "found": 21,
-   "new": 15,
+   "found": 55,
+   "new": 19,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
   {
    "institution": "jba",
    "found": 26,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -42,19 +42,19 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 156211자, title='제주연구원', 링크 386개"
+    "공지사항: 0건 진단: 응답 156153자, title='제주연구원', 링크 386개"
    ]
   },
   {
    "institution": "jwfri",
-   "found": 5,
+   "found": 4,
    "new": 1,
    "errors": []
   },
   {
    "institution": "jiles",
-   "found": 16,
-   "new": 0,
+   "found": 17,
+   "new": 2,
    "errors": []
   },
   {
@@ -75,8 +75,8 @@
   },
   {
    "institution": "jjedu",
-   "found": 30,
-   "new": 5,
+   "found": 0,
+   "new": 0,
    "errors": []
   },
   {
@@ -98,7 +98,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 151955자, title='제주창조경제혁신센터', 링크 47개"
+    "사업공고: 0건 진단: 응답 151952자, title='제주창조경제혁신센터', 링크 47개"
    ]
   },
   {
@@ -120,12 +120,12 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 355367자, title='노사발전재단', 링크 811개"
+    "공지사항: 0건 진단: 응답 355372자, title='노사발전재단', 링크 811개"
    ]
   },
   {
    "institution": "jta",
-   "found": 12,
+   "found": 13,
    "new": 5,
    "errors": []
   },
@@ -157,8 +157,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 69,
-   "new": 12,
+   "found": 73,
+   "new": 10,
    "errors": []
   },
   {
