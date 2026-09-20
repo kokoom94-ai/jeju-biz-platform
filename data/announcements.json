@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T22:29:03",
+ "updated_at": "2026-09-20T22:41:29",
  "items": [
   {
    "id": "ef38d4835748",
@@ -32034,7 +32034,6 @@
    "crawled_at": "2026-09-19",
    "sectors": [
     "edu",
-    "loan",
     "startup"
    ],
    "company_types": [
@@ -33045,8 +33044,7 @@
    "status": "open",
    "crawled_at": "2026-09-19",
    "sectors": [
-    "edu",
-    "tech"
+    "edu"
    ],
    "company_types": [
     "general"
@@ -39363,7 +39361,7 @@
    "posted_at": "2026-07-21",
    "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-21",
    "ev": 2,
    "sectors": [
@@ -39407,7 +39405,7 @@
      "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12913&no=1"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-21",
    "ev": 2,
    "sectors": [
@@ -39449,7 +39447,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1475837&command=update&fileSid=1405581"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-21",
    "ev": 2,
    "sectors": [
@@ -39487,7 +39485,7 @@
      "url": "https://jejucci.korcham.net/file/dext5uploaddata/2026/[공고문]2026 노동존중 문화 조성 우수기업 모집공고.pdf"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-21",
    "ev": 2,
    "sectors": [
@@ -39523,7 +39521,7 @@
    "posted_at": "2026-07-21",
    "summary": "<p>소상공인의 온라인시장 진출 및 판로 지원을 위한 「2026년 라이브커머스 제작ㆍ운영지원 사업」을 다음과 같이 공고하오니, 많은 참여를 바랍니다.</p><p><br></p><p>☞&nbsp;소상공인</p><p><br></p><p style=\"line-height: 1.8;\">☞ 플랫폼과 협업하여 소상공인 상품 실시간 라이브커머스 방송 제작 및 송출, 판매 전 과정 지원</p><p style=\"line-height: 1.8;\">-&nbsp;(방송 기획) 라이브커머스 방송 프로그램 기획(쇼호스트 ",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-21",
    "sectors": [
     "market",
@@ -39556,7 +39554,7 @@
    "posted_at": "2026-07-21",
    "summary": "<p>한국농수산식품유통공사(aT)에서는 우리 중소 농식품기업의 수출 활성화를 위해 글로벌 온라인 B2B 입점지원사업을 추진할 예정이니 참가를 희망하는 농식품 기업의 많은 신청 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 온라인 B2B 수출을 희망하는 농식품 수출업체</p><p style=\"line-height: 1.8;\">※&nbsp;지원제외 : ① 펫푸드 관련 기업 ② 수산식품 관련 기업</p><p><br></p><p style=\"line-heigh",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-21",
    "sectors": [
     "market"
@@ -39633,7 +39631,7 @@
      "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59179&no=1"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-22",
    "ev": 2,
    "sectors": [
@@ -48750,8 +48748,7 @@
    "crawled_at": "2026-09-19",
    "sectors": [
     "tech",
-    "fund",
-    "startup"
+    "fund"
    ],
    "company_types": [
     "startup",
