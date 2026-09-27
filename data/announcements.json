@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T23:09:19",
+ "updated_at": "2026-09-27T23:17:18",
  "items": [
   {
    "id": "3e3cf1d60ad0",
@@ -42307,7 +42307,7 @@
    "posted_at": "2026-07-28",
    "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-28",
    "ev": 2,
    "sectors": [
@@ -42348,7 +42348,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1476315&command=update&fileSid=1406762"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-28",
    "ev": 2,
    "sectors": [
@@ -42427,7 +42427,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000017&menuCd=DOM_000000103001001000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1476233&command=update&fileSid=1406698"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-29",
    "ev": 2,
    "sectors": [
@@ -42494,7 +42494,7 @@
    "posted_at": "2026-07-28",
    "summary": "<p>중소벤처기업부 해외수출규제대응지원사업의 일환으로 해외인증 획득 제품 보유기업의 해외실증을 지원하는「2026년 인증획득제품 해외 실증 지원사업」에 참여할 중소기업 추가 모집을 다음과 같이 공고합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;해외인증 보유기업 중 해외 현지 실증을 추진하고자 하는「중소기업기본법」제2조 및 시행령 제3조에 따른 중소기업</p><p style=\"line-height: 1.8;\">- 신청분야 : 친환경 에너지, 모빌리티",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-31",
    "sectors": [
     "tech",
@@ -42563,7 +42563,7 @@
    "posted_at": "2026-07-28",
    "summary": "<p>체육인의 직업 전환을 지원하여 생활 불안정성을 완화하고, 역량별 맞춤 지원을 통해 창업 성공률을 높이며 진로 선택의 폭을 확대하고자 「2026년 체육인 직업안정 사업(창업지원) 창업점검과정(열매)」 참여자를 다음과 같이 모집하오니 많은 관심과 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 은퇴(예정) 또는 경력단절 체육인 중 전ㆍ현직 선수, 지도자, 심판 자격이 있는 기창업자</p><p style=\"line-height: 1.8;\">※&nbs",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-07-31",
    "sectors": [
     "startup"
@@ -51010,6 +51010,60 @@
    ],
    "status": "open",
    "crawled_at": "2026-09-23",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.6,
+   "needs_review": false,
+   "type": "bid"
+  },
+  {
+   "id": "78038fd0dd74",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2027학년도 한림항공우주고등학교 교복(동·하복) 구매 입찰 재공고[장기계속계약]",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1482224",
+   "posted_at": "2026-09-27",
+   "summary": "(63119) 제주특별자치도 제주시 문연로 5\nTel. (064) 710-0114 (09:00~18:00 / 야간·공휴일: 당직실 064-710-0600, 연중무휴)\nFax : (064) 710-0709\nCopyright(c) 2024 Jeju Special Self-Governing Provincial Office of Education. All rights reserved.",
+   "attachments": [
+    {
+     "name": "(공고) 2027학년도 한림항공우주고등학교 교복(동,하복) 구매 업체 선정 입찰 재공고.hwp (239 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482224&command=update&fileSid=1414612"
+    },
+    {
+     "name": "2027학년도 한림항공우주고등학교 교복(동,하복) 구매 특수조건.pdf (194 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482224&command=update&fileSid=1414617"
+    },
+    {
+     "name": "2027학년도 한림항공우주고등학교 교복(동,하복) 사양서.pdf (161 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482224&command=update&fileSid=1414618"
+    },
+    {
+     "name": "2027학년도 한림항공우주고등학교 교복(동복,하복) 적격업체 선정 평가 배점표.hwp (60 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482224&command=update&fileSid=1414619"
+    },
+    {
+     "name": "2027학년도 교복(동·하복) 품목별 상한가격 적용 품목.hwp (508 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482224&command=update&fileSid=1414620"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-09-27",
    "ev": 2,
    "sectors": [
     "bid"
