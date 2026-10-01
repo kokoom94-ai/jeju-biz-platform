@@ -1,10 +1,10 @@
 {
- "run_at": "2026-09-29T23:51:29",
+ "run_at": "2026-10-01T00:01:51",
  "results": [
   {
    "institution": "jto",
    "found": 58,
-   "new": 25,
+   "new": 22,
    "errors": []
   },
   {
@@ -53,7 +53,7 @@
   },
   {
    "institution": "jiles",
-   "found": 16,
+   "found": 14,
    "new": 1,
    "errors": []
   },
@@ -76,7 +76,7 @@
   {
    "institution": "jjedu",
    "found": 32,
-   "new": 10,
+   "new": 11,
    "errors": []
   },
   {
@@ -98,7 +98,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 151952자, title='제주창조경제혁신센터', 링크 47개"
+    "사업공고: 0건 진단: 응답 151953자, title='제주창조경제혁신센터', 링크 47개"
    ]
   },
   {
@@ -120,12 +120,12 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 351608자, title='노사발전재단', 링크 812개"
+    "공지사항: 0건 진단: 응답 351598자, title='노사발전재단', 링크 812개"
    ]
   },
   {
    "institution": "jta",
-   "found": 12,
+   "found": 11,
    "new": 3,
    "errors": []
   },
@@ -157,8 +157,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 83,
-   "new": 7,
+   "found": 89,
+   "new": 16,
    "errors": []
   },
   {
