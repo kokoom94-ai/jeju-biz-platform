@@ -1,156 +1,6 @@
 {
- "updated_at": "2026-10-01T00:09:14",
+ "updated_at": "2026-10-02T00:13:50",
  "items": [
-  {
-   "id": "64fbb7cc93ca",
-   "institution": "제주관광공사",
-   "institution_short": "JTO",
-   "group": 1,
-   "board": "공지사항",
-   "title": "(6/9~7/3) 제주 안전인증 농어촌민박에서 폭삭 쉬멍 한달살기 참가자 모집 공고",
-   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1487&p=3&lcate=",
-   "posted_at": "2026-06-02",
-   "summary": "미세먼지\n좋음\n19㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
-   "attachments": [
-    {
-     "name": "붙임 1_3 (3).hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1487&fidx=1"
-    },
-    {
-     "name": "붙임 2_6.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1487&fidx=2"
-    },
-    {
-     "name": "붙임3_2.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1487&fidx=3"
-    },
-    {
-     "name": "img_1780964864.png",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1487&fidx=4"
-    }
-   ],
-   "status": "closed",
-   "crawled_at": "2026-07-07",
-   "ev": 2,
-   "sectors": [
-    "fund"
-   ],
-   "company_types": [
-    "startup",
-    "tourism",
-    "general"
-   ],
-   "biz_types": [
-    "grant"
-   ],
-   "apply_end": "2026-07-03",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 1.0,
-   "needs_review": false,
-   "type": "recruit"
-  },
-  {
-   "id": "9ca50d4c918b",
-   "institution": "제주관광공사",
-   "institution_short": "JTO",
-   "group": 1,
-   "board": "공지사항",
-   "title": "(6/9~7/3) 제주 안전인증 농어촌민박에서 폭삭 쉬멍 한달살기 참가자 모집 공고",
-   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1487&p=4&lcate=",
-   "posted_at": "2026-06-02",
-   "summary": "미세먼지\n보통\n31㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
-   "attachments": [
-    {
-     "name": "붙임 1_3 (3).hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1487&fidx=1"
-    },
-    {
-     "name": "붙임 2_6.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1487&fidx=2"
-    },
-    {
-     "name": "붙임3_2.hwp",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1487&fidx=3"
-    },
-    {
-     "name": "img_1780964864.png",
-     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1487&fidx=4"
-    }
-   ],
-   "status": "closed",
-   "crawled_at": "2026-07-23",
-   "ev": 2,
-   "sectors": [
-    "fund"
-   ],
-   "company_types": [
-    "startup",
-    "tourism",
-    "general"
-   ],
-   "biz_types": [
-    "grant"
-   ],
-   "apply_end": "2026-07-03",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 1.0,
-   "needs_review": false,
-   "type": "recruit"
-  },
-  {
-   "id": "39ccece814c9",
-   "institution": "제주특별자치도교육청",
-   "institution_short": "교육청",
-   "group": 3,
-   "board": "교육청공고",
-   "title": "2026학년도 도련초등학교 돌봄교실 방학중 중식(도시락) 공급업체 선정 입찰 재공고(규격·가격동시)",
-   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1474007",
-   "posted_at": "2026-07-01",
-   "summary": "입찰공고\n홈\n정보공개\n계약정보공개\n입찰정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n입찰공고\n나라장터(G2B) 입찰공고\n공공급식플랫폼 입찰공고\n새창으로 열림\n2026학년도 도련초등학교 돌봄교실 방학중 중식(도시락) 공급업체 선정 입찰 재공고(규격·가격동시)\n김명희\n59회\n2026-07-01\n지역제한(단가)\n(재공고문)2026학년도 도련초등학교 돌봄교실 방학중 중식(도시락) 공급업체 선정.pdf (184 kb)\n(제안요청서)2026학년도 도련초등학교 돌봄교실 방학중 중식(도시락) 공",
-   "attachments": [
-    {
-     "name": "(재공고문)2026학년도 도련초등학교 돌봄교실 방학중 중식(도시락) 공급업체 선정.pdf (184 kb)",
-     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1474007&command=update&fileSid=1401987"
-    },
-    {
-     "name": "(제안요청서)2026학년도 도련초등학교 돌봄교실 방학중 중식(도시락) 공급 제안요청서.hwp (67 kb)",
-     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1474007&command=update&fileSid=1401988"
-    },
-    {
-     "name": "(특수조건)2026학년도 도련초등학교 돌봄교실 방학중 중식(도시락) 공급 계약  특수조건.hwp (61 kb)",
-     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1474007&command=update&fileSid=1401989"
-    }
-   ],
-   "status": "closed",
-   "crawled_at": "2026-07-07",
-   "ev": 2,
-   "sectors": [
-    "bid"
-   ],
-   "company_types": [
-    "general"
-   ],
-   "biz_types": [
-    "bid"
-   ],
-   "apply_end": "2026-07-03",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 0.75,
-   "needs_review": false,
-   "type": "bid"
-  },
   {
    "id": "44cfd59ff80e",
    "institution": "제주특별자치도",
@@ -32030,7 +31880,7 @@
    "posted_at": "2026-08-28",
    "summary": "<p>한국소재부품장비투자기관협의회는 2026년 산업기술국제협력 전략기술형 사업의 일환으로「글로벌기술도입지원사업(X&amp;D)」전문가 컨설팅 지원사업을 공고하오니 참여 희망기업은 관련 규정 및 절차에 따라 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;해외기술도입을 희망하는 중소ㆍ중견기업</p><p style=\"line-height: 1.8;\">※ 기업부설연구소 인정서 보유기업</p><p><br></p><p>☞ 글로벌기술도입(M",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-29",
    "sectors": [
     "tech",
@@ -32066,7 +31916,7 @@
    "posted_at": "2026-08-28",
    "summary": "<p>「2026년 산업융합 규제샌드박스 사업화 지원 프로그램」 대상과제를 다음과 같이 공고하오니, 프로그램에 참여하고자 하는 기업은 아래 절차에 따라 신청하여 주시기 바랍니다.</p><p><br></p><p>☞ 접수 마감일까지 산업융합 규제샌드박스 실증특례/임시허가를 승인받고 사업을 개시(진행ㆍ종료과제)한 중소ㆍ중견기업</p><p><br></p><p style=\"line-height: 1.8;\">☞ 실증제품 고도화, 성능ㆍ디자인ㆍ공정 개선, 고도화ㆍ개선 시제품 제작</p><p style=\"line",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-29",
    "sectors": [
     "tech"
@@ -32099,7 +31949,7 @@
    "posted_at": "2026-09-01",
    "summary": "<p>신재생에너지핵심기술개발사업(태양광)의 2026년 3차 신규지원 대상 연구개발과제를 다음과 같이 공고하오니 해당 기술개발과제를 수행하고자 하는 자는 관련규정에 따라 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;주관연구개발기관 및 공동연구개발기관</p><p style=\"line-height: 1.8;\">- 기업, 대학, 연구기관, 연구조합, 사업자단체, 의료기관 등</p><p style=\"line-height: 1.8;\">※",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-01",
    "sectors": [
     "tech"
@@ -32131,7 +31981,7 @@
    "posted_at": "2026-09-17",
    "summary": "<p>「2026년 녹색자산유동화증권 이차보전 지원사업」시행계획을 다음과 같이 공고하오니, 본 지원사업 참여를 희망하는 중소ㆍ중견기업은 아래 내용을 참고하여 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 한국형 녹색분류체계에 부합하는 자산(회사채)을 기초로 한 유동화증권 발행에 편입된 중소ㆍ중견기업</p><p style=\"line-height: 1.8;\">&nbsp;</p><p style=\"line-height: 1.8;\">☞&nbsp;녹",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-17",
    "sectors": [
     "loan",
@@ -32166,7 +32016,7 @@
    "posted_at": "2026-09-22",
    "summary": "<p>한국패션협회(회장 성래은)는 산업통상부의 지원으로 수행하는 ‘2026년도 K-섬유패션 협력강화 및 글로벌 브랜드 육성 사업’과 관련하여, ‘K-섬유패션 품질 개선’ 및 ‘글로벌 마케팅 지원’ 사업을 다음과 같이 추가 모집 공고합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;대표가 한국 국적이면서 사업자등록증 소재지가 국내인 패션기업</p><p style=\"line-height: 1.8;\">※ 자세한 지원대상 공고문 참조</p><p><br></",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-22",
    "sectors": [
     "market"
@@ -32198,7 +32048,7 @@
    "posted_at": "2026-09-22",
    "summary": "<p>제107회 전국체육대회와 연계하여 제주 상생브랜드 제품과 제주상품의 우수성을 널리 알리고 도내 중소기업의 제품 홍보 및 판로확대를 지원하기 위한「제주 상생브랜드와 함께하는 제주 제품 플리마켓(팝업마켓)」참여기업을 모집하오니 신청대상에 해당하는 희망기업은 기한 내 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 도내 중소기업(사업자등록증상 본사 또는 공장이 제주도인 업체)</p><p style=\"line-height: 1.8;\">- 휴",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-22",
    "sectors": [
     "market"
@@ -32231,7 +32081,7 @@
    "posted_at": "2026-09-23",
    "summary": "<p>한국농수산식품유통공사(aT)는 국내 유망 농식품기업의 해외 온라인 시장 진출 활성화를 위해 온라인 마케팅 전담인력 지원사업을 추진하고자 하오니 참가를 희망하는 기업의 많은 신청 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 해외 온라인몰 점포(계정) 운영(예정) 중견ㆍ중소 농식품기업<br></p><p style=\"line-height: 1.8;\">-&nbsp;점포(계정) : 신청기업의 국내법인(또는 위탁운영업체) 명의로 온라인 B2BㆍB2C 플랫폼",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-23",
    "sectors": [
     "market",
@@ -32272,7 +32122,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482309&command=update&fileSid=1414826"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-29",
    "ev": 2,
    "sectors": [
@@ -32310,7 +32160,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482307&command=update&fileSid=1414804"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-29",
    "ev": 2,
    "sectors": [
@@ -32348,7 +32198,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482302&command=update&fileSid=1414793"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-29",
    "ev": 2,
    "sectors": [
@@ -32386,7 +32236,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482296&command=update&fileSid=1414773"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-29",
    "ev": 2,
    "sectors": [
@@ -32424,7 +32274,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482383&command=update&fileSid=1414929"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-29",
    "ev": 2,
    "sectors": [
@@ -32462,7 +32312,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482374&command=update&fileSid=1414922"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-29",
    "ev": 2,
    "sectors": [
@@ -32500,8 +32350,46 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482600&command=update&fileSid=1415266"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-10-01",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-01",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "recruit"
+  },
+  {
+   "id": "fd724a433048",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 2학기 함덕초등학교 선인분교장 특수교육자원봉사자 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1482687",
+   "posted_at": "2026-10-01",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 2학기 함덕초등학교 선인분교장 특수교육자원봉사자 모집 공고 채용공고 상세정보\n제목\n2026학년도 2학기 함덕초등학교 선인분교장 특수교육자원봉사자 모집 공고\n학교(부서)명\n함덕초등학교\n작성일\n2026-10-01\n공고구분\n채용공고\n연락처\n064-783-8612\n직종구분\n자원봉사자\n접수상태\n접수중\n※ 접수상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n",
+   "attachments": [
+    {
+     "name": "2026학년도 2학기 특수교육자원봉사자 모집 공고.hwp (125 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482687&command=update&fileSid=1415444"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-10-02",
    "ev": 2,
    "sectors": [
     "etc"
@@ -33600,6 +33488,44 @@
    "type": "hiring"
   },
   {
+   "id": "6d297110bea0",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "(긴급)_2026학년도 2학기 신광초등학교 특수교육자원봉사자 추가 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1482685",
+   "posted_at": "2026-10-01",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n(긴급)_2026학년도 2학기 신광초등학교 특수교육자원봉사자 추가 모집 공고 채용공고 상세정보\n제목\n(긴급)_2026학년도 2학기 신광초등학교 특수교육자원봉사자 추가 모집 공고\n학교(부서)명\n신광초등학교\n작성일\n2026-10-01\n공고구분\n채용공고\n연락처\n064-741-0897\n직종구분\n자원봉사자\n접수상태\n접수중\n※ 접수상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채",
+   "attachments": [
+    {
+     "name": "2026학년도 2학기 특수교육자원봉사자 추가 모집 공고.hwp (76 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482685&command=update&fileSid=1415440"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-06",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "recruit"
+  },
+  {
    "id": "6f26302dc6cd",
    "institution": "기후에너지환경부",
    "institution_short": "기후에너지환경부",
@@ -33760,6 +33686,82 @@
    "confidence": 0.5,
    "needs_review": true,
    "type": "support"
+  },
+  {
+   "id": "9eaa448f944d",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "제주대학교교육대학부설초등학교 기간제교원 채용 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1482683",
+   "posted_at": "2026-10-01",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n제주대학교교육대학부설초등학교 기간제교원 채용 공고 채용공고 상세정보\n제목\n제주대학교교육대학부설초등학교 기간제교원 채용 공고\n학교(부서)명\n제주대학교교육대학부설초등학교\n작성일\n2026-10-01\n공고구분\n채용공고\n연락처\n064-755-0051\n직종구분\n기간제교원\n접수상태\n접수중\n※ 접수상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담당과목(업무)\n학년교육",
+   "attachments": [
+    {
+     "name": "2026학년도 계약제교원(기간제교사) 채용 공고문.hwpx (80 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482683&command=update&fileSid=1415438"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-07",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
+   "id": "16ea619083b2",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "(긴급)2026학년도 교육활동봉사자 추가 모집 재공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1482764",
+   "posted_at": "2026-10-02",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n(긴급)2026학년도 교육활동봉사자 추가 모집 재공고 채용공고 상세정보\n제목\n(긴급)2026학년도 교육활동봉사자 추가 모집 재공고\n학교(부서)명\n동화초등학교\n작성일\n2026-10-02\n공고구분\n채용공고\n연락처\n064)729-5779\n직종구분\n자원봉사자\n접수상태\n접수중\n※ 접수상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담당과목(업무)\n교육활동봉사자\n접",
+   "attachments": [
+    {
+     "name": "(긴급)2026학년도 교육활동봉사자 추가 모집 재공고.hwpx (88 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482764&command=update&fileSid=1415542"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-07",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "recruit"
   },
   {
    "id": "4ae4bc34f8f1",
@@ -34025,6 +34027,90 @@
    "confidence": 0.25,
    "needs_review": true,
    "type": "support"
+  },
+  {
+   "id": "8ffd89becc87",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 남광초등학교 도서관 2차 신간도서 및 2학기 교육과정연계 도서 구입 수의계약 안내공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1482692",
+   "posted_at": "2026-10-01",
+   "summary": "입찰공고\n홈\n정보공개\n계약정보공개\n입찰정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n입찰공고\n나라장터(G2B) 입찰공고\n새창으로 열림\n공공급식플랫폼 입찰공고\n새창으로 열림\n2026학년도 남광초등학교 도서관 2차 신간도서 및 2학기 교육과정연계 도서 구입 수의계약 안내공고\n변순녀\n15회\n2026-10-01\n지역제한\n1. 공고문.hwp (123 kb)\n2. 도서구입목록(도서관, 교육과정연계-공고용).xlsx (72 kb)\n3. 특수조건.hwp (83 kb)\n1. 건명: 2026학년도 ",
+   "attachments": [
+    {
+     "name": "1. 공고문.hwp (123 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482692&command=update&fileSid=1415450"
+    },
+    {
+     "name": "2. 도서구입목록(도서관, 교육과정연계-공고용).xlsx (72 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482692&command=update&fileSid=1415451"
+    },
+    {
+     "name": "3. 특수조건.hwp (83 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482692&command=update&fileSid=1415452"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": "2026-10-08",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.75,
+   "needs_review": false,
+   "type": "bid"
+  },
+  {
+   "id": "2dc96a922ca2",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "(긴급)2026학년도 서호초등학교 기간제 교육공무직원(조리실무사) 채용 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1482765",
+   "posted_at": "2026-10-02",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n(긴급)2026학년도 서호초등학교 기간제 교육공무직원(조리실무사) 채용 공고 채용공고 상세정보\n제목\n(긴급)2026학년도 서호초등학교 기간제 교육공무직원(조리실무사) 채용 공고\n학교(부서)명\n서호초등학교\n작성일\n2026-10-02\n공고구분\n채용공고\n연락처\n064-766-3580\n직종구분\n기간제 교육공무직원\n접수상태\n대기중\n※ 접수상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍",
+   "attachments": [
+    {
+     "name": "2026학년도기간제교육공무지원(조리실무사+대체인력)채용공고문.hwp (91 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482765&command=update&fileSid=1415543"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-08",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
   },
   {
    "id": "73cf8fe86770",
@@ -54033,6 +54119,379 @@
    "confidence": 0.5,
    "needs_review": true,
    "type": "recruit"
+  },
+  {
+   "id": "cc2aa28cf576",
+   "institution": "제주경제통상진흥원",
+   "institution_short": "JBA",
+   "group": 2,
+   "board": "사업공고",
+   "title": "2026년 4분기 제주우수제품 품질인증(JQ) 모집(신규 및 재인증)",
+   "url": "https://www.jba.or.kr/bbs/board.php?bo_table=2_1_1_1&wr_id=823",
+   "posted_at": "2026-10-01",
+   "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "market"
+   ],
+   "company_types": [
+    "small_biz",
+    "startup",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.5,
+   "needs_review": true,
+   "type": "recruit"
+  },
+  {
+   "id": "4e858d75ce05",
+   "institution": "제주평생교육장학진흥원",
+   "institution_short": "JILES",
+   "group": 2,
+   "board": "공지사항",
+   "title": "[기타] (재)제주평생교육장학진흥원 지정금융기관 선정 공고",
+   "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=view&seq=13077",
+   "posted_at": "2026-10-01",
+   "summary": "제주특별자치도 제주시 서사로43(삼도이동) (재)제주평생교육장학진흥원\nTel_064-744-9852 ㅣ Fax_064-726-9961 ㅣ E-mail_ webmaster@jiles.or.kr\nCopyright ⓒ 재단법인 제주평생교육장학진흥원. All rights reserved.",
+   "attachments": [
+    {
+     "name": "(공고문) (재)제주평생교육장학진흥원 지정금융기관 선정 공고.pdf (166 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=13077&no=1"
+    },
+    {
+     "name": "(제안요청서) (재)제주평생교육장학진흥원 지정금융기관 선정.pdf (158 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=13077&no=2"
+    },
+    {
+     "name": "(작성 서식) (재)제주평생교육장학진흥원 지정금융기관 선정.hwpx (64 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=13077&no=3"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.25,
+   "needs_review": true,
+   "type": "recruit"
+  },
+  {
+   "id": "f4ad3dc4d111",
+   "institution": "제주평생교육장학진흥원",
+   "institution_short": "JILES",
+   "group": 2,
+   "board": "공지사항",
+   "title": "[소식] 2026년 평생교육이용권 우수이용자 선정결과 공고",
+   "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=view&seq=13076",
+   "posted_at": "2026-10-01",
+   "summary": "제주특별자치도 제주시 서사로43(삼도이동) (재)제주평생교육장학진흥원\nTel_064-744-9852 ㅣ Fax_064-726-9961 ㅣ E-mail_ webmaster@jiles.or.kr\nCopyright ⓒ 재단법인 제주평생교육장학진흥원. All rights reserved.",
+   "attachments": [
+    {
+     "name": "2026년 평생교육이용권 우수이용자 선정결과 공고문(20261001).pdf (173 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=13076&no=1"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.25,
+   "needs_review": true,
+   "type": "recruit"
+  },
+  {
+   "id": "d9135d6879c5",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "제주형 자율학교 종합 진단 및 재구조화 연구 용역 제안서 평가 결과",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000017&menuCd=DOM_000000103001001000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1482731",
+   "posted_at": "2026-10-01",
+   "summary": "(63119) 제주특별자치도 제주시 문연로 5\nTel. (064) 710-0114 (09:00~18:00 / 야간·공휴일: 당직실 064-710-0600, 연중무휴)\nFax : (064) 710-0709\nCopyright(c) 2024 Jeju Special Self-Governing Provincial Office of Education. All rights reserved.",
+   "attachments": [
+    {
+     "name": "제안서(정성평가) 평가위원별 평가 점수표(공개용).pdf (36 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000017&menuCd=DOM_000000103001001000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482731&command=update&fileSid=1415495"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.6,
+   "needs_review": false,
+   "type": "bid"
+  },
+  {
+   "id": "46f914658b44",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2027학년도 중문고등학교 교복(동‧하복)구매 입찰 (재공고)[장기계속계약]",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1482680",
+   "posted_at": "2026-10-01",
+   "summary": "(63119) 제주특별자치도 제주시 문연로 5\nTel. (064) 710-0114 (09:00~18:00 / 야간·공휴일: 당직실 064-710-0600, 연중무휴)\nFax : (064) 710-0709\nCopyright(c) 2024 Jeju Special Self-Governing Provincial Office of Education. All rights reserved.",
+   "attachments": [
+    {
+     "name": "[재공고]2027학년도_중문고등학교_교복(동하복)구매업체선정입찰공고.hwp (239 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482680&command=update&fileSid=1415432"
+    },
+    {
+     "name": "(중문고) 2027학년도 교복(동·하복) 구매 적격업체 선정 평가 배점표.hwpx (67 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482680&command=update&fileSid=1415433"
+    },
+    {
+     "name": "(중문고) 사양서_2027학년도 중문고등학교 교복(동하복).hwp (600 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482680&command=update&fileSid=1415434"
+    },
+    {
+     "name": "2027학년도 교복(동·하복) 구매 계약 특수조건_중문고.hwpx (74 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482680&command=update&fileSid=1415435"
+    },
+    {
+     "name": "2027학년도 교복(동·하복) 상한가격 안내.hwp (859 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482680&command=update&fileSid=1415436"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.6,
+   "needs_review": false,
+   "type": "bid"
+  },
+  {
+   "id": "83427b95b567",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2027학년도 서귀포중학교 교복(동‧하복)구매 입찰 (재공고)[장기계속계약]",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1482678",
+   "posted_at": "2026-10-01",
+   "summary": "(63119) 제주특별자치도 제주시 문연로 5\nTel. (064) 710-0114 (09:00~18:00 / 야간·공휴일: 당직실 064-710-0600, 연중무휴)\nFax : (064) 710-0709\nCopyright(c) 2024 Jeju Special Self-Governing Provincial Office of Education. All rights reserved.",
+   "attachments": [
+    {
+     "name": "[재공고]2027학년도_서귀포중학교_교복(동하복)구매업체선정입찰공고.hwp (245 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482678&command=update&fileSid=1415425"
+    },
+    {
+     "name": "(서귀포중) 2027학년도 교복(동·하복) 구매 적격업체 선정 평가 배점표.hwpx (68 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482678&command=update&fileSid=1415426"
+    },
+    {
+     "name": "(서귀포중) 사양서_2027학년도 서귀포중학교 교복(동하복).hwp (16953 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482678&command=update&fileSid=1415427"
+    },
+    {
+     "name": "2027학년도 교복(동·하복) 구매 계약 특수조건_서귀포중.hwpx (75 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482678&command=update&fileSid=1415428"
+    },
+    {
+     "name": "2027학년도 교복(동·하복) 상한가격 안내.hwp (859 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482678&command=update&fileSid=1415429"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.6,
+   "needs_review": false,
+   "type": "bid"
+  },
+  {
+   "id": "928a0beaf6de",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2027학년도 서귀포산업과학고등학교 교복(동‧하복)구매 입찰 (재공고)[장기계속계약]",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1482677",
+   "posted_at": "2026-10-01",
+   "summary": "(63119) 제주특별자치도 제주시 문연로 5\nTel. (064) 710-0114 (09:00~18:00 / 야간·공휴일: 당직실 064-710-0600, 연중무휴)\nFax : (064) 710-0709\nCopyright(c) 2024 Jeju Special Self-Governing Provincial Office of Education. All rights reserved.",
+   "attachments": [
+    {
+     "name": "[재공고]2027학년도_서귀포산업과학고등학교_교복(동하복)구매업체선정입찰공고.hwp (247 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482677&command=update&fileSid=1415420"
+    },
+    {
+     "name": "(서귀포산업과학고) 2027학년도 교복(동·하복) 구매 적격업체 선정 평가 배점표.hwpx (69 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482677&command=update&fileSid=1415421"
+    },
+    {
+     "name": "(서귀포산업과학고) 사양서_2027학년도 서귀포산업과학고등학교 교복(동하복).hwpx (300 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482677&command=update&fileSid=1415422"
+    },
+    {
+     "name": "2027학년도 교복(동·하복) 구매 계약 특수조건_서귀포산업과학고.hwpx (75 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482677&command=update&fileSid=1415423"
+    },
+    {
+     "name": "2027학년도 교복(동·하복) 상한가격 안내.hwp (859 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482677&command=update&fileSid=1415424"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.6,
+   "needs_review": false,
+   "type": "bid"
+  },
+  {
+   "id": "e846f3a31ce9",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "(새로공고)2027학년도 대정중학교 교복(동‧하복)구매 입찰 공고[장기계속계약]",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1482675",
+   "posted_at": "2026-10-01",
+   "summary": "(63119) 제주특별자치도 제주시 문연로 5\nTel. (064) 710-0114 (09:00~18:00 / 야간·공휴일: 당직실 064-710-0600, 연중무휴)\nFax : (064) 710-0709\nCopyright(c) 2024 Jeju Special Self-Governing Provincial Office of Education. All rights reserved.",
+   "attachments": [
+    {
+     "name": "[새로공고]2027학년도_대정중학교_교복(동하복)구매업체선정입찰공고.hwp (239 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482675&command=update&fileSid=1415414"
+    },
+    {
+     "name": "2027학년도 교복(동·하복) 구매 계약 특수조건_대정중.hwpx (78 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482675&command=update&fileSid=1415415"
+    },
+    {
+     "name": "2027학년도 교복(동·하복) 상한가격 안내.hwp (859 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482675&command=update&fileSid=1415416"
+    },
+    {
+     "name": "2027학년도 대정중학교 교복(동·하복) 사양서_수정.hwpx (5330 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482675&command=update&fileSid=1415417"
+    },
+    {
+     "name": "(대정중) 2027학년도 교복(동·하복) 구매 적격업체 선정 평가 배점표.hwpx (67 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482675&command=update&fileSid=1415418"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-02",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.6,
+   "needs_review": false,
+   "type": "bid"
   }
  ]
 }
