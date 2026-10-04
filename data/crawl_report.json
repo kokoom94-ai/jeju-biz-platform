@@ -1,5 +1,5 @@
 {
- "run_at": "2026-10-03T23:14:10",
+ "run_at": "2026-10-04T23:25:40",
  "results": [
   {
    "institution": "jto",
@@ -62,7 +62,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 366자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 368자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -70,7 +70,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 401자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 403자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -84,7 +84,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 401자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 403자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -98,7 +98,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 151953자, title='제주창조경제혁신센터', 링크 47개"
+    "사업공고: 0건 진단: 응답 151954자, title='제주창조경제혁신센터', 링크 47개"
    ]
   },
   {
@@ -120,13 +120,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 349890자, title='노사발전재단', 링크 809개"
+    "공지사항: 0건 진단: 응답 349894자, title='노사발전재단', 링크 809개"
    ]
   },
   {
    "institution": "jta",
-   "found": 11,
-   "new": 3,
+   "found": 0,
+   "new": 0,
    "errors": []
   },
   {
@@ -139,7 +139,9 @@
    "institution": "kbizjeju",
    "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "공지사항: 0건 진단: 응답 71자, title='no-title', 링크 0개"
+   ]
   },
   {
    "institution": "jejurise",
@@ -155,11 +157,9 @@
   },
   {
    "institution": "bizinfo",
-   "found": 0,
+   "found": 88,
    "new": 0,
-   "errors": [
-    "3회 재시도 실패 — ConnectTimeout: timed out"
-   ]
+   "errors": []
   },
   {
    "institution": "g2b",
@@ -167,9 +167,9 @@
    "new": 0,
    "errors": [
     "작동하는 API 경로 조합 없음 — 아래 조합별 응답 참조",
-    "BidPublicInfoService/PPSSrch: ConnectTimeout timed out",
-    "BidPublicInfoService: ConnectTimeout timed out",
-    "BidPublicInfoService04/PPSSrch: ConnectTimeout timed out"
+    "BidPublicInfoService/PPSSrch: RuntimeError HTTP 403 :: {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\"",
+    "BidPublicInfoService: RuntimeError HTTP 403 :: {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\"",
+    "BidPublicInfoService04/PPSSrch: RuntimeError HTTP 400 :: {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"NO_OPENAPI_SERVICE_ERROR\",\n      \"re"
    ]
   }
  ]
