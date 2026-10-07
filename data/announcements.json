@@ -1,135 +1,6 @@
 {
- "updated_at": "2026-10-06T01:27:04",
+ "updated_at": "2026-10-07T00:02:41",
  "items": [
-  {
-   "id": "cded57fd8c6d",
-   "institution": "산업통상부",
-   "institution_short": "산업통상부",
-   "group": 6,
-   "board": "기업마당",
-   "title": "2026년 3차 요소 수급 안정화 지원사업 공고",
-   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123676",
-   "posted_at": "2026-06-26",
-   "summary": "<p>차량용 요소의 수입 다변화를 촉진하기 위한「2026년 3차 요소 수급 안정화 지원사업」을 아래와 같이 공고하오니 많은 참여 바랍니다.</p><p><br></p><p>☞&nbsp;제3국산 차량용 요소에 대해 수입계획을 사전에 제출하고 지원물량을 배정받아 지원기간 내에 수입한 기업</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;기존 공급망 활용형과 신규 공급망 개척형으로 구분하여 지원물량을 배정하고, 개척형은 활용형을 신청한 기업에 한하여 지원</p><",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-07-06",
-   "company_types": [
-    "general"
-   ],
-   "biz_types": [
-    "grant"
-   ],
-   "apply_end": "2026-07-08",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 0.6,
-   "needs_review": false,
-   "sectors": [
-    "fund"
-   ],
-   "type": "support"
-  },
-  {
-   "id": "cb7f7889ceed",
-   "institution": "과학기술정보통신부",
-   "institution_short": "과학기술정보통신부",
-   "group": 6,
-   "board": "기업마당",
-   "title": "2026년 3차 클라우드 엑스포 코리아 전시기업 지원 추가 모집 공고",
-   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123664",
-   "posted_at": "2026-06-26",
-   "summary": "<p>클라우드 관련 최신기술 및 동향을 공유하고, 국내 클라우드 산업의 비즈니스 활성화를 위해 지역 최대 규모의 클라우드 전문 전시행사인「2026 클라우드 엑스포 코리아」을 개최하여 클라우드 관련 기업 대상 전시부스를 지원하고자 하오니, 많은 관심과 참여 부탁드립니다.&nbsp;</p><p><br></p><p style=\"line-height: 1.8;\">☞ 전시회를 통해 시연 및 전시할 수 있는 클라우드 서비스, 솔루션 및 클라우드 기반의 4차 산업 기술ㆍ서비스 등을 보유한 국내 중소기업&nbs",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-07-06",
-   "company_types": [
-    "small_biz",
-    "general"
-   ],
-   "biz_types": [
-    "grant"
-   ],
-   "apply_end": "2026-07-08",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 0.5,
-   "needs_review": true,
-   "sectors": [
-    "etc"
-   ],
-   "type": "support"
-  },
-  {
-   "id": "22bae0f30c92",
-   "institution": "문화체육관광부",
-   "institution_short": "문화체육관광부",
-   "group": 6,
-   "board": "기업마당",
-   "title": "2026년 MIPCOM 마켓부스 및 쇼케이스 참가기업 모집 공고",
-   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123749",
-   "posted_at": "2026-06-30",
-   "summary": "<p>한국콘텐츠진흥원은 한국 방송콘텐츠의 해외수출 증진을 위해 다음과 같이 2026년 밉컴(MIPCOM) 마켓부스 및 쇼케이스 참가사를 모집하오니 관심 있는 기업의 많은 신청 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;(부스참가) 국산 방송 프로그램 기획ㆍ제작ㆍ배급/유통 관련 해외 수출을 희망하는 기업 /&nbsp;(쇼케이스) 방송포맷(기방영/신규런칭/페이퍼) 및 방송영상 콘텐츠(기방영/신규런칭) 보유기업</p><p><br></p><p st",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-07-06",
-   "company_types": [
-    "general"
-   ],
-   "biz_types": [
-    "grant"
-   ],
-   "apply_end": "2026-07-08",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 0.25,
-   "needs_review": true,
-   "sectors": [
-    "market"
-   ],
-   "type": "support"
-  },
-  {
-   "id": "d227d0585403",
-   "institution": "문화체육관광부",
-   "institution_short": "문화체육관광부",
-   "group": 6,
-   "board": "기업마당",
-   "title": "2026년 TIFFCOM 한국공동관 참가기업 모집 공고",
-   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123748",
-   "posted_at": "2026-06-30",
-   "summary": "<p>한국콘텐츠진흥원은 한국 방송콘텐츠의 해외수출 증진을 위해 다음과 같이 2026년 티프컴(TIFFCOM) 한국공동관 참가사를 모집하오니 관심 있는 기업의 많은 신청 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 국내 방송 프로그램 기획ㆍ제작ㆍ배급/유통 관련 해외 수출을 희망하는 기업<br></p><p style=\"line-height: 1.8;\">※&nbsp;방송 장르 이외 장르의 제작ㆍ해외 배급사 등은 신청 불가</p><p><br></p><p st",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-07-06",
-   "company_types": [
-    "general"
-   ],
-   "biz_types": [
-    "grant"
-   ],
-   "apply_end": "2026-07-08",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 0.25,
-   "needs_review": true,
-   "sectors": [
-    "market"
-   ],
-   "type": "support"
-  },
   {
    "id": "7b083841919f",
    "institution": "과학기술정보통신부",
@@ -757,6 +628,53 @@
    ],
    "status": "closed",
    "crawled_at": "2026-07-07",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": "2026-07-13",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false,
+   "type": "bid"
+  },
+  {
+   "id": "74e83ea4e11c",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "[재공고]제주관광정보센터 운영 관리 및 시스템 ASP 용역 <협상에 의한 계약>",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=978&p=2&lcate=",
+   "posted_at": "2026-07-02",
+   "summary": "미세먼지\n좋음\n19㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "1_295.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=978&fidx=1"
+    },
+    {
+     "name": "2_277.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=978&fidx=2"
+    },
+    {
+     "name": "3_189.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=978&fidx=3"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-10-06",
    "ev": 2,
    "sectors": [
     "bid"
@@ -9336,6 +9254,49 @@
    "type": "recruit"
   },
   {
+   "id": "ab2a455984e9",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "[유관기관협조] AI(바이브코딩)를 활용한 게임개발 입문기 참가자 모집",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1539&p=4&lcate=",
+   "posted_at": "2026-08-07",
+   "summary": "미세먼지\n좋음\n19㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "[붙임1] 모집 공고문 (2).hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1539&fidx=1"
+    },
+    {
+     "name": "img_1786061142.jpg",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1539&fidx=2"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-10-06",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-06",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false,
+   "type": "recruit"
+  },
+  {
    "id": "f0fe502305f3",
    "institution": "산업통상부",
    "institution_short": "산업통상부",
@@ -11682,6 +11643,50 @@
    ],
    "status": "closed",
    "crawled_at": "2026-09-12",
+   "ev": 2,
+   "sectors": [
+    "market"
+   ],
+   "company_types": [
+    "coop",
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-08-12",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false,
+   "type": "recruit"
+  },
+  {
+   "id": "722dfd5a7c6c",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "제주 퐁낭라운지 참여마을 모집 공고",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1540&p=4&lcate=",
+   "posted_at": "2026-08-11",
+   "summary": "미세먼지\n좋음\n19㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "공고문_82.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1540&fidx=1"
+    },
+    {
+     "name": ".pdf",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1540&fidx=2"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-10-06",
    "ev": 2,
    "sectors": [
     "market"
@@ -32111,6 +32116,52 @@
    "type": "recruit"
   },
   {
+   "id": "ac3d9fdfac47",
+   "institution": "제주상공회의소",
+   "institution_short": "상의",
+   "group": 5,
+   "board": "공지사항",
+   "title": "(알림) (재)제주지역산업진흥원 직원 채용 공고 안내",
+   "url": "https://jejucci.korcham.net/front/board/boardContentsView.do?boardId=10088&contId=133027&menuId=379",
+   "posted_at": "2026-10-06",
+   "summary": "패밀리사이트\n패밀리 사이트 더보기\n대한상공회의소\n자격평가\n무역인증\n싱글PPM\nPL공제\n중국한국상회\n코참차이나\n베트남사무소\n지속가능경영원\n유통물류진흥원\n코리안넷\n전국규제지도\n산업혁신운동\n농식품 상생협력 추진본부\n기업활력법 종합포털\n인력개발원 HRD포털\n중소기업 청년취업인턴제\n중장년 일자리 희망센터\n중견인력 재취업지원\n직업기초능력평가\n산업체 우수강사\n서울지역 인적자원 개발위원회\n로그인\n회원가입\n사이트맵\n모바일 메뉴 열림\n닫기\n새소식\n공지사항\n새소식\n공지사항\n공지사항 상세보기\n제목\n(알림) (재)제주지",
+   "attachments": [
+    {
+     "name": "1. 2026년 제2차 제주지역산업진흥원 직원 채용 공고문_261001.pdf",
+     "url": "https://jejucci.korcham.net/file/dext5uploaddata/2026/1. 2026년 제2차 제주지역산업진흥원 직원 채용 공고문_261001.pdf"
+    },
+    {
+     "name": "2. 2026년 제2차 제주지역산업진흥원 입사지원 제출서류 서식_261001.hwp",
+     "url": "https://jejucci.korcham.net/file/dext5uploaddata/2026/2. 2026년 제2차 제주지역산업진흥원 입사지원 제출서류 서식_261001.hwp"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-10-07",
+   "ev": 2,
+   "sectors": [
+    "employ"
+   ],
+   "company_types": [
+    "small_biz",
+    "youth",
+    "midlife",
+    "nonprofit",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-01",
+   "always_open": false,
+   "age_min": 19,
+   "age_max": 39,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.65,
+   "needs_review": false,
+   "type": "hiring"
+  },
+  {
    "id": "6dac3c87be91",
    "institution": "제주관광공사",
    "institution_short": "JTO",
@@ -32963,7 +33014,7 @@
    "posted_at": "2026-09-07",
    "summary": "<p>중소기업이 서비스 혁신을 위해 구축한 스마트서비스 솔루션을 안정적으로 운영하고 지속적으로 활용할 수 있도록 유지관리ㆍ개선 등을 지원하는 「중소기업 스마트서비스 지원사업(A/S지원)」의 참여기업을 다음과 같이 모집합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 「중소기업기본법」 제2조에 따른 중소기업</p><p style=\"line-height: 1.8;\">-&nbsp;도입기업이 기술기업과 컨소시엄을 구성하여 사업 신청</p><p style=\"line-",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-08",
    "sectors": [
     "tech",
@@ -32997,7 +33048,7 @@
    "posted_at": "2026-09-15",
    "summary": "<p>공공기관이 보유한 데이터를 기반으로 창업기업과 개방형 협업을 통해 공공서비스 혁신과 창업기업의 성장(Scale-up)을 촉진하는 ‘공공데이터 활용 지원’ 공공기관 제안형(Top-Down) 협업 과제 수행에 참여할 창업기업을 다음과 같이 모집합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞「중소기업기본법」제2조제1항에 따른 중소기업의 대표자이자,「중소기업창업 지원법」제2조제2호에 따른 모집공고일 기준 창업 7년 이내인 창업기업</p><p style=\"li",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-15",
    "sectors": [
     "startup"
@@ -33031,7 +33082,7 @@
    "posted_at": "2026-09-18",
    "summary": "<p>한국콘텐츠진흥원은 웹툰 IP와 창작자, 산업 관계자, 팬이 함께하는&nbsp;「2026 월드 웹툰 페스티벌」을 개최합니다. 웹툰 작품과 IP를 새롭게 선보이고 팬과 직접 만날 플랫폼사, 제작사, 작가ㆍ창작자, IP 사업자, 팬덤ㆍ커뮤니티 등 다양한 웹툰 플레이어의 참여를 기다립니다.&nbsp;</p><p><br></p><p style=\"line-height: 1.8;\">☞ 웹툰 관련 IPㆍ콘텐츠를 보유하거나 웹툰을 기반으로 창작ㆍ유통ㆍ상품화ㆍ팬덤 활동 등을 수행하는 국내기업ㆍ단체ㆍ개인</p>",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-19",
    "sectors": [
     "market"
@@ -33063,7 +33114,7 @@
    "posted_at": "2026-09-21",
    "summary": "<p>광주ㆍ전남지방중소벤처기업청에서는 2026년 10월 동행축제 기간 내 우수 소상공인의 판매촉진 및 홍보를 위하여 현장 라이브커머스 참가기업을 아래와 같이 모집하오니 많은 관심과 참여 바랍니다.</p><p><br></p><p>☞&nbsp;소비재 완제품을 취급하는 사업자등록증 소재지가 광주ㆍ전남ㆍ제주지역인 소상공인</p><p><br></p><p>☞ 라이브방송 진행을 위한 촬영 스튜디오 및 장비, 방송 진행 쇼호스트 지원 및 방송 송출 (업체당 30분 내외) 지원</p>",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-22",
    "sectors": [
     "market"
@@ -33096,7 +33147,7 @@
    "posted_at": "2026-09-23",
    "summary": "<p>「중소기업간 협업지원사업 운영요령」에 따른 4분기 협업기업 모집 계획을 다음과 같이 공고하오니, 참여를 희망하는 중소기업은 안내에 따라 신청하시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;2개 이상의 중소기업으로 생산ㆍ연구개발ㆍ마케팅 기능을 갖춘 협업체를 구성하여, 제품을 개발ㆍ생산ㆍ판매하려는 중소기업</p><p><br></p><p style=\"line-height: 1.8;\">☞ 협업기업 대상 정부지원사업 참여자격 부여 지원</p>",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-23",
    "sectors": [
     "edu",
@@ -33136,7 +33187,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482412&command=update&fileSid=1415015"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-29",
    "ev": 2,
    "sectors": [
@@ -33174,7 +33225,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482395&command=update&fileSid=1414962"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-29",
    "ev": 2,
    "sectors": [
@@ -33212,7 +33263,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482568&command=update&fileSid=1415201"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-10-01",
    "ev": 2,
    "sectors": [
@@ -33250,7 +33301,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482565&command=update&fileSid=1415196"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-10-01",
    "ev": 2,
    "sectors": [
@@ -33288,7 +33339,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482685&command=update&fileSid=1415440"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-10-02",
    "ev": 2,
    "sectors": [
@@ -33321,7 +33372,7 @@
    "posted_at": "2026-10-01",
    "summary": "<p>우리기업의 해외 지식재산 보호 및 수출 경쟁력 강화를 위한 「중국 온라인 플랫폼 진출(희망) 기업을 위한 해외 권리확보 지원사업」에 참여할 기업을 다음과 같이 모집합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞「중소기업기본법」제2조 및 같은 법 시행령 제3조에 따른 중소기업(개인사업자 포함) 또는「중견기업 성장촉진 및 경쟁력 강화에 관한 특별법」제2조 및 같은 법 시행령 제2조에 따른 중견기업</p><p style=\"line-height: 1.8;\">",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-10-03",
    "sectors": [
     "market",
@@ -33361,7 +33412,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000017&menuCd=DOM_000000103001001000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1482930&command=update&fileSid=1415802"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-10-03",
    "ev": 2,
    "sectors": [
@@ -33399,7 +33450,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1483023&command=update&fileSid=1415993"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-10-06",
    "ev": 2,
    "sectors": [
@@ -33420,6 +33471,44 @@
    "confidence": 0.4,
    "needs_review": true,
    "type": "recruit"
+  },
+  {
+   "id": "92e402233217",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "(긴급)_2026학년도 교육공무직원(조리실무사) 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1483074",
+   "posted_at": "2026-10-06",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n(긴급)_2026학년도 교육공무직원(조리실무사) 모집 공고 채용공고 상세정보\n제목\n(긴급)_2026학년도 교육공무직원(조리실무사) 모집 공고\n학교(부서)명\n노형중학교\n작성일\n2026-10-06\n공고구분\n채용공고\n연락처\n064-740-8905\n직종구분\n기간제 교육공무직원\n접수상태\n접수중\n※ 접수상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담당과목(업무)",
+   "attachments": [
+    {
+     "name": "[긴급]노형중학교 기간제 교육공무직원(조리실무사) 채용 공고문_20261006.hwp (150 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1483074&command=update&fileSid=1416088"
+    }
+   ],
+   "status": "closed",
+   "crawled_at": "2026-10-07",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-06",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
   },
   {
    "id": "6f26302dc6cd",
@@ -33695,6 +33784,46 @@
    "region": "제주 전역",
    "confidence": 0.4,
    "needs_review": true,
+   "type": "recruit"
+  },
+  {
+   "id": "396997dc8ddf",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "공지사항",
+   "title": "[유관기관협조] 숨, 쉼 너의 쉼을 찾아줄게 프로그램 참가자 모집 안내",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=notice&bno=1577&p=1&lcate=",
+   "posted_at": "2026-10-06",
+   "summary": "미세먼지\n좋음\n19㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "img_1791272068.png",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=notice&bno=1577&fidx=1"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-06",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "youth",
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-07",
+   "always_open": false,
+   "age_min": 19,
+   "age_max": 39,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.65,
+   "needs_review": false,
    "type": "recruit"
   },
   {
@@ -34085,6 +34214,78 @@
    "type": "recruit"
   },
   {
+   "id": "f9d6d58179ae",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 장전초등학교병설유치원 방과후과정 자원봉사자 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1483033",
+   "posted_at": "2026-10-06",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 장전초등학교병설유치원 방과후과정 자원봉사자 모집 공고 채용공고 상세정보\n제목\n2026학년도 장전초등학교병설유치원 방과후과정 자원봉사자 모집 공고\n학교(부서)명\n장전초등학교\n작성일\n2026-10-06\n공고구분\n채용공고\n연락처\n064)798-2210\n직종구분\n자원봉사자\n접수상태\n접수중\n※ 접수상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담당",
+   "attachments": [
+    {
+     "name": "2026학년도 장전초등학교병설유치원 방과후과정자원봉사자 모집 공고.hwp (62 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1483033&command=update&fileSid=1416004"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-08",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "recruit"
+  },
+  {
+   "id": "cdfabedddb62",
+   "institution": "중소벤처기업부",
+   "institution_short": "중소벤처기업부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 K-소비재 중소벤처기업 카자흐스탄 진출지원 사업 참여기업 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127007",
+   "posted_at": "2026-10-06",
+   "summary": "<p>K-소비재 분야 중소벤처기업의 카자흐스탄 진출 지원을 위해 중소벤처기업진흥공단 알마티 GBC 주관 K-소비재 카자흐스탄 진출지원 사업 참여기업 모집계획을 다음과 같이 공고합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 「중소기업기본법」 제2조 및 같은 법 시행령 제3조에 따른 중소기업</p><p style=\"line-height: 1.8;\">-&nbsp;K-유망 소비재(식품, 뷰티, 패션, 생활용품)를 생산ㆍ유통하는 기업</p><p><br></p><p",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "market",
+    "edu"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-08",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
    "id": "73cf8fe86770",
    "institution": "농림축산식품부",
    "institution_short": "농림축산식품부",
@@ -34310,6 +34511,38 @@
    "always_open": false,
    "age_min": 19,
    "age_max": 39,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
+   "id": "00a3dac217b1",
+   "institution": "해양수산부",
+   "institution_short": "해양수산부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 극지 데이터 융합 스케일업 프로그램 참여기업 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127001",
+   "posted_at": "2026-10-06",
+   "summary": "<p>본 프로그램은 극지연구소가 보유한 독보적인 연구 성과, 특수 환경 데이터, 인프라를 민간의 혁신 비즈니스와 연결하는 실증(PoC) 프로젝트입니다. 단순한 아이디어 발굴을 넘어, 약 2개월이라는 압축적인 기간 내에 극지 데이터를 귀사의 실제 서비스/제품에 연동하고 비즈니스 모델을 검증(PoC)하는 것을 목표로 합니다. 우주만큼 도달하기 어려운 '극지'의 방대한 데이터(기후, 해운, 바이오, 안전 등)를 선점하여 귀사 비즈니스의 새로운 경쟁력을 창출할 실행력 있는 기업의 많은 지원을 바랍니다.<",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "tech"
+   ],
+   "company_types": [
+    "startup"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-11",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.5,
@@ -34696,6 +34929,44 @@
    "type": "recruit"
   },
   {
+   "id": "1508ed4dc945",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "제주제일고등학교 기간제 교원 채용 공고(정보)",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1483080",
+   "posted_at": "2026-10-06",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n제주제일고등학교 기간제 교원 채용 공고(정보) 채용공고 상세정보\n제목\n제주제일고등학교 기간제 교원 채용 공고(정보)\n학교(부서)명\n제주제일고등학교\n작성일\n2026-10-06\n공고구분\n채용공고\n연락처\n064-740-821\n직종구분\n기간제교원\n접수상태\n접수중\n※ 접수상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담당과목(업무)\n정보\n접수기간\n2026-10-",
+   "attachments": [
+    {
+     "name": "2026학년도 기간제교원 채용 공고문(정보).hwp (102 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1483080&command=update&fileSid=1416092"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-12",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
    "id": "28155bdec87c",
    "institution": "과학기술정보통신부",
    "institution_short": "과학기술정보통신부",
@@ -35036,6 +35307,40 @@
    "type": "recruit"
   },
   {
+   "id": "d37c94284150",
+   "institution": "방위사업청",
+   "institution_short": "방위사업청",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2027년 1차 방산전시회 참가 지원사업 참여기업 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126994",
+   "posted_at": "2026-10-06",
+   "summary": "<p>「국제경쟁력강화 지원사업 운영규정(이하 ‘방사청 훈령’), 제3장 1절 11조의 규정에 따라 국제경쟁력을 갖춘 방산 중소ㆍ중견기업을 육성하기 위해 「2027년 방산전시회 참가 지원사업 참여기업 모집」을 다음과 같이 공고하오니, 관심 있는 기업의 적극적인 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 방위산업 분야에서 단위 완제품, 구성품, 부품, 소프트웨어 등을 연구개발 또는 생산하는 중소ㆍ중견기업으로서 다음 각 호 중 어느 하나 이상에 해당",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "market",
+    "fund"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-13",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false,
+   "type": "support"
+  },
+  {
    "id": "af8e9d4ddf90",
    "institution": "산업통상부",
    "institution_short": "산업통상부",
@@ -35276,6 +35581,123 @@
    "confidence": 0.4,
    "needs_review": true,
    "type": "recruit"
+  },
+  {
+   "id": "cab692f5e21c",
+   "institution": "제주관광공사",
+   "institution_short": "JTO",
+   "group": 1,
+   "board": "입찰정보",
+   "title": "제주관광공사 지정면세점 출퇴근버스 운행 용역 <적격심사>",
+   "url": "https://www.ijto.or.kr/korean/Bd/view.php?btable=tender_info&bno=988&p=1&lcate=",
+   "posted_at": "2026-10-06",
+   "summary": "미세먼지\n좋음\n19㎍/㎥\nLanguage\nLanguage\nKorean\nEnglish\nChinese\nJapanese\nVietnamese\nIndonesian\nThai\nSpanish\ngo\n대메뉴\n정보공개\n사전정보공표\n공공데이터 제공\n공공데이터 신청·활용제안\n경영공시\n정보공개안내\n비공개 세부기준\n알림마당\n공지사항\n계약정보\n채용공고\n보도자료\n관광자료실(제주관광 빅데이터플랫폼)\n개인정보 제3자 제공현황\n고객참여\n제주관광공사에 바란다(적극행정/일반민원)\n제주관광지도 신청\n면세점 입점안내\n설문조사\n공사소개\n제주",
+   "attachments": [
+    {
+     "name": "1_304.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=988&fidx=1"
+    },
+    {
+     "name": "2_286.hwp",
+     "url": "https://www.ijto.or.kr/korean/Bd/download.php?btable=tender_info&bno=988&fidx=2"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-06",
+   "ev": 2,
+   "sectors": [
+    "bid"
+   ],
+   "company_types": [
+    "tourism",
+    "general"
+   ],
+   "biz_types": [
+    "bid"
+   ],
+   "apply_end": "2026-10-14",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 1.0,
+   "needs_review": false,
+   "type": "bid"
+  },
+  {
+   "id": "aaf4448ac37b",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 노형초등학교 특수교육 자원봉사자(지원인력) 모집 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1483087",
+   "posted_at": "2026-10-06",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 노형초등학교 특수교육 자원봉사자(지원인력) 모집 공고 채용공고 상세정보\n제목\n2026학년도 노형초등학교 특수교육 자원봉사자(지원인력) 모집 공고\n학교(부서)명\n노형초등학교\n작성일\n2026-10-06\n공고구분\n채용공고\n연락처\n064-740-8400\n직종구분\n자원봉사자\n접수상태\n접수중\n※ 접수상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담당",
+   "attachments": [
+    {
+     "name": "2026학년도 특수교육자원봉사자 추가모집 공고.hwp (62 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1483087&command=update&fileSid=1416106"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-14",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "recruit"
+  },
+  {
+   "id": "14f29eb5f629",
+   "institution": "방위사업청",
+   "institution_short": "방위사업청",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 2차 유망수출품목발굴 지원사업 참여기업 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126992",
+   "posted_at": "2026-10-06",
+   "summary": "<p>방위사업청 훈령 제 937호 「국제경쟁력강화 지원사업 운영규정」 제3장 1절 11조의 규정에 따라 국제경쟁력을 갖춘 방산기업을 육성하기 위해 「’26-2차 유망수출품목발굴 지원사업&nbsp; 참여기업 모집」을 다음과 같이 공고하오니, 관심 있는 기업의 적극적인 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 방위산업분야에서 단위 완제품, 구성품, 부품, 소프트웨어 등을 연구개발 또는 생산하는 중소ㆍ중견기업</p><p style=\"line-hei",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "market",
+    "fund",
+    "edu"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "grant",
+    "education"
+   ],
+   "apply_end": "2026-10-14",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false,
+   "type": "support"
   },
   {
    "id": "d608c8bc9f86",
@@ -35945,6 +36367,38 @@
    "type": "support"
   },
   {
+   "id": "88713993df63",
+   "institution": "중소벤처기업부",
+   "institution_short": "중소벤처기업부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 5차 라이브커머스 제작ㆍ운영 사업 참여기업 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126982",
+   "posted_at": "2026-10-06",
+   "summary": "<p>소상공인의 온라인시장 진출 및 판로 지원을 위한 「2026년 라이브커머스 제작ㆍ운영지원 사업」을 다음과 같이 공고하오니, 많은 참여를 바랍니다.</p><p><br></p><p>☞&nbsp;소상공인</p><p><br></p><p style=\"line-height: 1.8;\">☞ 플랫폼과 협업하여 소상공인 상품 실시간 라이브커머스 방송 제작 및 송출, 판매 전 과정 지원</p><p style=\"line-height: 1.8;\">-&nbsp;(방송 기획) 라이브커머스 방송 프로그램 기획(쇼호스트 ",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "market"
+   ],
+   "company_types": [
+    "small_biz"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-16",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
    "id": "a44ee088a35e",
    "institution": "기후에너지환경부",
    "institution_short": "기후에너지환경부",
@@ -36106,6 +36560,137 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
+   "id": "91138b15ebd6",
+   "institution": "중소벤처기업부",
+   "institution_short": "중소벤처기업부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "제주 K-뷰티 글로벌 라운지 입점 업체 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127019",
+   "posted_at": "2026-10-06",
+   "summary": "<p>중소벤처기업부 2026년 ‘K-뷰티 수출거점사업’의 중심인 제주 K-뷰티 글로벌 라운지 내 입점업체를 아래와 같이 모집하오니 희망업체는 기한 내 신청하여 주시기 바랍니다.&nbsp;</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;국내 중소 화장품기업(사업자등록 상 화장품 제조 또는 화장품책임판매업을 필한 기업)</p><p style=\"line-height: 1.8;\">- 신청분야 :&nbsp;화장품법 제2조에 따른 화장품(스킨, 앰플, 로션, 크림,",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "edu",
+    "market"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-19",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
+   "id": "a852e08203a1",
+   "institution": "과학기술정보통신부",
+   "institution_short": "과학기술정보통신부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 2차 우수연구개발 혁신제품 지정 기간연장(2차 연장) 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127011",
+   "posted_at": "2026-10-06",
+   "summary": "<p>「조달사업에 관한 법률 시행령」제33조 제3항 및 기획재정부 훈령 「혁신제품 지정 및 구매촉진 등에 관한 규정」제13조에 따라 아래와 같이 ‘2026년 제2차 우수연구개발 혁신제품 지정 기간연장(2차연장)’을 안내하오니, 지정기간 연장을 희망하는 기업은 관련 규정 및 아래의 내용을 반드시 확인하신 후 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;과기정통부 소관 기본 지정기간(3년)의 만료가 도래되는 혁신제품을 보유한 기업",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "tech"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-19",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
+   "id": "d136e01086d2",
+   "institution": "과학기술정보통신부",
+   "institution_short": "과학기술정보통신부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 2차 우수연구개발 혁신제품 지정 기간연장(1차 연장) 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127010",
+   "posted_at": "2026-10-06",
+   "summary": "<p>과학기술정보통신부 소관 국가연구개발사업을 통해 개발된 혁신제품의 공공조달 연계 활성화 및 판로구축 지원을 위한「2026년 제2차 우수연구개발 혁신제품 지정 기간연장(1차연장)」을 다음과 같이 공고하오니, 관심이 있는 기업은 안내에 따라 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;과기정통부 소관 기본 지정기간(3년)의 만료가 도래되는 혁신제품을 보유한 기업</p><p style=\"line-height: 1.8;\">아래의 ",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "tech"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-19",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
+   "id": "ea2b309a3a67",
+   "institution": "중소벤처기업부",
+   "institution_short": "중소벤처기업부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 4차 중소기업 CBAM대응 인프라구축 사업 참여기업 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126980",
+   "posted_at": "2026-10-06",
+   "summary": "<p>중소기업이 고도의 전문성을 요구하는 EU 탄소국경조정제도(CBAM)에 대응하여 수출경쟁력을 확보할 수 있도록 2026년도「중소기업 CBAM대응 인프라구축」사업의 수요기업을 다음과 같이 모집합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;EU로 CBAM 대상 품목(붙임1) 수출(희망) 중소기업</p><p style=\"line-height: 1.8;\">① 사업자등록증 상 업태에 ‘제조’가 포함되어 있으며, CBAM 대상 품목(붙임1)을 제조하는 ",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "market"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-19",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
    "needs_review": true,
    "type": "support"
   },
@@ -36372,6 +36957,38 @@
    "type": "support"
   },
   {
+   "id": "86f0adb6be04",
+   "institution": "국토교통부",
+   "institution_short": "국토교통부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "수성알파시티 기업 전용 5G 기반 통신망 서비스 지원 대상 기업 2차 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127015",
+   "posted_at": "2026-10-06",
+   "summary": "<p>국토교통부와 대구광역시에서 추진하는 「스마트도시 특화단지 조성사업」의 일환으로 미래형 실증도시 모델 구축을 위해 추진하는 '수성알파시티 기업 전용 5G 기반 통신망 서비스'를 활용할 대상 기업을 다음과 같이 모집(2차) 합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;스마트도시 서비스 및 개발 역량을 보유한 국내 법인사업자</p><p style=\"line-height: 1.8;\">※ 단, 실증은 대구 수성구 알파시티(스마트도시 특화단지) 내에",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "tech"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-27",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
    "id": "641bca96f544",
    "institution": "중소벤처기업부",
    "institution_short": "중소벤처기업부",
@@ -36435,6 +37052,79 @@
    "region": "제주 전역",
    "confidence": 0.5,
    "needs_review": true,
+   "type": "support"
+  },
+  {
+   "id": "28140adc6205",
+   "institution": "국토교통부",
+   "institution_short": "국토교통부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 한국도로공사 상생형 창업ㆍ벤처기업 지원사업 모집 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127016",
+   "posted_at": "2026-10-06",
+   "summary": "<p>한국도로공사와 재단법인 밴드는 도로교통 분야 우수 창업ㆍ벤처기업 발굴 및 사업화 자금지원 등을 통한 혁신 Start-up 육성을 위하여 다음과 같이 창업ㆍ벤처기업 지원 프로그램을 공고하오니 관련 기업의 많은 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;국토부에서 추진 중인 ‘10대 중점 육성분야’ 중 도로공사 업무와 관련있는 중소기업으로 창업 7년 이내의 기업 (예비 창업자 포함) 또는 벤처기업</p><p style=\"line-he",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "startup",
+    "fund"
+   ],
+   "company_types": [
+    "small_biz",
+    "startup",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-28",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false,
+   "type": "support"
+  },
+  {
+   "id": "3e1e00dd1758",
+   "institution": "중소벤처기업부",
+   "institution_short": "중소벤처기업부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 2차 한국무역보험공사 연계 수출지원프로그램 시행계획 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126981",
+   "posted_at": "2026-10-06",
+   "summary": "<p>중소기업 R&amp;D 수행기업의 수출 역량 강화를 위해 「2026년 제2차 한국무역보험공사 연계 수출지원프로그램」 시행계획을 다음과 같이 공고하오니, 참여하고자 하는 중소기업은 안내에 따라 신청바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 수출지원프로그램 선정 후 1년 내 수출 계획이 있는 중소기업 중 아래의 조건 하나 이상을 충족하는 기업</p><p style=\"line-height: 1.8;\">- 접수마감일 기준 최근 5년 이내에 중기부 소관",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "market",
+    "fund",
+    "loan",
+    "edu"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "grant",
+    "education",
+    "loan_guarantee"
+   ],
+   "apply_end": "2026-10-29",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.85,
+   "needs_review": false,
    "type": "support"
   },
   {
@@ -36928,6 +37618,72 @@
    "type": "support"
   },
   {
+   "id": "49c5b16c29a3",
+   "institution": "과학기술정보통신부",
+   "institution_short": "과학기술정보통신부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 고용노동부(안전보건공단) 연계 스마트 안전장비지원 품목 등록 시행계획 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127002",
+   "posted_at": "2026-10-06",
+   "summary": "<p>과학기술정보통신부와 정보통신산업진흥원은 과기정통부 지원 수행기업의 디지털 기반 안전 장비 및 서비스 판로지원을 위해「스마트 안전장비지원 품목 등록(Fast-Track) 시행계획」을 다음과 같이 공고하오니 많은 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;과기정통부 지원받은 사업(과제) 중 스마트 안전장비 해당 제품에 대해 ① 또는 ②가 충족하는 제품을 보유한 기업</p><p style=\"line-height: 1.8;\">① 접수마감",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "edu"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-10-30",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
+   "id": "c3b8a3591815",
+   "institution": "농림축산식품부",
+   "institution_short": "농림축산식품부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 농기자재 수출기업 우수사례 경진대회 참가기업 모집 공고(농산업 수출활성화사업)",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126998",
+   "posted_at": "2026-10-06",
+   "summary": "<p>한국농어촌공사(KRC)에서 국내 농기자재 수출 현장의 우수성을 공유 및 확산시키기 위하여‘ 2026 농기자재 수출기업 우수사례 경진대회’를 개최합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 2024년~2026년 농산업수출활성화사업 참가기업</p><p style=\"line-height: 1.8;\">- 8개 품목 : 농기계, 비료, 농약, 종자, 시설자재, 친환경농자재, 사료, 동물용의약품 등 8개 품목 수출기업</p><p><br></p><p style",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "edu",
+    "market",
+    "contest"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "contest"
+   ],
+   "apply_end": "2026-10-30",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.6,
+   "needs_review": false,
+   "type": "contest"
+  },
+  {
    "id": "85bbcde2c3c5",
    "institution": "산업통상부",
    "institution_short": "산업통상부",
@@ -37053,6 +37809,38 @@
     "grant"
    ],
    "apply_end": "2026-10-31",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
+   "id": "e013abfd462b",
+   "institution": "방위사업청",
+   "institution_short": "방위사업청",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2027년 민ㆍ군규격표준화사업 신규 연구개발과제 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127000",
+   "posted_at": "2026-10-06",
+   "summary": "<p>‘27년도 민ㆍ군규격표준화사업의 신규 연구개발과제 발굴을 위한 수요조사를 다음과 같이 실시하오니, 관심 있는 산ㆍ학ㆍ연ㆍ공공기관 및 군 관련기관의 많은 참여를 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;산ㆍ학ㆍ연ㆍ공공기관 및 군 관련기관</p><p style=\"line-height: 1.8;\">※ 자세한 지원대상 공고문 참조</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;군사부문과 비군사부문의",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "tech"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-11-02",
    "always_open": false,
    "age_min": null,
    "age_max": null,
@@ -37743,6 +38531,39 @@
    "gender": "무관",
    "region": "제주 전역",
    "confidence": 0.25,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
+   "id": "047df203ffc6",
+   "institution": "문화체육관광부",
+   "institution_short": "문화체육관광부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 제5차 기업부설창작연구소(전담부서) 인정신청 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126976",
+   "posted_at": "2026-10-06",
+   "summary": "<p>문화체육관광부와 한국콘텐츠진흥원에서는 ‘2026년 제5차 기업부설창작연구소(전담부서) 인정심의’를 다음과 같이 공고하오니 본 제도의 인정을 희망하는 기관(기업)은 관련 규정 및 절차에 따라 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 기업부설창작연구소(창작전담부서)의 설립 주체는 기업(개인기업 포함)으로, 영리활동을 수행하는 기관</p><p style=\"line-height: 1.8;\">- 창작연구소(전담부서)의 창작개발활동은 문",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "edu"
+   ],
+   "company_types": [
+    "small_biz",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-11-30",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.5,
    "needs_review": true,
    "type": "support"
   },
@@ -38753,7 +39574,7 @@
      "url": "https://www.jje.go.kr/pro/board/download.jje?boardId=BBS_0000652&menuCd=DOM_000000209001000000&paging=ok&startPage=1&dataSid=1476894&command=update&fileSid=1407732"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-07",
    "ev": 2,
    "sectors": [
@@ -38880,6 +39701,82 @@
    "age_max": null,
    "gender": "무관",
    "region": "제주 전역",
+   "confidence": 0.5,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
+   "id": "15ad8c0a3839",
+   "institution": "제주경제통상진흥원",
+   "institution_short": "JBA",
+   "group": 2,
+   "board": "사업공고",
+   "title": "기업별 수출 역량 맞춤형 마케팅 지원업",
+   "url": "https://www.jba.or.kr#menulink",
+   "posted_at": null,
+   "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-06",
+   "ev": 2,
+   "sectors": [
+    "employ",
+    "market",
+    "startup"
+   ],
+   "company_types": [
+    "small_biz",
+    "youth",
+    "startup",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": 19,
+   "age_max": 39,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.5,
+   "needs_review": true,
+   "type": "support"
+  },
+  {
+   "id": "15ad8c0a3839",
+   "institution": "제주경제통상진흥원",
+   "institution_short": "JBA",
+   "group": 2,
+   "board": "사업공고",
+   "title": "기업별 수출 역량 맞춤형 마케팅 지원업",
+   "url": "https://www.jba.or.kr?p=2#menulink",
+   "posted_at": null,
+   "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-06",
+   "ev": 2,
+   "sectors": [
+    "employ",
+    "market",
+    "startup"
+   ],
+   "company_types": [
+    "small_biz",
+    "youth",
+    "startup",
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": 19,
+   "age_max": 39,
+   "gender": "무관",
+   "region": "제주시",
    "confidence": 0.5,
    "needs_review": true,
    "type": "support"
@@ -47037,7 +47934,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1476919&command=update&fileSid=1407781"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-07",
    "ev": 2,
    "sectors": [
@@ -47075,7 +47972,7 @@
      "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12949&no=1"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-07",
    "ev": 2,
    "sectors": [
@@ -47113,7 +48010,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1476961&command=update&fileSid=1407872"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-07",
    "ev": 2,
    "sectors": [
@@ -47151,7 +48048,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1476955&command=update&fileSid=1407860"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-07",
    "ev": 2,
    "sectors": [
@@ -47184,7 +48081,7 @@
    "posted_at": "2026-08-07",
    "summary": "<p>해외 수출 또는 수출 준비 중인 우리 중소ㆍ중견 기업의 해외 지재권 권리확보 및 지재권 분쟁ㆍ침해 초기대응을 위한 해외 지재권 지원사업을 다음과 같이 공고합니다.</p><p><br></p><p>☞&nbsp; 대한민국에 사업자로 등록이 되어 있고, 국세 및 지방세 체납이 없는 현지 수출 또는 수출 준비 중인 중소ㆍ중견기업(개인사업자 포함)</p><p><br></p><p>☞&nbsp;권리확보(해외 출원) 지원, 분쟁ㆍ침해 초기대응 지원,&nbsp;심층 법률자문 지원(무료)</p>",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-07",
    "sectors": [
     "market",
@@ -47258,7 +48155,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000507&menuCd=DOM_000000103003009000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1476962&command=update&fileSid=1407877"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-08",
    "ev": 2,
    "sectors": [
@@ -56061,6 +56958,38 @@
    "confidence": 0.85,
    "needs_review": false,
    "type": "contest"
+  },
+  {
+   "id": "0c210e4b9249",
+   "institution": "산업통상부",
+   "institution_short": "산업통상부",
+   "group": 6,
+   "board": "기업마당",
+   "title": "2026년 2차 산업 분야 온실가스 국제감축사업 공고",
+   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126997",
+   "posted_at": "2026-10-06",
+   "summary": "<p>국가 온실가스 감축목표 달성을 위한「2026년 온실가스 국제감축사업」을 공고하오니, 동 사업에 지원할 자격과 역량을 갖춘 우리 기업(국내 법인 또는 기관)은 절차 및 관련 규정에 따라 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;운영지침 제2조에 따른「국내법인 또는 기관」</p><p style=\"line-height: 1.8;\">※ 자세한 지원대상 공고문 참조</p><p><br></p><p style=\"line-heigh",
+   "attachments": [],
+   "status": "open",
+   "crawled_at": "2026-10-07",
+   "sectors": [
+    "edu"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.25,
+   "needs_review": true,
+   "type": "support"
   }
  ]
 }
