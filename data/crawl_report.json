@@ -1,10 +1,10 @@
 {
- "run_at": "2026-10-19T23:50:26",
+ "run_at": "2026-10-20T23:16:53",
  "results": [
   {
    "institution": "jto",
    "found": 55,
-   "new": 18,
+   "new": 16,
    "errors": []
   },
   {
@@ -54,7 +54,7 @@
   {
    "institution": "jiles",
    "found": 13,
-   "new": 1,
+   "new": 2,
    "errors": []
   },
   {
@@ -62,7 +62,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 369자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 368자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -70,13 +70,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 404자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 403자, title='no-title', 링크 0개"
    ]
   },
   {
    "institution": "jjedu",
-   "found": 26,
-   "new": 6,
+   "found": 28,
+   "new": 5,
    "errors": []
   },
   {
@@ -84,7 +84,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 404자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 403자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -129,8 +129,8 @@
   },
   {
    "institution": "jejucci",
-   "found": 2,
-   "new": 0,
+   "found": 4,
+   "new": 2,
    "errors": []
   },
   {
@@ -155,8 +155,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 90,
-   "new": 10,
+   "found": 89,
+   "new": 7,
    "errors": []
   },
   {
