@@ -1,10 +1,10 @@
 {
- "run_at": "2026-10-23T23:18:01",
+ "run_at": "2026-10-24T22:37:02",
  "results": [
   {
    "institution": "jto",
    "found": 52,
-   "new": 21,
+   "new": 16,
    "errors": []
   },
   {
@@ -75,8 +75,8 @@
   },
   {
    "institution": "jjedu",
-   "found": 30,
-   "new": 6,
+   "found": 0,
+   "new": 0,
    "errors": []
   },
   {
@@ -156,7 +156,7 @@
   {
    "institution": "bizinfo",
    "found": 98,
-   "new": 10,
+   "new": 0,
    "errors": []
   },
   {
