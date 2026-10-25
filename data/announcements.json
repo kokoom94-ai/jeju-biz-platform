@@ -1,43 +1,6 @@
 {
- "updated_at": "2026-10-24T22:43:11",
+ "updated_at": "2026-10-25T22:54:25",
  "items": [
-  {
-   "id": "c630d392633b",
-   "institution": "농림축산식품부",
-   "institution_short": "농림축산식품부",
-   "group": 6,
-   "board": "기업마당",
-   "title": "2026년 농식품 데이터 활용 컨설팅 및 구매 지원사업 공고",
-   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123759",
-   "posted_at": "2026-06-30",
-   "summary": "<p>데이터 활용 수요와 성장 가능성을 보유한 기업을 대상으로 농식품 빅데이터 거래소(이하 “KADX”) 데이터 이용 활성화와 데이터 기반 비즈니스 혁신을 도모하기 위한 「2026년 농식품 데이터 활용 컨설팅 및 구매 지원사업」 참여기업을 아래와 같이 모집하오니 많은 신청 바랍니다.</p><p><br></p><p>☞&nbsp;농식품 데이터를 활용하여 신규 비즈니스 창출을 추진하고자 하는 중견(초기)ㆍ중소기업, 소상공인</p><p><br></p><p style=\"line-height: 1.8;\">☞",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-07-06",
-   "company_types": [
-    "small_biz",
-    "general"
-   ],
-   "biz_types": [
-    "grant",
-    "bid",
-    "education"
-   ],
-   "apply_end": "2026-07-26",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 0.85,
-   "needs_review": false,
-   "sectors": [
-    "edu",
-    "fund",
-    "bid"
-   ],
-   "type": "support"
-  },
   {
    "id": "111938d363c3",
    "institution": "산업통상부",
@@ -52307,7 +52270,7 @@
    "posted_at": "2026-08-25",
    "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-25",
    "ev": 2,
    "sectors": [
@@ -52348,7 +52311,7 @@
      "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12969&no=1"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-25",
    "ev": 2,
    "sectors": [
@@ -52386,7 +52349,7 @@
      "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=12968&no=1"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-08-25",
    "ev": 2,
    "sectors": [

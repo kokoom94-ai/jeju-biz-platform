@@ -1,10 +1,10 @@
 {
- "run_at": "2026-10-24T22:37:02",
+ "run_at": "2026-10-25T22:43:29",
  "results": [
   {
    "institution": "jto",
    "found": 52,
-   "new": 16,
+   "new": 15,
    "errors": []
   },
   {
@@ -75,7 +75,7 @@
   },
   {
    "institution": "jjedu",
-   "found": 0,
+   "found": 30,
    "new": 0,
    "errors": []
   },
@@ -155,9 +155,11 @@
   },
   {
    "institution": "bizinfo",
-   "found": 98,
+   "found": 0,
    "new": 0,
-   "errors": []
+   "errors": [
+    "3회 재시도 실패 — ConnectTimeout: timed out"
+   ]
   },
   {
    "institution": "g2b",
@@ -165,9 +167,9 @@
    "new": 0,
    "errors": [
     "작동하는 API 경로 조합 없음 — 아래 조합별 응답 참조",
-    "BidPublicInfoService/PPSSrch: RuntimeError HTTP 403 :: {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\"",
-    "BidPublicInfoService: RuntimeError HTTP 403 :: {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"SERVICE_KEY_IS_NOT_REGISTERED_ERROR\"",
-    "BidPublicInfoService04/PPSSrch: RuntimeError HTTP 400 :: {\n  \"OpenAPI_ServiceResponse\": {\n    \"cmmMsgHeader\": {\n      \"errMsg\": \"NO_OPENAPI_SERVICE_ERROR\",\n      \"re"
+    "BidPublicInfoService/PPSSrch: ConnectTimeout timed out",
+    "BidPublicInfoService: ConnectTimeout timed out",
+    "BidPublicInfoService04/PPSSrch: ConnectTimeout timed out"
    ]
   }
  ]
