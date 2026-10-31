@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T00:02:04",
+ "updated_at": "2026-10-31T23:37:08",
  "items": [
   {
    "id": "7a002766fb27",
@@ -37680,9 +37680,7 @@
    "status": "open",
    "crawled_at": "2026-10-31",
    "sectors": [
-    "tech",
-    "market",
-    "edu"
+    "tech"
    ],
    "company_types": [
     "small_biz",
