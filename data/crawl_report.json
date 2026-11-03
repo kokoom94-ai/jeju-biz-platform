@@ -1,16 +1,16 @@
 {
- "run_at": "2026-11-01T23:43:50",
+ "run_at": "2026-11-03T02:31:19",
  "results": [
   {
    "institution": "jto",
-   "found": 52,
-   "new": 15,
+   "found": 50,
+   "new": 17,
    "errors": []
   },
   {
    "institution": "jec",
-   "found": 4,
-   "new": 4,
+   "found": 3,
+   "new": 2,
    "errors": []
   },
   {
@@ -24,7 +24,7 @@
   {
    "institution": "jba",
    "found": 26,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -40,7 +40,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 155471자, title='제주연구원', 링크 383개"
+    "공지사항: 0건 진단: 응답 155440자, title='제주연구원', 링크 383개"
    ]
   },
   {
@@ -51,8 +51,8 @@
   },
   {
    "institution": "jiles",
-   "found": 16,
-   "new": 0,
+   "found": 14,
+   "new": 1,
    "errors": []
   },
   {
@@ -73,8 +73,8 @@
   },
   {
    "institution": "jjedu",
-   "found": 34,
-   "new": 0,
+   "found": 32,
+   "new": 8,
    "errors": []
   },
   {
@@ -121,14 +121,14 @@
   },
   {
    "institution": "jta",
-   "found": 13,
+   "found": 12,
    "new": 2,
    "errors": []
   },
   {
    "institution": "jejucci",
-   "found": 5,
-   "new": 0,
+   "found": 6,
+   "new": 1,
    "errors": []
   },
   {
@@ -153,8 +153,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 83,
-   "new": 0,
+   "found": 81,
+   "new": 7,
    "errors": []
   },
   {
