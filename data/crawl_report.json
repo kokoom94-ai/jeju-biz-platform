@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-04T00:46:17",
+ "run_at": "2026-11-05T00:57:48",
  "results": [
   {
    "institution": "jto",
@@ -40,7 +40,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 155382자, title='제주연구원', 링크 383개"
+    "공지사항: 0건 진단: 응답 151762자, title='제주연구원', 링크 382개"
    ]
   },
   {
@@ -52,7 +52,7 @@
   {
    "institution": "jiles",
    "found": 14,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -60,7 +60,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 365자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 366자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -68,13 +68,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 400자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 401자, title='no-title', 링크 0개"
    ]
   },
   {
    "institution": "jjedu",
    "found": 30,
-   "new": 5,
+   "new": 6,
    "errors": []
   },
   {
@@ -82,7 +82,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 400자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 401자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -96,7 +96,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 153113자, title='제주창조경제혁신센터', 링크 47개"
+    "사업공고: 0건 진단: 응답 153111자, title='제주창조경제혁신센터', 링크 47개"
    ]
   },
   {
@@ -135,9 +135,7 @@
    "institution": "kbizjeju",
    "found": 0,
    "new": 0,
-   "errors": [
-    "공지사항: 0건 진단: 응답 71자, title='no-title', 링크 0개"
-   ]
+   "errors": []
   },
   {
    "institution": "jejurise",
@@ -154,7 +152,7 @@
   {
    "institution": "bizinfo",
    "found": 79,
-   "new": 6,
+   "new": 7,
    "errors": []
   },
   {
