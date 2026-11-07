@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-07T00:11:03",
+ "run_at": "2026-11-07T23:46:43",
  "results": [
   {
    "institution": "jto",
@@ -73,8 +73,8 @@
   },
   {
    "institution": "jjedu",
-   "found": 26,
-   "new": 0,
+   "found": 28,
+   "new": 2,
    "errors": []
   },
   {
@@ -96,7 +96,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 151874자, title='제주창조경제혁신센터', 링크 47개"
+    "사업공고: 0건 진단: 응답 151875자, title='제주창조경제혁신센터', 링크 47개"
    ]
   },
   {
@@ -122,7 +122,7 @@
   {
    "institution": "jta",
    "found": 13,
-   "new": 4,
+   "new": 2,
    "errors": []
   },
   {
@@ -154,7 +154,7 @@
   {
    "institution": "bizinfo",
    "found": 81,
-   "new": 10,
+   "new": 0,
    "errors": []
   },
   {
