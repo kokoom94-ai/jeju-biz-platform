@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-06T01:01:38",
+ "run_at": "2026-11-07T00:11:03",
  "results": [
   {
    "institution": "jto",
@@ -24,7 +24,7 @@
   {
    "institution": "jba",
    "found": 25,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -74,7 +74,7 @@
   {
    "institution": "jjedu",
    "found": 26,
-   "new": 5,
+   "new": 0,
    "errors": []
   },
   {
@@ -121,8 +121,8 @@
   },
   {
    "institution": "jta",
-   "found": 11,
-   "new": 2,
+   "found": 13,
+   "new": 4,
    "errors": []
   },
   {
@@ -153,8 +153,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 73,
-   "new": 7,
+   "found": 81,
+   "new": 10,
    "errors": []
   },
   {
