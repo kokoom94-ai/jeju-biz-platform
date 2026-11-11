@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-10T02:49:51",
+ "run_at": "2026-11-11T00:45:25",
  "results": [
   {
    "institution": "jto",
@@ -10,7 +10,7 @@
   {
    "institution": "jec",
    "found": 3,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -24,7 +24,7 @@
   {
    "institution": "jba",
    "found": 25,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -40,7 +40,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 151931자, title='제주연구원', 링크 382개"
+    "공지사항: 0건 진단: 응답 151854자, title='제주연구원', 링크 382개"
    ]
   },
   {
@@ -52,7 +52,7 @@
   {
    "institution": "jiles",
    "found": 18,
-   "new": 4,
+   "new": 0,
    "errors": []
   },
   {
@@ -60,7 +60,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 368자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 367자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -68,13 +68,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 403자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 402자, title='no-title', 링크 0개"
    ]
   },
   {
    "institution": "jjedu",
-   "found": 24,
-   "new": 5,
+   "found": 22,
+   "new": 2,
    "errors": []
   },
   {
@@ -82,7 +82,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 403자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 402자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -96,7 +96,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 151874자, title='제주창조경제혁신센터', 링크 47개"
+    "사업공고: 0건 진단: 응답 151875자, title='제주창조경제혁신센터', 링크 47개"
    ]
   },
   {
@@ -115,29 +115,27 @@
   },
   {
    "institution": "nosa",
-   "found": 2,
+   "found": 0,
    "new": 0,
    "errors": []
   },
   {
    "institution": "jta",
    "found": 12,
-   "new": 2,
+   "new": 3,
    "errors": []
   },
   {
    "institution": "jejucci",
    "found": 7,
-   "new": 2,
+   "new": 0,
    "errors": []
   },
   {
    "institution": "kbizjeju",
    "found": 0,
    "new": 0,
-   "errors": [
-    "공지사항: 0건 진단: 응답 71자, title='no-title', 링크 0개"
-   ]
+   "errors": []
   },
   {
    "institution": "jejurise",
@@ -153,8 +151,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 75,
-   "new": 6,
+   "found": 70,
+   "new": 5,
    "errors": []
   },
   {
