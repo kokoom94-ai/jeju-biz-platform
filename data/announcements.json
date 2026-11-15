@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T01:02:38",
+ "updated_at": "2026-11-15T00:07:32",
  "items": [
   {
    "id": "aa3e1b6945ab",
@@ -34000,7 +34000,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1486233&command=update&fileSid=1422366"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-11-14",
    "ev": 2,
    "sectors": [
@@ -37175,7 +37175,6 @@
    "crawled_at": "2026-11-14",
    "sectors": [
     "startup",
-    "market",
     "contest"
    ],
    "company_types": [
@@ -52832,7 +52831,7 @@
      "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=13034&no=2"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-15",
    "ev": 2,
    "sectors": [
@@ -52882,7 +52881,7 @@
      "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59503&no=2"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-15",
    "ev": 2,
    "sectors": [
@@ -52933,7 +52932,7 @@
      "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59502&no=2"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-15",
    "ev": 2,
    "sectors": [
@@ -52967,7 +52966,7 @@
    "posted_at": "2026-09-15",
    "summary": "패밀리사이트\n패밀리 사이트 더보기\n대한상공회의소\n자격평가\n무역인증\n싱글PPM\nPL공제\n중국한국상회\n코참차이나\n베트남사무소\n지속가능경영원\n유통물류진흥원\n코리안넷\n전국규제지도\n산업혁신운동\n농식품 상생협력 추진본부\n기업활력법 종합포털\n인력개발원 HRD포털\n중소기업 청년취업인턴제\n중장년 일자리 희망센터\n중견인력 재취업지원\n직업기초능력평가\n산업체 우수강사\n서울지역 인적자원 개발위원회\n로그인\n회원가입\n사이트맵\n모바일 메뉴 열림\n닫기\n새소식\n공지사항\n새소식\n공지사항\n공지사항 상세보기\n제목\n(알림) 제주창조경제",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-15",
    "ev": 2,
    "sectors": [
