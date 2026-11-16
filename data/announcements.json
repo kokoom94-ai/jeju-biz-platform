@@ -1,41 +1,6 @@
 {
- "updated_at": "2026-11-15T00:07:32",
+ "updated_at": "2026-11-16T00:14:07",
  "items": [
-  {
-   "id": "aa3e1b6945ab",
-   "institution": "문화체육관광부",
-   "institution_short": "문화체육관광부",
-   "group": 6,
-   "board": "기업마당",
-   "title": "2026년 문화체육관광 연구개발사업 기술사업화 및 글로벌 전시 참가기업 모집 공고",
-   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125176",
-   "posted_at": "2026-08-06",
-   "summary": "<p>문화체육관광부와 한국콘텐츠진흥원 부설 한국문화기술기획평가원은 기술사업화 및 글로벌 전시 지원사업을 통해 문화기술 경쟁력 강화 및 해외 진출 기반을 마련하고자 참가기업을 모집하오니 많은 신청 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;우수 R&amp;D 기술을 보유한 중소기업 및 창업기업</p><p style=\"line-height: 1.8;\">- 문화체육관광 분야 연구개발사업(과제) 수행 경험이 있는 중소기업 및 창업기업</p><p s",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-08-07",
-   "sectors": [
-    "tech",
-    "startup"
-   ],
-   "company_types": [
-    "small_biz",
-    "startup",
-    "general"
-   ],
-   "biz_types": [
-    "grant"
-   ],
-   "apply_end": "2026-08-17",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 0.5,
-   "needs_review": true,
-   "type": "support"
-  },
   {
    "id": "306538e0f65d",
    "institution": "과학기술정보통신부",
@@ -34033,7 +33998,7 @@
    "posted_at": "2026-10-19",
    "summary": "<p>나노반도체 연구성과 실용화 지원사업(내역사업명)의 2027도 신규과제 선정계획을 아래와 같이 공고하오니 직원 및 나노기업 분들의 많은 관심과 참여 바랍니다.</p><p><br></p><p>☞&nbsp;벤처기업 및 중소기업</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;시제품 기술개발 및 양산시제품 제작 지원</p><p style=\"line-height: 1.8;\">※ 자세한 지원내용 공고문 참조</p>",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-10-19",
    "sectors": [
     "tech",
@@ -34432,6 +34397,44 @@
    ],
    "status": "open",
    "crawled_at": "2026-11-06",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": "2026-11-16",
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주 전역",
+   "confidence": 0.4,
+   "needs_review": true,
+   "type": "hiring"
+  },
+  {
+   "id": "fc3d0d2354fc",
+   "institution": "제주특별자치도교육청",
+   "institution_short": "교육청",
+   "group": 3,
+   "board": "교육청공고",
+   "title": "2026학년도 겨울방학 중 아침돌봄인력 채용 공고",
+   "url": "https://www.jje.go.kr/board/view.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE%20DESC&paging=ok&startPage=1&dataSid=1486274",
+   "posted_at": "2026-11-16",
+   "summary": "채용정보\n홈\n뉴스/소식\n채용·시험정보\n채용정보\nsns목록\n카카오톡\n페이스북\n트위터\n블로그\n닫기\n인쇄하기\n2026학년도 겨울방학 중 아침돌봄인력 채용 공고 채용공고 상세정보\n제목\n2026학년도 겨울방학 중 아침돌봄인력 채용 공고\n학교(부서)명\n동광초등학교\n작성일\n2026-11-16\n공고구분\n채용공고\n연락처\n064)729-5893\n직종구분\n기타\n접수상태\n접수중\n※ 접수상태는 참고용이며, 정확한 접수 마감일시는 공고문을 확인하시기 바랍니다.\n채용인원\n1 명\n담당과목(업무)\n아침돌봄인력\n접수기간\n2026",
+   "attachments": [
+    {
+     "name": "2026학년도 겨울방학 중 아침돌봄인력 채용 공고.hwpx (80 kb)",
+     "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000985&menuCd=DOM_000000103003010000&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1486274&command=update&fileSid=1422492"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-11-16",
    "ev": 2,
    "sectors": [
     "etc"
@@ -53025,7 +53028,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1481626&command=update&fileSid=1413190"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-16",
    "ev": 2,
    "sectors": [
@@ -53079,7 +53082,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1481625&command=update&fileSid=1413185"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-16",
    "ev": 2,
    "sectors": [
@@ -53133,7 +53136,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1481623&command=update&fileSid=1413179"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-16",
    "ev": 2,
    "sectors": [
@@ -53187,7 +53190,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1481621&command=update&fileSid=1413169"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-16",
    "ev": 2,
    "sectors": [
@@ -53241,7 +53244,7 @@
      "url": "https://www.jje.go.kr/board/download.jje?boardId=BBS_0000087&menuCd=DOM_000000105003002001&orderBy=REGISTER_DATE DESC&paging=ok&startPage=1&dataSid=1481619&command=update&fileSid=1413163"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-16",
    "ev": 2,
    "sectors": [
@@ -53283,7 +53286,7 @@
      "url": "https://visitjeju.or.kr/comm/notice.htm?act=download&seq=59508&no=1"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-16",
    "ev": 2,
    "sectors": [
@@ -53316,7 +53319,7 @@
    "posted_at": "2026-09-16",
    "summary": "<p>지역서점의 경쟁력을 강화하여 서점이 지역사회와 긴밀하게 연결된 독서 문화 공간으로 자리 잡을 수 있도록「2026년 권역별 선도서점 육성 사업 컨설팅 참여서점 모집」을 다음과 같이 공고합니다. 지역서점 관계자 여러분의 많은 관심과 참여를 부탁드립니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 아래 2가지 조건 모두 충족</p><p style=\"line-height: 1.8;\">① 「출판문화산업 진흥법」제7조의2에 따른 지역서점의 요건을 갖추고, 정상적으로",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-16",
    "sectors": [
     "edu"
@@ -53382,7 +53385,7 @@
    "posted_at": "2026-09-16",
    "summary": "본문 바로가기\n주메뉴 바로가기\n우측 퀵메뉴 바로가기\n로그인\n회원가입\n도민과의 소통\n부패·공익 신고\n비대면 자금신청\n주메뉴\n사업안내\n사업안내\n판로지원\n수출지원\n자금지원\n중·소상공인지원\n창업지원\n제품인증지원\n일자리지원\n디자인지원\n물류지원\n알림마당\n알림마당\n사업공고\n채용공고\n언론보도\n유관기관소식\n소통과참여\n소통과참여\n도민과의소통\n부패‧공익신고\n성희롱/성폭력 사이버신고센터\n인권침해신고센터\n진흥원소개\n진흥원소개\n인사말\n역대원장\n연혁\nCI소개\n조직도\n오시는 길\n회의장/시설안내\n패밀리사이트\n열린경영\n열린경영\n",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-17",
    "ev": 2,
    "sectors": [
@@ -60535,6 +60538,44 @@
    "confidence": 0.6,
    "needs_review": false,
    "type": "bid"
+  },
+  {
+   "id": "dd378da9cdda",
+   "institution": "제주평생교육장학진흥원",
+   "institution_short": "JILES",
+   "group": 2,
+   "board": "공지사항",
+   "title": "[모집공고] 2026년 탐나는5060인생학교 집중탐구 특별과정「응답하라 5060!인스타그램과 카카오톡 배우기」수강생 모집 안내",
+   "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=view&seq=13184",
+   "posted_at": "2026-11-16",
+   "summary": "제주특별자치도 제주시 서사로43(삼도이동) (재)제주평생교육장학진흥원\nTel_064-744-9852 ㅣ Fax_064-726-9961 ㅣ E-mail_ webmaster@jiles.or.kr\nCopyright ⓒ 재단법인 제주평생교육장학진흥원. All rights reserved.",
+   "attachments": [
+    {
+     "name": "붙임1_공고문(응답하라5060!인스타그램과 카카오톡 배우기).pdf (269 KBytes)",
+     "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=13184&no=1"
+    }
+   ],
+   "status": "open",
+   "crawled_at": "2026-11-16",
+   "ev": 2,
+   "sectors": [
+    "etc"
+   ],
+   "company_types": [
+    "general"
+   ],
+   "biz_types": [
+    "grant"
+   ],
+   "apply_end": null,
+   "always_open": false,
+   "age_min": null,
+   "age_max": null,
+   "gender": "무관",
+   "region": "제주시",
+   "confidence": 0.25,
+   "needs_review": true,
+   "type": "recruit"
   }
  ]
 }
