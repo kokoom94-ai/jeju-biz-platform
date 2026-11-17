@@ -1,9 +1,9 @@
 {
- "run_at": "2026-11-16T00:08:35",
+ "run_at": "2026-11-17T03:01:27",
  "results": [
   {
    "institution": "jto",
-   "found": 47,
+   "found": 46,
    "new": 15,
    "errors": []
   },
@@ -24,7 +24,7 @@
   {
    "institution": "jba",
    "found": 25,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -40,13 +40,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 151739자, title='제주연구원', 링크 382개"
+    "공지사항: 0건 진단: 응답 151964자, title='제주연구원', 링크 382개"
    ]
   },
   {
    "institution": "jwfri",
-   "found": 2,
-   "new": 0,
+   "found": 3,
+   "new": 1,
    "errors": []
   },
   {
@@ -74,7 +74,7 @@
   {
    "institution": "jjedu",
    "found": 34,
-   "new": 1,
+   "new": 7,
    "errors": []
   },
   {
@@ -96,7 +96,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 151876자, title='제주창조경제혁신센터', 링크 47개"
+    "사업공고: 0건 진단: 응답 151873자, title='제주창조경제혁신센터', 링크 47개"
    ]
   },
   {
@@ -121,8 +121,8 @@
   },
   {
    "institution": "jta",
-   "found": 13,
-   "new": 2,
+   "found": 14,
+   "new": 4,
    "errors": []
   },
   {
@@ -153,8 +153,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 75,
-   "new": 0,
+   "found": 69,
+   "new": 3,
    "errors": []
   },
   {
