@@ -1,139 +1,6 @@
 {
- "updated_at": "2026-11-21T01:44:04",
+ "updated_at": "2026-11-22T00:38:40",
  "items": [
-  {
-   "id": "f6d3b98a354e",
-   "institution": "산업통상부",
-   "institution_short": "산업통상부",
-   "group": 6,
-   "board": "기업마당",
-   "title": "2026년 KOTRA-이베이재팬(큐텐재팬) 파워셀러 1단계 입점교육 4기 참가기업 모집 공고",
-   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125041",
-   "posted_at": "2026-08-04",
-   "summary": "<p>KOTRA는 온라인 수출 지원 수요 증가에 대응하여 유망 소비재 기업의 글로벌 온라인 유통망 입점부터 생존, 파워셀러로 성장하는 전 과정을 지원하는「2026 KOTRA 이베이재팬(큐텐재팬) 파워셀러 육성사업 1단계 입점교육 4기」를 모집합니다. 아래와 같이 참가기업을 모집하오니 관심 기업의 많은 신청 부탁드립니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 큐텐재팬 계정 미보유 기업 혹은 큐텐재팬 연 판매액 1천만엔(약 1억원) 미만 기업 중 기초 입점 ",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-08-05",
-   "sectors": [
-    "market"
-   ],
-   "company_types": [
-    "general"
-   ],
-   "biz_types": [
-    "grant"
-   ],
-   "apply_end": "2026-08-23",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 0.25,
-   "needs_review": true,
-   "type": "support"
-  },
-  {
-   "id": "3dc1c3714db4",
-   "institution": "산업통상부",
-   "institution_short": "산업통상부",
-   "group": 6,
-   "board": "기업마당",
-   "title": "2026년 KOTRA-월마트 파워셀러 1단계 3기 입점교육 참가기업 모집 공고",
-   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125040",
-   "posted_at": "2026-08-04",
-   "summary": "<p>KOTRA는 온라인 수출 지원 수요 증가에 대응하여 유망 소비재 기업의 글로벌 온라인 유통망 입점부터 생존, 파워셀러로 성장하는 전 과정을 지원하는「2026 KOTRA-월마트 파워셀러 육성사업 1단계 입점교육 3기」를 모집합니다. 아래와 같이 참가기업을 모집하오니 관심 기업의 많은 신청 부탁드립니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 월마트 계정 미보유 기업 혹은 월마트 계정은 보유하고 있으나 판매를 시행하고 있지 않은 기업 중, 기초 입점 및 ",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-08-05",
-   "sectors": [
-    "market"
-   ],
-   "company_types": [
-    "general"
-   ],
-   "biz_types": [
-    "grant"
-   ],
-   "apply_end": "2026-08-23",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 0.25,
-   "needs_review": true,
-   "type": "support"
-  },
-  {
-   "id": "d7dc34174887",
-   "institution": "산림청",
-   "institution_short": "산림청",
-   "group": 6,
-   "board": "기업마당",
-   "title": "2026년 산림분야 지식재산권 우수기술 사업화 지원사업 공고",
-   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125220",
-   "posted_at": "2026-08-07",
-   "summary": "<p>산림분야의 우수 지식재산권을 발굴하고, 임업 기술의 실용화 및 산업 경쟁력 강화를 도모하고자 「2026년 산림분야 지식재산권 우수기술 사업화 지원사업」을 다음과 같이 공고하오니, 관련 임산업체 여러분의 많은 관심과 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;산림분야 등록특허ㆍ실용신안 기술을 활용한 제품 판매 예정 또는 판매 중인 임산업체</p><p style=\"line-height: 1.8;\">※&nbsp;등록특허ㆍ실용신안을 자체",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-08-07",
-   "sectors": [
-    "tech",
-    "fund"
-   ],
-   "company_types": [
-    "social_ent"
-   ],
-   "biz_types": [
-    "grant",
-    "education"
-   ],
-   "apply_end": "2026-08-23",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 0.85,
-   "needs_review": false,
-   "type": "support"
-  },
-  {
-   "id": "930ddbd1cada",
-   "institution": "산림청",
-   "institution_short": "산림청",
-   "group": 6,
-   "board": "기업마당",
-   "title": "2026년 산림분야 지식재산권 출원 지원사업 공고",
-   "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125219",
-   "posted_at": "2026-08-07",
-   "summary": "<p>산림분야의 지식재산권 창출을 촉진하고 임업기술의 실용화 및 경쟁력 강화를 위한 지원사업을 다음과 같이 공고하오니, 관심 있는 분들의 많은 참여 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;임업인 또는 임산업체</p><p style=\"line-height: 1.8;\">※ 단, 산림형(예비)사회적기업, 산림분야 국유특허 기술이전기업, 산림청 혁신제품 보유기업 등은 별도의증빙서류를제출하는경우, 예외적으로인정</p><p><br></p><p st",
-   "attachments": [],
-   "status": "closed",
-   "crawled_at": "2026-08-07",
-   "sectors": [
-    "tech",
-    "fund"
-   ],
-   "company_types": [
-    "social_ent",
-    "farmer_fisher"
-   ],
-   "biz_types": [
-    "grant",
-    "education"
-   ],
-   "apply_end": "2026-08-23",
-   "always_open": false,
-   "age_min": null,
-   "age_max": null,
-   "gender": "무관",
-   "region": "제주 전역",
-   "confidence": 0.85,
-   "needs_review": false,
-   "type": "support"
-  },
   {
    "id": "9f8ec62b1c33",
    "institution": "중소벤처기업부",
@@ -33598,7 +33465,7 @@
    "posted_at": "2026-11-10",
    "summary": "<p>「미래자동차 부품산업의 전환촉진 및 생태계 육성에 관한 특별법」 제13조 및 같은 법 시행령 제12조에 따라 미래자동차 산업 생태계를 견인할 전문기업을 발굴ㆍ지원하기 위해 「미래자동차 부품 전문기업」 지정 신청을 다음과 같이 공고합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 다음의 요건을 모두 갖춘 기업</p><p style=\"line-height: 1.8;\">① 신청일이 속하는 분기의 직전 4개 분기1) 총매출액 중 미래자동차 부품2) 매출액 비율",
    "attachments": [],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-11-11",
    "sectors": [
     "edu"
@@ -34199,8 +34066,7 @@
    "status": "open",
    "crawled_at": "2026-11-21",
    "sectors": [
-    "tech",
-    "startup"
+    "tech"
    ],
    "company_types": [
     "small_biz",
@@ -36057,8 +35923,7 @@
    "status": "open",
    "crawled_at": "2026-11-21",
    "sectors": [
-    "edu",
-    "fund"
+    "edu"
    ],
    "company_types": [
     "general"
@@ -53413,7 +53278,7 @@
      "url": "https://www.jiles.or.kr/community/notice/notice.htm?act=download&seq=13054&no=1"
     }
    ],
-   "status": "open",
+   "status": "closed",
    "crawled_at": "2026-09-22",
    "ev": 2,
    "sectors": [
