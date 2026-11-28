@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T03:01:10",
+ "run_at": "2026-11-28T02:52:21",
  "results": [
   {
    "institution": "jto",
@@ -18,7 +18,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "사업공고: 0건 진단: 응답 67527자, title='JTP 제주테크노파크', 링크 32개"
+    "사업공고: 0건 진단: 응답 67561자, title='JTP 제주테크노파크', 링크 32개"
    ]
   },
   {
@@ -40,7 +40,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지사항: 0건 진단: 응답 151885자, title='제주연구원', 링크 382개"
+    "공지사항: 0건 진단: 응답 151769자, title='제주연구원', 링크 382개"
    ]
   },
   {
@@ -51,8 +51,8 @@
   },
   {
    "institution": "jiles",
-   "found": 13,
-   "new": 1,
+   "found": 12,
+   "new": 0,
    "errors": []
   },
   {
@@ -60,7 +60,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 367자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 366자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -68,13 +68,13 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "고시공고: 0건 진단: 응답 402자, title='no-title', 링크 0개"
+    "고시공고: 0건 진단: 응답 401자, title='no-title', 링크 0개"
    ]
   },
   {
    "institution": "jjedu",
    "found": 34,
-   "new": 6,
+   "new": 8,
    "errors": []
   },
   {
@@ -82,7 +82,7 @@
    "found": 0,
    "new": 0,
    "errors": [
-    "공지·입찰: 0건 진단: 응답 402자, title='no-title', 링크 0개"
+    "공지·입찰: 0건 진단: 응답 401자, title='no-title', 링크 0개"
    ]
   },
   {
@@ -128,7 +128,7 @@
   {
    "institution": "jejucci",
    "found": 6,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -153,8 +153,8 @@
   },
   {
    "institution": "bizinfo",
-   "found": 67,
-   "new": 6,
+   "found": 70,
+   "new": 3,
    "errors": []
   },
   {
